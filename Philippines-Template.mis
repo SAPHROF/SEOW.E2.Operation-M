@@ -1,0 +1,927 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 12.000002
+  CloudType 0
+  CloudHeight 1000.0
+  army 1
+  playerNum 0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 8
+[WEATHER]
+  WindDirection 0.0
+  WindSpeed 0.0
+  Gust 0
+  Turbulence 0
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 0
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 100
+  MDS_Radar_ShipRadar_MinHeight 100
+  MDS_Radar_ShipRadar_MaxHeight 5000
+  MDS_Radar_ShipSmallRadar_MaxRange 25
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 2000
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 1500
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 0
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 0
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 0
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 1.0
+[RespawnTime]
+  Bigship 1800
+  Ship 1800
+  Aeroanchored 1800
+  Artillery 1800
+  Searchlight 1800
+[Chiefs]
+  0_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
+  1_Chief Ships.USSMcKean 1 0 2 1.0
+  2_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
+  3_Chief Ships.Transport2 1 0 2 1.0
+  4_Chief Ships.USSWardDD139 1 0 2 1.0
+  5_Chief Ships.USSWardDD139 1 0 2 1.0
+  6_Chief Ships.USSDentDD116 1 0 2 1.0
+  7_Chief Ships.USSMcKean 1 0 2 1.0
+  8_Chief Ships.Destroyer1 1 0 2 1.0
+  9_Chief Ships.USSWardDD139 1 0 2 1.0
+  10_Chief Ships.USSDentDD116 1 0 2 1.0
+  11_Chief Ships.USSDentDD116 1 0 2 1.0
+  12_Chief Ships.USSWardDD139 1 0 2 1.0
+  13_Chief Ships.USSWardDD139 1 0 2 1.0
+  14_Chief Ships.USSDentDD116 1 0 2 1.0
+  15_Chief Ships.USSWardDD139 1 0 2 1.0
+  16_Chief Ships.USSDentDD116 1 0 2 1.0
+  17_Chief Ships.MAS501UNP 1 0 2 1.0
+  18_Chief Ships.MAS501UNP 1 0 2 1.0
+  19_Chief Ships.MAS501UNP 1 0 2 1.0
+  20_Chief Ships.MAS501UNP 1 0 2 1.0
+  21_Chief Ships.MAS501UNP 1 0 2 1.0
+  22_Chief Ships.MAS501UNP 1 0 2 1.0
+  23_Chief Ships.MAS501UNP 1 0 2 1.0
+  24_Chief Ships.MAS501UNP 1 0 2 1.0
+  25_Chief Ships.MAS501UNP 1 0 2 1.0
+  26_Chief Ships.Transport2 1 0 2 1.0
+  27_Chief Ships.Transport2 1 0 2 1.0
+  28_Chief Ships.Transport2 1 0 2 1.0
+  29_Chief Ships.Transport2 1 0 2 1.0
+  30_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  31_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  32_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  33_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  34_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  35_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  36_Chief Ships.SubTypeIXB_Srf 1 0 2 1.0
+  37_Chief Ships.SubTypeVIIB_Srf 1 0 2 1.0
+  38_Chief Ships.SubTypeVIIB_Srf 1 0 2 1.0
+  39_Chief Ships.SubTypeVIIB_Srf 1 0 2 1.0
+  40_Chief Ships.SubTypeVIIB_Srf 1 0 2 1.0
+  41_Chief Ships.SubTypeVIIB_Srf 1 0 2 1.0
+  42_Chief Ships.USSGatoSS212_Srf 1 0 2 1.0
+  43_Chief Ships.USSGatoSS212_Sub 1 0 2 1.0
+  44_Chief Ships.USSGreenlingSS213_Srf 1 0 2 1.0
+  45_Chief Ships.USSGatoSS212_Srf 1 0 2 1.0
+[0_Chief_Road]
+  258880.95 439095.84 120.00 0 2 5.555555820465088
+  258748.58 440158.09 120.00
+[1_Chief_Road]
+  258463.09 438709.91 120.00 0 2 9.260000228881836
+  258360.91 440022.63 120.00
+[2_Chief_Road]
+  259420.36 438287.19 120.00 0 2 5.555555820465088
+  259243.67 440009.75 120.00
+[3_Chief_Road]
+  361468.13 477428.06 120.00 0 2 1.7899999618530273
+  360456.88 478131.06 120.00
+[4_Chief_Road]
+  362907.09 477364.16 120.00 0 2 5.555555820465088
+  360268.53 479092.50 120.00
+[5_Chief_Road]
+  246832.86 415789.09 120.00 0 2 5.555555820465088
+  245849.39 417059.50 120.00
+[6_Chief_Road]
+  248014.33 415536.66 120.00 0 2 9.002778053283691
+  246649.25 417400.66 120.00
+[7_Chief_Road]
+  248707.28 415543.59 120.00 0 2 5.555555820465088
+  246988.77 417747.13 120.00
+[8_Chief_Road]
+  246746.23 415162.47 120.00 0 2 5.555555820465088
+  245249.52 416915.59 120.00
+[9_Chief_Road]
+  535956.00 282758.66 120.00 0 2 5.555555820465088
+  534158.81 285673.72 120.00
+[10_Chief_Road]
+  535371.25 282655.41 120.00 0 2 9.002778053283691
+  532860.50 286559.13 120.00
+[11_Chief_Road]
+  536523.56 282449.06 120.00 0 2 9.002778053283691
+  534666.13 285699.50 120.00
+[12_Chief_Road]
+  535379.88 282010.50 120.00 0 2 5.555555820465088
+  533359.06 284865.44 120.00
+[13_Chief_Road]
+  256950.64 372128.13 120.00 0 2 5.555555820465088
+  257506.13 373553.53 120.00
+[14_Chief_Road]
+  257093.88 371597.13 120.00 0 2 9.002778053283691
+  257698.27 373113.31 120.00
+[15_Chief_Road]
+  257541.06 371736.84 120.00 0 2 5.555555820465088
+  258225.81 373455.69 120.00
+[16_Chief_Road]
+  257051.95 373029.47 120.00 0 2 9.002778053283691
+  257596.95 374437.41 120.00
+[17_Chief_Road]
+  293474.91 462693.56 120.00 0 2 8.333333969116211
+  293782.69 462790.03 120.00
+[18_Chief_Road]
+  292667.38 464244.06 120.00 0 2 8.333333969116211
+  292419.75 463957.75 120.00
+[19_Chief_Road]
+  292574.13 458753.34 120.00 0 2 8.333333969116211
+  292371.72 459274.72 120.00
+[20_Chief_Road]
+  368601.31 590050.31 120.00 0 2 8.333333969116211
+  368484.88 590742.81 120.00
+[21_Chief_Road]
+  367737.22 590473.19 120.00 0 2 8.333333969116211
+  367498.22 591300.50 120.00
+[22_Chief_Road]
+  366836.41 589694.94 120.00 0 2 8.333333969116211
+  366689.31 590871.50 120.00
+[23_Chief_Road]
+  163669.36 512538.50 120.00 0 2 8.333333969116211
+  163782.27 513493.44 120.00
+[24_Chief_Road]
+  163998.66 512425.59 120.00 0 2 8.333333969116211
+  164092.73 513850.97 120.00
+[25_Chief_Road]
+  164299.72 512769.00 120.00 0 2 8.333333969116211
+  164492.59 514246.09 120.00
+[26_Chief_Road]
+  467407.44 378416.09 120.00 0 2 2.777777910232544
+  464320.56 381416.03 120.00
+[27_Chief_Road]
+  187348.22 247229.39 120.00 0 2 2.777777910232544
+  187785.30 249474.41 120.00
+[28_Chief_Road]
+  673837.69 654587.44 120.00 0 2 2.777777910232544
+  654933.13 649751.38 120.00
+[29_Chief_Road]
+  272843.97 440956.03 120.00 0 2 2.777777910232544
+  272497.63 443726.66 120.00
+[30_Chief_Road]
+  672580.94 476141.47 120.00 0 2 4.681389331817627
+  646307.38 500078.50 120.00
+[31_Chief_Road]
+  672464.88 470851.75 120.00 0 2 4.681389331817627
+  635050.06 503206.34 120.00
+[32_Chief_Road]
+  162252.13 413774.53 120.00 0 2 4.681389331817627
+  176257.95 430797.00 120.00
+[33_Chief_Road]
+  160312.86 424763.72 120.00 0 2 4.681389331817627
+  175180.58 445664.72 120.00
+[34_Chief_Road]
+  293316.38 167428.61 120.00 0 2 4.681389331817627
+  260492.27 186072.70 120.00
+[35_Chief_Road]
+  292266.03 177407.13 120.00 0 2 4.681389331817627
+  265481.53 196313.88 120.00
+[36_Chief_Road]
+  278086.00 166378.22 120.00 0 2 4.681389331817627
+  248150.39 186072.70 120.00
+[37_Chief_Road]
+  222119.23 394371.09 120.00 0 2 4.630000114440918
+  232629.78 396429.88 120.00
+[38_Chief_Road]
+  221035.67 391120.41 120.00 0 2 4.630000114440918
+  230679.38 393504.25 120.00
+[39_Chief_Road]
+  223877.56 397126.56 120.00 0 2 4.630000114440918
+  234299.39 400282.19 120.00
+[40_Chief_Road]
+  137652.25 232394.34 120.00 0 2 4.630000114440918
+  150526.39 254511.47 120.00
+[41_Chief_Road]
+  145409.75 233054.55 120.00 0 2 4.630000114440918
+  158613.98 259628.13 120.00
+[42_Chief_Road]
+  147072.78 511744.09 120.00 0 2 5.208749771118164
+  151547.86 523448.16 120.00
+[43_Chief_Road]
+  144892.61 515645.44 120.00 0 2 1.1111111640930176
+  150170.92 528955.94 120.00
+[44_Chief_Road]
+  459105.56 656482.44 120.00 0 2 4.1666669845581055
+  438632.97 664881.44 120.00
+[45_Chief_Road]
+  458055.66 648345.88 120.00 0 2 5.208749771118164
+  439945.31 655170.13 120.00
+[NStationary]
+  0_Static ships.Ship$TroopTrans0 1 294210.46 461610.57 630.00 0.0 0 2 1.0
+  1_Static ships.Ship$TroopTrans0 1 294175.09 460299.76 660.00 0.0 0 2 1.0
+  2_Static ships.Ship$TroopTrans2 1 294363.03 459942.13 540.00 0.0 0 2 1.0
+  3_Static ships.Ship$TroopTrans3 1 294315.47 462254.17 585.00 0.0 0 2 1.0
+  4_Static ships.Ship$Barge0 1 294553.20 462190.67 510.00 0.0 0 2 1.0
+  5_Static ships.Ship$Transport4 1 294211.62 461444.17 630.00 0.0 0 2 1.0
+  6_Static ships.Ship$Transport7 1 294104.60 461011.59 555.00 0.0 0 2 1.0
+  7_Static ships.Ship$TroopTrans0 1 294064.16 460769.15 555.00 0.0 0 2 1.0
+  8_Static ships.Ship$TroopTrans1 1 289840.28 461585.62 540.00 0.0 0 2 1.0
+  9_Static ships.Ship$PaddleSteamer 1 292614.35 463480.26 560.00 0.0 0 2 1.0
+  10_Static ships.Ship$Tanker0 1 292699.85 461558.97 605.00 0.0 0 2 1.0
+  11_Static ships.Ship$Tanker0 1 289295.04 458547.36 665.00 0.0 0 2 1.0
+  12_Static ships.Ship$Tanker1 1 263299.62 537197.33 665.00 0.0 0 2 1.0
+  13_Static ships.Ship$HospitalShip 1 291011.53 462738.90 660.00 0.0 0 2 1.0
+  14_Static ships.Ship$Tanker0 1 294851.62 458676.36 495.00 0.0 0 2 1.0
+  15_Static vehicles.stationary.Stationary$Truck_Type94 2 264570.63 535522.06 469.79 0.0
+[Buildings]
+  0_bld House$DeadTree1 1 296141.56 457998.98 700.00
+  1_bld House$Crater500 1 296017.71 457864.50 494.79
+  2_bld House$Hangar_Med2 1 295977.25 457756.45 415.00
+  3_bld House$DeadTree1 1 296023.00 457910.48 670.00
+  4_bld House$DeadTree1 1 295951.50 457786.63 700.00
+  5_bld House$DeadTree1 1 296029.42 457821.56 550.00
+  6_bld House$Crater500 1 296049.93 457792.79 574.79
+  7_bld House$DeadTree1 1 295874.76 458321.47 500.00
+  8_bld House$IndustrialFactoryHouse1 1 295929.96 458339.14 360.00
+  9_bld House$IndustrialFactoryHouse1 1 295920.53 458339.13 360.00
+  10_bld House$IndustrialFactoryHouse1 1 295949.01 458339.24 360.00
+  11_bld House$HangarPBY 1 295934.62 458318.24 630.00
+  12_bld House$IndustrialFactoryHouse1 1 296102.60 457855.83 505.00
+  13_bld House$AirdromeHangar1 1 296178.04 457640.97 455.00
+  14_bld House$IndustrialFactoryHouse1 1 296112.18 457862.69 505.00
+  15_bld House$DeadTree1 1 296118.56 457920.23 700.00
+  16_bld House$IndustrialFactoryHouse1 1 296244.86 457956.70 505.00
+  17_bld House$IndustrialFactoryHouse1 1 296234.59 457950.42 505.00
+  18_bld House$HangarPBY 1 296244.41 457932.32 415.00
+  19_bld House$IndustrialFactoryHouse1 1 296221.18 457940.98 505.00
+  20_bld House$DeadTree1 1 296093.95 457894.96 670.00
+  21_bld House$KitchenRU 1 296036.45 457622.88 634.79
+  22_bld House$46MCycle 1 296033.20 457622.77 614.79
+  23_bld House$Tent_Pyramid_US 1 296030.47 457620.81 369.79
+  24_bld House$Human_10 1 296049.79 457631.47 469.79
+  25_bld House$FurniturePalmAg2 1 295959.00 457620.65 364.79
+  26_bld House$FurniturePalmAg1 1 296069.37 457620.46 364.79
+  27_bld House$AirdromeHangar1 1 296148.28 457643.84 455.00
+  28_bld House$AirdromeHangar1 1 296118.36 457647.08 455.00
+  29_bld House$IndustrialFactoryHouse1 1 296089.19 457846.39 505.00
+  30_bld House$HangarPBY 1 296112.41 457837.73 415.00
+  31_bld House$FurniturePalmAg2 1 295988.72 457644.98 710.00
+  32_bld House$FurniturePalmAg2 1 296064.61 457855.12 670.00
+  33_bld House$Human_09 1 295988.40 458018.77 619.79
+  34_bld House$Human_09 1 295988.85 458001.56 394.79
+  35_bld House$Human_10 1 295994.37 458005.34 439.79
+  36_bld House$46TRBoxes 1 295994.43 458010.73 569.79
+  37_bld House$46GRBoxes 1 295984.02 458004.60 404.79
+  38_bld House$AirdromeMaskingnet 1 295987.40 458009.71 589.79
+  39_bld House$Tent_Pyramid_US 1 295997.29 458025.96 574.79
+  40_bld House$Tent_Pyramid_US 1 295963.12 458006.24 709.79
+  41_bld House$Hangar_Med2 1 295968.48 458044.73 690.00
+  42_bld House$Tent_Pyramid_US 1 295954.52 458020.28 424.79
+  43_bld House$DeadTree1 1 295885.55 458046.33 379.10
+  44_bld House$DeadTree1 1 295879.56 458007.02 600.00
+  45_bld House$DeadTree1 1 296052.68 457667.66 639.10
+  46_bld House$DeadTree1 1 295834.39 458027.10 409.10
+  47_bld House$Misc_05 1 295703.50 458505.40 380.00
+  48_bld House$46GRBoxes 1 295695.85 458491.46 365.00
+  49_bld House$Misc_05 1 295710.07 458486.69 545.00
+  50_bld House$46Trench3 1 295707.14 458500.27 455.00
+  51_bld House$46Trench3 1 295725.97 458498.76 455.00
+  52_bld House$46Trench5 1 295706.65 458492.62 545.00
+  53_bld House$46Trench5 1 295725.44 458491.22 544.10
+  54_bld House$46Trench6 1 295735.37 458497.96 454.10
+  55_bld House$46Trench6 1 295716.58 458499.60 454.10
+  56_bld House$46Trench5 1 295701.47 458500.53 635.00
+  57_bld House$46Trench5 1 295743.77 458497.53 450.00
+  58_bld House$Tent_Pup_US 1 295686.24 458489.56 650.00
+  59_bld House$Tent_Pup_US 1 295687.79 458484.74 715.00
+  60_bld House$Tent_Pyramid_US 1 295699.59 458493.46 710.00
+  61_bld House$BP_Earth 1 295324.44 458501.17 470.00
+  62_bld House$Human_10 1 295669.45 457937.03 639.10
+  63_bld House$Human_05 1 295674.89 457937.68 699.10
+  64_bld House$Human_04 1 295685.01 457955.13 399.10
+  65_bld House$Human_02 1 295686.31 457945.88 534.10
+  66_bld House$Human_02 1 295685.48 457944.96 624.10
+  67_bld House$Human_01 1 295676.51 457940.46 379.10
+  68_bld House$46TRBoxes 1 295683.18 457945.12 634.10
+  69_bld House$46TRBoxes 1 295683.97 457943.79 634.10
+  70_bld House$46TRBoxes 1 295685.31 457945.67 679.10
+  71_bld House$46TRBoxes 1 295691.06 457935.24 679.10
+  72_bld House$46TRBoxes 1 295691.25 457936.70 694.10
+  73_bld House$46GRBoxes 1 295673.50 457938.70 669.10
+  74_bld House$46GRBoxes 1 295676.17 457939.12 674.10
+  75_bld House$FurnitureSandbag_Wall 1 295181.99 458530.27 420.00
+  76_bld House$FurnitureSandbag_Wall 1 295190.18 458534.87 420.00
+  77_bld House$FurnitureSandbag_Wall 1 295195.15 458537.74 420.00
+  78_bld House$FurnitureSandbag_Wall 1 295200.03 458540.64 420.00
+  79_bld House$FurnitureSandbag_Wall 1 295207.00 458544.64 420.00
+  80_bld House$FurnitureSandbag_Wall 1 295212.18 458547.66 420.00
+  81_bld House$FurnitureSandbag_Wall 1 295229.39 458527.94 510.00
+  82_bld House$FurnitureSandbag_Wall 1 295224.49 458536.44 510.00
+  83_bld House$FurnitureSandbag_Wall 1 295221.68 458541.41 510.00
+  84_bld House$FurnitureSandbag_Wall 1 295218.79 458546.34 510.00
+  85_bld House$FurnitureSandbags_Round 1 295216.47 458552.04 465.00
+  86_bld House$Metal_hut 1 295192.26 458511.11 690.00
+  87_bld House$Metal_hut 1 295186.44 458521.25 690.00
+  88_bld House$Control_tower 1 295214.21 458530.26 690.00
+  89_bld House$Metal_hut 1 295213.09 458456.60 675.00
+  90_bld House$Metal_hut 1 295205.65 458463.76 675.00
+  91_bld House$Metal_hut 1 295197.92 458471.11 675.00
+  92_bld House$Metal_hut 1 295189.87 458478.73 675.00
+  93_bld House$BlastPen5sides 1 295429.95 458451.55 484.10
+  94_bld House$Metal_hut 1 295822.14 458442.59 365.00
+  95_bld House$Metal_hut 1 295820.93 458428.74 365.00
+  96_bld House$Human_09 1 296030.38 457600.11 544.79
+  97_bld House$Human_10 1 296061.34 457604.77 609.79
+  98_bld House$Tent_Pyramid_US 1 296066.02 457604.22 669.79
+  99_bld House$Tent_Pyramid_US 1 296056.54 457602.73 474.79
+  100_bld House$Tent_Pyramid_US 1 296035.07 457600.62 474.79
+  101_bld House$46MCycle 1 296024.52 457587.90 614.79
+  102_bld House$Human_09 1 296038.88 457579.02 424.79
+  103_bld House$Human_10 1 296026.21 457586.33 489.79
+  104_bld House$Human_09 1 296045.05 457593.71 384.79
+  105_bld House$46GRBoxes 1 296032.56 457591.70 534.79
+  106_bld House$AirdromeMaskingnet 1 296034.15 457589.55 474.79
+  107_bld House$FurniturePalmAs1 1 296098.83 457621.97 424.79
+  108_bld House$Bamboo_hut_3 1 296084.62 457604.12 594.79
+  109_bld House$Human_04 1 295675.14 457922.24 369.10
+  110_bld House$Human_05 1 295678.17 457926.57 429.10
+  111_bld House$Human_05 1 295678.67 457925.24 594.10
+  112_bld House$Human_04 1 295699.18 457924.82 474.10
+  113_bld House$46TRBoxes 1 295678.19 457920.98 694.10
+  114_bld House$46TRBoxes 1 295676.19 457921.89 699.10
+  115_bld House$46TRBoxes 1 295676.25 457920.55 669.10
+  116_bld House$46TRBoxes 1 295674.79 457920.55 669.10
+  117_bld House$46GRBoxes 1 295678.24 457925.40 689.10
+  118_bld House$46BoxCoverMed 1 295656.04 457925.95 494.10
+  119_bld House$46BoxCoverBig 1 295652.95 457923.53 494.10
+  120_bld House$46BoxCoverMed 1 295698.76 457923.88 494.10
+  121_bld House$46BoxCoverMed 1 295695.85 457922.74 584.10
+  122_bld House$AirdromeHangar1 1 296106.36 457555.45 710.00
+  123_bld House$DeadTree1 1 295980.92 457599.97 380.00
+  124_bld House$Longbarrack 1 295693.03 458391.64 635.00
+  125_bld House$Metal_hut 1 295791.65 458431.70 365.00
+  126_bld House$Metal_hut 1 295762.06 458449.33 365.00
+  127_bld House$Metal_hut 1 295760.17 458434.09 365.00
+  128_bld House$Metal_hut 1 295757.82 458407.28 365.00
+  129_bld House$Metal_hut 1 295730.84 458451.05 365.00
+  130_bld House$Metal_hut 1 295729.44 458436.36 365.00
+  131_bld House$Metal_hut 1 295726.34 458409.50 365.00
+  132_bld House$AirdromeMaskingnetBig 1 295774.13 457694.50 414.10
+  133_bld House$DeadTree1 1 295937.83 457579.20 650.00
+  134_bld House$FurnitureTreeBroad1 1 295636.73 458449.89 664.79
+  135_bld House$FurnitureTree2 1 295668.38 458410.75 664.79
+  136_bld House$FurnitureTreeBroad1 1 295632.44 458396.05 664.79
+  137_bld House$Metal_hut 1 295792.92 458446.10 365.00
+  138_bld House$FurniturePalmAg1 1 295945.62 457913.51 360.00
+  139_bld House$FurniturePalmAg2 1 295924.62 457925.91 360.00
+  140_bld House$FurniturePalmAg2 1 295914.09 457996.31 360.00
+  141_bld House$FurniturePalmAg2 1 295916.93 457953.23 360.00
+  142_bld House$FurnitureTreeBroad1 1 295573.67 458387.06 514.79
+  143_bld House$FurniturePalmAg1 1 295961.40 457938.09 360.00
+  144_bld House$DeadTree1 1 295885.27 457982.48 424.10
+  145_bld House$DeadTree1 1 295834.31 457954.57 424.10
+  146_bld House$CrimeaBarnWood 1 295479.27 458438.70 405.00
+  147_bld House$IndustrialFactoryWarenHouse1 1 295496.99 458431.22 585.00
+  148_bld House$46Palette 1 295855.53 457856.01 694.10
+  149_bld House$shacks 1 295518.63 458398.55 405.00
+  150_bld House$BlastPen5sides 1 295859.17 457883.80 504.10
+  151_bld House$Metal_hut 1 295819.04 458400.98 365.00
+  152_bld House$Metal_hut 1 295818.75 458385.43 365.00
+  153_bld House$Longbarrack 1 295857.64 458353.40 365.00
+  154_bld House$BlastPen5sides 1 295884.75 457848.60 504.10
+  155_bld House$AirdromeMaskingnetBig 1 295825.82 457732.07 594.10
+  156_bld House$Longbarrack 1 295690.84 458366.59 635.00
+  157_bld House$Metal_hut 1 295789.22 458403.10 365.00
+  158_bld House$Metal_hut 1 295787.87 458388.53 365.00
+  159_bld House$Metal_hut 1 295756.98 458391.25 365.00
+  160_bld House$Longbarrack 1 295754.90 458363.62 365.00
+  161_bld House$Longbarrack 1 295707.19 458368.76 365.00
+  162_bld House$Longbarrack 1 295807.56 458359.06 365.00
+  163_bld House$Metal_hut 1 295725.53 458393.10 365.00
+  164_bld House$Crater500 1 296756.68 457060.10 574.79
+  165_bld House$Human_05 1 295496.63 457530.87 405.00
+  166_bld House$AirdromeControlTowerSmall 1 295505.84 457500.32 690.00
+  167_bld House$46FTankRU 1 295495.22 457530.03 360.00
+  168_bld House$46FTankRU 1 295500.95 457537.03 465.00
+  169_bld House$46FTankRU 1 295488.58 457526.18 690.00
+  170_bld House$46FTankRU 1 295516.83 457504.06 600.00
+  171_bld House$FurnitureFenceShortLand 1 295522.41 457544.16 599.10
+  172_bld House$AirdromeMaskingnet 1 295522.48 457500.36 600.00
+  173_bld House$FurnitureFenceShortLand 1 295529.19 457537.56 569.10
+  174_bld House$FurnitureFenceShortLand 1 295518.17 457552.91 599.10
+  175_bld House$FurnitureFenceShortLand 1 295510.48 457554.38 509.10
+  176_bld House$FurnitureFenceShortLand 1 295502.04 457549.35 509.10
+  177_bld House$FurnitureFenceShortLand 1 295505.94 457493.38 599.10
+  178_bld House$FurnitureFenceShortLand 1 295490.18 457542.21 689.10
+  179_bld House$CrimeaBarnWood 1 295496.77 457543.50 689.10
+  180_bld House$CrimeaBarnWood 1 295486.45 457537.32 689.10
+  181_bld House$FurnitureFenceShortLand 1 295484.76 457538.82 509.10
+  182_bld House$FurnitureFenceShortLand 1 295482.94 457531.98 419.10
+  183_bld House$FurnitureFenceShortLand 1 295487.99 457523.51 419.10
+  184_bld House$FurnitureFenceShortLand 1 295494.53 457512.30 599.10
+  185_bld House$FurnitureFenceShortLand 1 295501.82 457500.25 599.10
+  186_bld House$CrimeaBarnWood 1 295493.04 457519.16 599.10
+  187_bld House$CrimeaBarnWood 1 295499.79 457507.91 599.10
+  188_bld House$FurniturePalmAg2 1 295483.91 457474.98 690.00
+  189_bld House$FurniturePalmAg2 1 295548.79 457464.69 540.00
+  190_bld House$Metal_hut 1 295577.29 457273.05 515.00
+  191_bld House$FurniturePalmAg2 1 295528.41 457294.67 655.00
+  192_bld House$DeadTree1 1 295599.08 457274.29 694.10
+  193_bld House$FurniturePalmAg2 1 295539.40 457272.45 715.00
+  194_bld House$FurniturePalmAg2 1 295566.69 457366.56 395.00
+  195_bld House$FurniturePalmAg2 1 295556.87 457390.28 690.00
+  196_bld House$crater2_desert 1 295587.11 457465.46 550.00
+  197_bld House$crater2_desert 1 295580.72 457567.34 550.00
+  198_bld House$Crater500 1 295556.02 457553.47 709.79
+  199_bld House$CrimeaBarnStucco 1 295555.26 457517.10 510.00
+  200_bld House$RussiaCountryHouse1 1 295546.12 457512.85 420.00
+  201_bld House$46TRBoxes 1 295610.42 457480.84 670.00
+  202_bld House$46TRBoxes 1 295612.68 457479.58 595.00
+  203_bld House$Human_02 1 295615.18 457481.24 444.10
+  204_bld House$Human_10 1 295615.03 457481.54 714.10
+  205_bld House$46FTankRU 1 295606.95 457492.91 694.10
+  206_bld House$Human_10 1 295615.37 457474.52 684.10
+  207_bld House$Human_02 1 295607.41 457494.01 459.10
+  208_bld House$Human_02 1 295617.35 457472.52 384.10
+  209_bld House$46FTankRU 1 295538.45 457514.92 600.00
+  210_bld House$FurniturePalmAg2 1 295622.14 457307.18 695.00
+  211_bld House$FurniturePalmAg2 1 295612.58 457293.04 425.00
+  212_bld House$46Furniture 1 295676.92 457414.70 634.10
+  213_bld House$46Radio 1 295676.17 457417.33 694.10
+  214_bld House$Human_02 1 295676.78 457417.08 550.00
+  215_bld House$Human_02 1 295676.50 457413.64 595.00
+  216_bld House$46TRBoxes 1 295642.25 457442.77 595.00
+  217_bld House$46BoxCoverMed 1 295626.75 457453.20 454.10
+  218_bld House$46LWBoxes 1 295647.98 457439.86 364.10
+  219_bld House$BP_Earth 1 295639.44 457453.92 685.00
+  220_bld House$Human_10 1 295639.84 457441.84 714.10
+  221_bld House$46TRBoxes 1 295627.63 457451.07 535.00
+  222_bld House$46GRBoxes 1 295645.02 457431.63 535.00
+  223_bld House$AirdromeBarrelBlock1 1 295635.87 457441.50 370.00
+  224_bld House$FurniturePalmAg2 1 295574.08 457392.81 480.00
+  225_bld House$crater2_summer 1 294978.80 458406.71 574.79
+  226_bld House$crater1_summer 1 294990.15 458465.40 514.79
+  227_bld House$P40_gbwreck 1 295877.09 457698.56 505.00
+  228_bld House$BP_Concrete 0 295888.53 457693.23 684.79
+  229_bld House$FurnitureTree2 1 294981.33 458389.15 679.79
+  230_bld House$FurnitureTree2 1 294968.55 458395.63 569.79
+  231_bld House$FurnitureTree2 1 294976.21 458382.05 569.79
+  232_bld House$Tent_Pup_US 1 295003.37 458430.71 640.00
+  233_bld House$Tent_Pyramid_US 1 294994.31 458425.09 495.00
+  234_bld House$46BoxCoverBig 1 294991.64 458431.16 435.00
+  235_bld House$FurnitureTree2 1 295010.77 458413.34 569.79
+  236_bld House$DeadTree1 1 294933.58 458560.04 485.00
+  237_bld House$46BoxCoverMed 1 294962.19 458586.22 465.00
+  238_bld House$46TRBoxes 1 294984.49 458612.49 370.00
+  239_bld House$46TRBoxes 1 294983.57 458613.15 655.00
+  240_bld House$AirdromeMaskingnet 1 294989.04 458622.34 385.00
+  241_bld House$AirdromeMaskingnet 1 295505.42 458171.60 620.00
+  242_bld House$46Trench5 1 295725.19 458098.58 654.10
+  243_bld House$Tent_Pyramid_US 1 295739.84 458098.16 580.00
+  244_bld House$46Trench3 1 295730.30 458096.19 654.10
+  245_bld House$46Trench5 1 295733.13 458103.17 384.10
+  246_bld House$FurniturePalmAg2 1 294954.39 458566.86 705.00
+  247_bld House$46Trench6 1 295738.89 458092.55 474.10
+  248_bld House$Human_02 1 295738.67 458082.74 489.10
+  249_bld House$Tent_Pup_US 1 295745.45 458095.23 670.00
+  250_bld House$Tent_Pup_US 1 295771.25 458082.33 715.00
+  251_bld House$Tent_Pyramid_US 1 295763.23 458074.44 580.00
+  252_bld House$46Trench6 1 295749.86 458087.48 474.10
+  253_bld House$46Trench6 1 295767.05 458079.80 474.10
+  254_bld House$46Trench3 1 295758.45 458083.60 474.10
+  255_bld House$46Trench5 1 295755.58 458076.74 564.10
+  256_bld House$46Trench5 1 295774.74 458076.49 469.10
+  257_bld House$46GRBoxes 1 295773.88 458069.54 475.00
+  258_bld House$46TRBoxes 1 295776.66 458070.31 505.00
+  259_bld House$46TRBoxes 1 295774.81 458072.11 430.00
+  260_bld House$AirdromeMaskingnet 1 295747.94 458086.37 470.00
+  261_bld House$46Radio 1 295758.06 458073.28 495.00
+  262_bld House$46BoxCoverMed 1 295772.22 458066.89 510.00
+  263_bld House$Human_02 1 295771.36 458069.07 489.10
+  264_bld House$Human_02 1 295771.67 458067.88 699.10
+  265_bld House$Human_02 1 295757.87 458072.32 639.10
+  266_bld House$Human_10 1 295758.68 458072.53 549.10
+  267_bld House$Tent_HQ_US 1 295764.48 458072.47 399.10
+  268_bld House$DeadTree1 1 295723.79 458085.91 560.00
+  269_bld House$AirdromeBarrelBlock2 1 295781.64 458076.92 400.00
+  270_bld House$DeadTree1 1 295489.23 458197.88 665.00
+  271_bld House$46GRBoxes 1 295548.46 458163.28 475.00
+  272_bld House$FurniturePalmAg2 1 295544.94 458184.83 640.00
+  273_bld House$AirdromeMaskingnet 1 295536.89 458177.78 490.00
+  274_bld House$AirdromeBarrelBlock2 1 295545.97 458167.59 430.00
+  275_bld House$46GRBoxes 1 295551.37 458163.81 430.00
+  276_bld House$Human_02 1 295720.70 458102.02 399.10
+  277_bld House$Human_02 1 295721.18 458101.00 489.10
+  278_bld House$46BoxCoverMed 1 295722.15 458103.34 540.00
+  279_bld House$Tent_Pyramid_US 1 295726.99 458105.73 580.00
+  280_bld House$Tent_HQ_US 1 295728.63 458108.39 489.10
+  281_bld House$PortFloor 1 294952.97 458648.69 389.79
+  282_bld House$PortFloor 1 294948.28 458640.66 389.79
+  283_bld House$PortFloor 1 294943.28 458632.05 389.79
+  284_bld House$PortFloor 1 294938.27 458623.50 389.79
+  285_bld House$PortBaseSegment 1 294927.92 458625.81 389.79
+  286_bld House$PortBaseSegment 1 294920.46 458630.04 389.79
+  287_bld House$PortBaseSegment 1 294912.97 458634.33 389.79
+  288_bld House$PortBaseSegment 1 294905.33 458638.65 389.79
+  289_bld House$PortBaseSegment 1 294897.84 458642.95 389.79
+  290_bld House$PortBaseSegment 1 294890.20 458647.27 389.79
+  291_bld House$PortBaseSegment 1 294882.56 458651.57 389.79
+  292_bld House$PortBaseSegment 1 294874.90 458655.96 389.79
+  293_bld House$PortBaseSegment 1 294929.85 458629.14 389.79
+  294_bld House$PortBaseSegment 1 294922.34 458633.51 389.79
+  295_bld House$PortBaseSegment 1 294914.70 458637.82 389.79
+  296_bld House$PortBaseSegment 1 294907.13 458642.16 389.79
+  297_bld House$PortBaseSegment 1 294899.48 458646.47 389.79
+  298_bld House$PortBaseSegment 1 294891.90 458650.80 389.79
+  299_bld House$PortBaseSegment 1 294884.27 458655.12 389.79
+  300_bld House$PortBaseSegment 1 294876.80 458659.35 389.79
+  301_bld House$Bamboo_hut_3 1 268713.21 475774.91 680.00
+  302_bld House$Bamboo_hut_3 1 268696.12 475796.02 680.00
+  303_bld House$Bamboo_barrack 1 268698.80 475761.73 590.00
+  304_bld House$Bamboo_barrack 1 268680.48 475782.10 410.00
+  305_bld House$Bamboo_barrack 1 268724.24 475819.08 410.00
+  306_bld House$Bamboo_barrack 1 268742.56 475797.81 590.00
+  307_bld House$Bamboo_hut_3 1 268739.88 475832.10 680.00
+  308_bld House$Bamboo_hut_3 1 268756.97 475810.99 680.00
+  309_bld House$HQ_JP01 1 268726.42 475658.24 704.79
+  310_bld House$FlagJnavy 1 268728.25 475651.26 619.79
+  311_bld House$Cablehouse 1 268679.27 475670.37 614.79
+  312_bld House$FurniturePalmAg2 1 268728.55 475678.11 464.79
+  313_bld House$FurniturePalmAg1 1 268662.37 475662.17 464.79
+  314_bld House$FurniturePalmAg1 1 268754.23 475616.91 719.79
+  315_bld House$FurniturePalmAg1 1 268780.55 475653.56 719.79
+  316_bld House$FurnitureSandbag_Wall 1 268698.75 475619.43 709.79
+  317_bld House$FurnitureSandbag_Wall 1 268708.47 475615.66 709.79
+  318_bld House$FurnitureSandbag_Wall 1 268694.43 475622.83 619.79
+  319_bld House$FurnitureSandbag_Wall 1 268710.81 475611.64 664.79
+  320_bld House$FurnitureSandbag_Wall 1 268720.31 475606.87 619.79
+  321_bld House$FurnitureSandbag_Wall 1 268725.84 475607.75 619.79
+  322_bld House$Tent_HQ_US 1 268718.62 475611.63 619.79
+  323_bld House$Human_10 1 268707.92 475618.26 544.79
+  324_bld House$Bamboo_hut_3 1 268729.48 475753.55 680.00
+  325_bld House$Bamboo_barrack 1 268716.15 475741.29 410.00
+  326_bld House$Housepacif1 1 268662.86 475729.20 495.00
+  327_bld House$Housepacif1 1 268673.27 475719.08 675.00
+  328_bld House$Water_Tower 1 268622.66 475742.10 595.00
+  329_bld House$Housepacif1 1 268652.11 475740.19 495.00
+  330_bld House$Hangar_Med2 1 272260.74 483673.67 465.00
+  331_bld House$DeadTree1 1 272202.10 483689.22 615.00
+  332_bld House$IndustrialFactoryHouse1 1 272193.72 483614.86 360.00
+  333_bld House$IndustrialFactoryHouse1 1 272184.29 483614.86 360.00
+  334_bld House$IndustrialFactoryHouse1 1 272212.77 483614.96 360.00
+  335_bld House$HangarPBY 1 272198.38 483593.96 630.00
+  336_bld House$IndustrialFactoryHouse1 1 272344.29 483338.61 555.00
+  337_bld House$IndustrialFactoryHouse1 1 272355.71 483335.68 555.00
+  338_bld House$IndustrialFactoryHouse1 1 272138.78 483614.52 540.00
+  339_bld House$IndustrialFactoryHouse1 1 272126.76 483615.26 540.00
+  340_bld House$HangarPBY 1 272124.43 483594.81 450.00
+  341_bld House$IndustrialFactoryHouse1 1 272110.36 483615.23 540.00
+  342_bld House$KitchenRU 1 272267.47 482432.92 644.79
+  343_bld House$46MCycle 1 272264.25 482433.37 624.79
+  344_bld House$Tent_Pyramid_US 1 272261.22 482431.92 379.79
+  345_bld House$Human_10 1 272282.10 482439.06 479.79
+  346_bld House$FurniturePalmAg2 1 272154.59 482573.88 374.79
+  347_bld House$FurniturePalmAg1 1 272299.47 482424.82 374.79
+  348_bld House$IndustrialFactoryHouse1 1 272328.44 483342.82 555.00
+  349_bld House$HangarPBY 1 272336.73 483319.46 465.00
+  350_bld House$FurniturePalmAg2 1 272188.08 482592.68 360.00
+  351_bld House$FurniturePalmAg2 1 273909.66 483346.62 695.00
+  352_bld House$BP_Earth 1 273805.35 483360.87 560.00
+  353_bld House$Human_10 1 272376.60 484144.56 369.10
+  354_bld House$Human_05 1 272377.25 484139.12 429.10
+  355_bld House$Human_04 1 272396.24 484163.44 489.10
+  356_bld House$Human_02 1 272386.99 484162.14 624.10
+  357_bld House$Human_02 1 272386.07 484162.97 714.10
+  358_bld House$Human_01 1 272380.03 484137.50 469.10
+  359_bld House$46TRBoxes 1 272386.23 484165.27 364.10
+  360_bld House$46TRBoxes 1 272384.90 484164.48 364.10
+  361_bld House$46TRBoxes 1 272386.78 484163.14 409.10
+  362_bld House$46TRBoxes 1 272376.35 484157.39 409.10
+  363_bld House$46TRBoxes 1 272377.81 484157.20 424.10
+  364_bld House$46GRBoxes 1 272378.27 484140.51 399.10
+  365_bld House$46GRBoxes 1 272378.69 484137.84 404.10
+  366_bld House$FurnitureSandbag_Wall 1 272827.17 483449.90 465.00
+  367_bld House$FurnitureSandbag_Wall 1 272836.22 483447.36 465.00
+  368_bld House$FurnitureSandbag_Wall 1 272841.76 483445.88 465.00
+  369_bld House$FurnitureSandbag_Wall 1 272847.26 483444.48 465.00
+  370_bld House$FurnitureSandbag_Wall 1 272855.02 483442.37 465.00
+  371_bld House$FurnitureSandbag_Wall 1 272860.82 483440.85 465.00
+  372_bld House$FurnitureSandbag_Wall 1 272859.04 483414.73 555.00
+  373_bld House$FurnitureSandbag_Wall 1 272861.59 483424.21 555.00
+  374_bld House$FurnitureSandbag_Wall 1 272863.12 483429.71 555.00
+  375_bld House$FurnitureSandbag_Wall 1 272864.56 483435.24 555.00
+  376_bld House$FurnitureSandbags_Round 1 272866.95 483440.91 510.00
+  377_bld House$Metal_hut 1 272820.89 483429.09 375.00
+  378_bld House$Metal_hut 1 272823.94 483440.37 375.00
+  379_bld House$Control_tower 1 272849.95 483427.11 375.00
+  380_bld House$Metal_hut 1 272797.07 483375.81 360.00
+  381_bld House$Metal_hut 1 272796.87 483386.14 360.00
+  382_bld House$Metal_hut 1 272796.60 483396.80 360.00
+  383_bld House$Metal_hut 1 272796.30 483407.88 360.00
+  384_bld House$BlastPen5sides 1 273784.72 483246.12 559.10
+  385_bld House$Metal_hut 1 272241.40 484516.13 450.00
+  386_bld House$Metal_hut 1 272227.49 484516.14 450.00
+  387_bld House$Human_09 1 272257.54 482411.55 554.79
+  388_bld House$Human_10 1 272288.84 482410.76 619.79
+  389_bld House$Tent_Pyramid_US 1 272293.35 482409.41 679.79
+  390_bld House$Tent_Pyramid_US 1 272283.75 482409.59 484.79
+  391_bld House$Tent_Pyramid_US 1 272262.24 482411.24 484.79
+  392_bld House$46MCycle 1 272249.65 482400.54 624.79
+  393_bld House$Human_09 1 272262.24 482389.30 434.79
+  394_bld House$Human_10 1 272251.04 482398.70 499.79
+  395_bld House$Human_09 1 272270.87 482402.70 394.79
+  396_bld House$46GRBoxes 1 272258.22 482402.89 544.79
+  397_bld House$AirdromeMaskingnet 1 272259.42 482400.49 484.79
+  398_bld House$FurniturePalmAs1 1 272328.74 482421.19 434.79
+  399_bld House$Bamboo_hut_3 1 272311.65 482406.08 604.79
+  400_bld House$Human_04 1 272363.35 484173.31 459.10
+  401_bld House$Human_05 1 272367.68 484170.28 519.10
+  402_bld House$Human_05 1 272366.35 484169.78 684.10
+  403_bld House$Human_04 1 272365.93 484149.27 564.10
+  404_bld House$46TRBoxes 1 272362.09 484170.26 424.10
+  405_bld House$46TRBoxes 1 272362.10 484172.26 429.10
+  406_bld House$46TRBoxes 1 272361.66 484172.20 399.10
+  407_bld House$46TRBoxes 1 272361.66 484173.66 399.10
+  408_bld House$46GRBoxes 1 272366.51 484170.21 419.10
+  409_bld House$46BoxCoverMed 1 272355.17 484145.57 584.10
+  410_bld House$46BoxCoverBig 1 272352.75 484148.66 584.10
+  411_bld House$46BoxCoverMed 1 272364.99 484149.69 584.10
+  412_bld House$46BoxCoverMed 1 272363.85 484152.60 674.10
+  413_bld House$AirdromeHangar1 1 272324.61 482354.37 360.00
+  414_bld House$DeadTree1 1 272172.58 482549.71 390.00
+  415_bld House$Longbarrack 1 272349.94 484617.15 360.00
+  416_bld House$Metal_hut 1 272227.89 484545.56 450.00
+  417_bld House$Metal_hut 1 272279.93 484515.09 450.00
+  418_bld House$Metal_hut 1 272264.59 484515.64 450.00
+  419_bld House$Metal_hut 1 272371.17 484553.96 450.00
+  420_bld House$Metal_hut 1 272278.92 484546.33 450.00
+  421_bld House$Metal_hut 1 272264.17 484546.45 450.00
+  422_bld House$Metal_hut 1 272370.65 484585.52 450.00
+  423_bld House$AirdromeMaskingnetBig 1 272166.98 483376.57 379.10
+  424_bld House$DeadTree1 1 272126.54 482536.74 660.00
+  425_bld House$FurnitureTree2 1 272366.84 484643.37 389.79
+  426_bld House$Metal_hut 1 272242.35 484545.55 450.00
+  427_bld House$FurnitureTreeBroad1 1 273908.08 483241.32 539.79
+  428_bld House$CrimeaBarnWood 1 273785.08 483195.15 480.00
+  429_bld House$IndustrialFactoryWarenHouse1 1 273782.44 483176.10 660.00
+  430_bld House$46Palette 1 272233.72 484146.28 379.10
+  431_bld House$shacks 1 273756.48 483146.74 480.00
+  432_bld House$BlastPen5sides 1 273667.80 483190.35 574.10
+  433_bld House$Metal_hut 1 272370.24 484492.44 450.00
+  434_bld House$Metal_hut 1 272354.72 484491.36 450.00
+  435_bld House$Longbarrack 1 272326.20 484449.84 450.00
+  436_bld House$BlastPen5sides 1 273560.62 483249.60 394.10
+  437_bld House$AirdromeMaskingnetBig 1 273585.74 483178.71 664.10
+  438_bld House$Longbarrack 1 272324.80 484617.15 360.00
+  439_bld House$Metal_hut 1 272370.64 484522.40 450.00
+  440_bld House$Metal_hut 1 272355.11 484522.40 450.00
+  441_bld House$Metal_hut 1 272355.13 484553.41 450.00
+  442_bld House$Longbarrack 1 272327.42 484553.07 450.00
+  443_bld House$Longbarrack 1 272328.39 484601.05 450.00
+  444_bld House$Longbarrack 1 272327.48 484500.21 450.00
+  445_bld House$Metal_hut 1 272355.13 484584.98 450.00
+  446_bld House$PortBaseSmallSegment 1 264548.65 535602.45 424.79
+  447_bld House$46StoneWall2 1 264554.89 535595.38 424.79
+  448_bld House$FurniturePalmAg2 1 264521.94 535505.80 379.79
+  449_bld House$FurniturePalmAg1 1 264590.71 535535.43 379.79
+  450_bld House$PortFloor 1 264558.19 535528.53 424.79
+  451_bld House$PortFloor 1 264549.20 535524.18 424.79
+  452_bld House$PortFloor 1 264540.03 535520.04 424.79
+  453_bld House$PortFloor 1 264531.05 535515.78 424.79
+  454_bld House$PortFloor 1 264567.28 535532.82 424.79
+  455_bld House$PortFloor 1 264576.38 535537.04 424.79
+  456_bld House$PortBaseSmallSegment 1 264524.12 535523.75 424.79
+  457_bld House$PortBaseSmallSegment 1 264520.40 535531.71 424.79
+  458_bld House$PortBaseSmallSegment 1 264516.73 535539.60 424.79
+  459_bld House$PortBaseSmallSegment 1 264513.06 535547.48 424.79
+  460_bld House$PortBaseSmallSegment 1 264509.34 535555.44 424.79
+  461_bld House$PortBaseSmallSegment 1 264505.65 535563.32 424.79
+  462_bld House$PortBaseSmallSegment 1 264501.91 535571.16 424.79
+  463_bld House$PortBaseSmallSegment 1 264498.23 535579.04 424.79
+  464_bld House$PortBaseSmallSegment 1 264574.86 535547.51 424.79
+  465_bld House$PortBaseSmallSegment 1 264571.08 535555.29 424.79
+  466_bld House$PortBaseSmallSegment 1 264567.35 535563.19 424.79
+  467_bld House$PortBaseSmallSegment 1 264563.59 535571.04 424.79
+  468_bld House$PortBaseSmallSegment 1 264559.90 535578.86 424.79
+  469_bld House$PortBaseSmallSegment 1 264556.14 535586.71 424.79
+  470_bld House$46BoxCoverMed 1 264581.53 535535.42 514.79
+  471_bld House$46GRBoxes 1 264579.26 535530.85 694.79
+  472_bld House$46StoneWall2 1 264539.69 535526.84 514.79
+  473_bld House$46StoneWall2 1 264563.94 535538.21 514.79
+  474_bld House$46StoneWall2 1 264539.92 535516.68 514.79
+  475_bld House$46StoneWall2 1 264564.34 535528.10 514.79
+  476_bld House$46StoneWall2 1 264521.95 535522.50 424.79
+  477_bld House$46StoneWall2 1 264510.49 535546.84 424.79
+  478_bld House$46StoneWall2 1 264499.84 535569.84 424.79
+  479_bld House$46StoneWall2 1 264566.38 535570.92 424.79
+  480_bld House$46StoneWall2 1 264577.96 535546.55 424.79
+  481_bld House$46StoneWall2 1 264504.36 535571.85 424.79
+  482_bld House$46StoneWall2 1 264515.86 535547.39 424.79
+  483_bld House$46StoneWall2 1 264522.07 535534.07 424.79
+  484_bld House$46StoneWall2 1 264568.17 535555.74 424.79
+  485_bld House$46StoneWall2 1 264556.70 535580.07 424.79
+  486_bld House$46StoneWall2 1 264550.25 535593.25 424.79
+  487_bld House$46Lichter2 1 264507.52 535539.99 424.79
+  488_bld House$PortBaseSmallSegment 1 264552.40 535594.60 424.79
+  489_bld House$PortFloor 1 486531.32 301252.09 450.00
+  490_bld House$PortFloor 1 486541.43 301252.06 450.00
+  491_bld House$PortFloor 1 486551.41 301251.98 450.00
+  492_bld House$PortFloor 1 486454.19 301008.28 360.00
+  493_bld House$PortFloor 1 486462.81 301252.31 450.00
+  494_bld House$PortFloor 1 486453.79 301244.81 360.00
+  495_bld House$PortFloor 1 486521.75 301252.06 450.00
+  496_bld House$SmallCrane 1 486504.16 301253.41 360.00
+  497_bld House$46Lichter1 1 486497.84 301240.40 360.00
+  498_bld House$PortFloor 1 486443.13 301225.17 540.00
+  499_bld House$PortFloor 1 486443.21 301244.62 540.00
+  500_bld House$PortFloor 1 486443.21 301235.16 540.00
+  501_bld House$PortFloor 1 486511.70 301252.08 450.00
+  502_bld House$PortFloor 1 486501.71 301252.17 450.00
+  503_bld House$PortFloor 1 486491.59 301252.19 450.00
+  504_bld House$PortFloor 1 486482.04 301252.15 450.00
+  505_bld House$PortFloor 1 486472.16 301252.27 450.00
+  506_bld House$PortFloor 1 486453.76 301235.10 360.00
+  507_bld House$PortFloor 1 486453.86 301225.67 360.00
+  508_bld House$PortFloor 1 486453.83 301215.96 360.00
+  509_bld House$PortFloor 1 486453.11 301205.87 360.00
+  510_bld House$PortFloor 1 486453.89 301196.81 360.00
+  511_bld House$PortFloor 1 486453.99 301187.02 360.00
+  512_bld House$PortFloor 1 486454.04 301177.08 360.00
+  513_bld House$PortFloor 1 486454.05 301167.23 360.00
+  514_bld House$PortFloor 1 486454.02 301157.13 360.00
+  515_bld House$PortFloor 1 486454.11 301147.07 360.00
+  516_bld House$PortFloor 1 486454.07 301137.35 360.00
+  517_bld House$46Lichter1 1 486562.97 301251.77 630.00
+  518_bld House$LargeCrane1 1 486561.19 301252.02 630.00
+  519_bld House$PortFloor 1 486454.23 301018.00 360.00
+  520_bld House$PortFloor 1 486454.13 301028.07 360.00
+  521_bld House$PortFloor 1 486454.16 301038.17 360.00
+  522_bld House$PortFloor 1 486454.16 301048.01 360.00
+  523_bld House$PortFloor 1 486454.20 301057.95 360.00
+  524_bld House$PortFloor 1 486454.14 301067.87 360.00
+  525_bld House$PortFloor 1 486454.18 301077.59 360.00
+  526_bld House$PortFloor 1 486454.09 301087.66 360.00
+  527_bld House$PortFloor 1 486454.11 301097.76 360.00
+  528_bld House$PortFloor 1 486454.10 301107.59 360.00
+  529_bld House$PortFloor 1 486453.99 301127.59 360.00
+  530_bld House$PortFloor 1 486462.98 301263.82 630.00
+  531_bld House$PortFloor 1 486452.90 301263.85 630.00
+  532_bld House$PortFloor 1 486443.06 301264.36 540.00
+  533_bld House$PortFloor 1 486443.28 301254.61 540.00
+  534_bld House$PortFloor 1 486452.71 301252.33 450.00
+  535_bld House$Water_Tower 1 486428.94 301192.12 450.00
+  536_bld House$PortFloor 1 486454.25 300998.37 360.00
+  537_bld House$PortFloor 1 486454.09 301117.58 360.00
+  538_bld House$FurniturePalmAg2 1 301273.75 405051.04 625.00
+  539_bld House$46GRBoxes 1 301272.35 405059.38 535.00
+  540_bld House$46GRBoxes 1 301271.55 405061.61 535.00
+  541_bld House$46GRBoxes 1 301268.86 405059.32 535.00
+  542_bld House$46GRBoxes 1 301268.47 405060.97 535.00
+  543_bld House$Tent_Pyramid_US 1 301269.87 405065.10 535.00
+  544_bld House$46TRBoxes 1 301279.98 404993.89 605.00
+  545_bld House$46GRBoxes 1 301282.07 404991.81 530.00
+  546_bld House$46TRBoxes 1 301282.07 404995.40 530.00
+  547_bld House$46TRBoxes 1 301281.34 404993.74 605.00
+  548_bld House$46Radio 1 301280.14 404996.51 595.00
+  549_bld House$Human_02 1 301281.73 404996.61 469.10
+  550_bld House$46GRBoxes 1 301266.83 405007.46 655.00
+  551_bld House$Tent_Pyramid_US 1 301261.99 405011.21 580.00
+  552_bld House$Tent_Pyramid_US 1 301272.62 405010.26 570.00
+  553_bld House$Tent_Pyramid_US 1 301265.93 405015.68 580.00
+  554_bld House$FurniturePalmAg2 1 301226.96 404978.82 660.00
+  555_bld House$FurniturePalmAg2 1 301215.84 405006.25 475.00
+  556_bld House$Tent_Pup_US 1 301250.37 405006.32 410.00
+  557_bld House$Tent_HQ_US 1 301247.81 405009.74 484.10
+  558_bld House$Tent_Pup_US 1 301251.54 405011.99 410.00
+  559_bld House$Tent_Pup_US 1 301253.76 405008.98 410.00
+  560_bld House$FurniturePalmAg2 1 301263.29 405000.75 675.00
+  561_bld House$Tent_Pup_US 1 301248.32 405015.28 410.00
+  562_bld House$46TRBoxes 1 301248.95 405019.71 575.00
+  563_bld House$46TRBoxes 1 301250.20 405020.26 575.00
+  564_bld House$46GRBoxes 1 301251.79 405018.97 500.00
+  565_bld House$46TRBoxes 1 301249.99 405022.06 500.00
+  566_bld House$Misc_05 1 301263.49 405034.20 695.00
+  567_bld House$DeadTree1 1 301235.89 405039.95 660.00
+  568_bld House$46FTankRU 1 298299.63 356342.09 685.00
+  569_bld House$RussiaCountryHouse1 1 298298.24 356334.26 505.00
+  570_bld House$CrimeaBarnStucco 1 298291.37 356326.73 595.00
+  571_bld House$FurnitureFenceShortLand 1 298335.71 356365.60 684.10
+  572_bld House$FurnitureFenceShortLand 1 298321.38 356353.29 654.10
+  573_bld House$FurnitureFenceShortLand 1 298327.36 356360.61 684.10
+  574_bld House$Metal_hut 1 298331.25 356297.17 674.79
+  575_bld House$FurnitureTreeBroad1 1 298310.70 356312.63 674.79
+  576_bld House$FurnitureTree2 1 298304.45 356309.48 674.79
+  577_bld House$FurnitureTree2 1 298330.72 356303.22 674.79
+  578_bld House$FurnitureTree2 1 298338.63 356297.98 674.79
+  579_bld House$FurnitureFenceShortLand 1 298281.83 356377.30 684.10
+  580_bld House$FurnitureFenceShortLand 1 298293.20 356385.61 684.10
+  581_bld House$FurnitureFenceShortLand 1 298303.79 356393.11 504.10
+  582_bld House$FurnitureFenceShortLand 1 298311.79 356398.88 504.10
+  583_bld House$FurnitureFenceShortLand 1 298318.77 356397.66 594.10
+  584_bld House$CrimeaBarnWood 1 298317.42 356395.84 414.10
+  585_bld House$CrimeaBarnWood 1 298324.48 356386.10 414.10
+  586_bld House$FurnitureFenceShortLand 1 298322.62 356392.55 414.10
+  587_bld House$FurnitureFenceShortLand 1 298275.34 356372.60 684.10
+  588_bld House$FurnitureFenceShortLand 1 298330.76 356381.36 594.10
+  589_bld House$FurnitureFenceShortLand 1 298336.50 356373.40 594.10
+  590_bld House$AirdromeMaskingnet 1 298283.73 356356.73 685.00
+  591_bld House$AirdromeBarrelBlock1 1 298285.99 356352.68 505.00
+  592_bld House$AirdromeBarrelBlock2 1 298283.14 356364.17 595.00
+  593_bld House$46FTankRU 1 298286.93 356362.69 685.00
+  594_bld House$46FTankRU 1 298329.95 356367.01 415.00
+  595_bld House$46FTankRU 1 298326.16 356363.97 430.00
+  596_bld House$46FTankRU 1 298297.34 356365.28 550.00
+  597_bld House$AirdromeControlTowerSmall 1 298282.25 356373.30 415.00
+  598_bld House$Human_04 1 298281.20 356375.61 409.10
+  599_bld House$FurnitureTreeBroad1 1 298265.34 356362.67 674.79
+  600_bld House$AirdromeHangar1 1 267966.73 607499.04 485.00
+  601_bld House$KitchenRU 1 267835.06 607554.17 664.79
+  602_bld House$46MCycle 1 267832.19 607555.69 644.79
+  603_bld House$Tent_Pyramid_US 1 267828.85 607555.37 399.79
+  604_bld House$Human_10 1 267850.91 607554.94 499.79
+  605_bld House$FurniturePalmAg2 1 267766.87 607590.96 394.79
+  606_bld House$FurniturePalmAg1 1 267862.36 607535.61 394.79
+  607_bld House$AirdromeHangar1 1 267942.39 607516.40 485.00
+  608_bld House$AirdromeHangar1 1 267918.10 607534.17 485.00
+  609_bld House$FurniturePalmAg2 1 267804.77 607597.17 380.00
+  610_bld House$Human_10 1 267428.03 607874.61 389.10
+  611_bld House$Human_05 1 267426.78 607869.28 449.10
+  612_bld House$Human_02 1 267443.80 607887.58 644.10
+  613_bld House$Human_02 1 267443.22 607888.67 374.10
+  614_bld House$Human_01 1 267428.84 607866.81 489.10
+  615_bld House$46TRBoxes 1 267444.16 607890.78 384.10
+  616_bld House$46TRBoxes 1 267442.64 607890.49 384.10
+  617_bld House$46TRBoxes 1 267443.95 607888.59 429.10
+  618_bld House$46TRBoxes 1 267432.18 607886.76 429.10
+  619_bld House$46TRBoxes 1 267433.49 607886.08 444.10
+  620_bld House$46GRBoxes 1 267428.21 607870.24 419.10
+  621_bld House$46GRBoxes 1 267427.69 607867.58 424.10
+  622_bld House$Metal_hut 1 267693.33 607790.51 395.00
+  623_bld House$Metal_hut 1 267685.35 607779.12 395.00
+  624_bld House$Human_09 1 267818.42 607537.48 574.79
+  625_bld House$Human_10 1 267847.56 607526.04 639.79
+  626_bld House$Tent_Pyramid_US 1 267851.34 607523.23 699.79
+  627_bld House$Tent_Pyramid_US 1 267842.38 607526.68 504.79
+  628_bld House$Tent_Pyramid_US 1 267822.73 607535.59 504.79
+  629_bld House$46MCycle 1 267807.24 607529.84 644.79
+  630_bld House$Human_09 1 267815.23 607514.97 454.79
+  631_bld House$Human_10 1 267807.92 607527.63 519.79
+  632_bld House$Human_09 1 267827.92 607524.61 414.79
+  633_bld House$46GRBoxes 1 267816.10 607529.11 564.79
+  634_bld House$AirdromeMaskingnet 1 267816.41 607526.45 504.79
+  635_bld House$FurniturePalmAs1 1 267888.62 607522.19 454.79
+  636_bld House$Bamboo_hut_3 1 267867.40 607513.84 624.79
+  637_bld House$Human_04 1 267425.41 607906.16 479.10
+  638_bld House$Human_05 1 267428.44 607901.83 539.10
+  639_bld House$Human_05 1 267427.02 607901.82 704.10
+  640_bld House$Human_04 1 267419.61 607882.69 584.10
+  641_bld House$46TRBoxes 1 267423.18 607903.73 444.10
+  642_bld House$46TRBoxes 1 267424.72 607905.29 449.10
+  643_bld House$46TRBoxes 1 267423.44 607905.70 419.10
+  644_bld House$46TRBoxes 1 267423.94 607907.07 419.10
+  645_bld House$46GRBoxes 1 267427.32 607902.17 439.10
+  646_bld House$46BoxCoverMed 1 267408.24 607882.89 604.10
+  647_bld House$46BoxCoverBig 1 267407.02 607886.62 604.10
+  648_bld House$46BoxCoverMed 1 267418.87 607883.40 604.10
+  649_bld House$46BoxCoverMed 1 267418.80 607886.53 694.10
+  650_bld House$AirdromeHangar1 1 267831.34 607848.15 380.00
+  651_bld House$DeadTree1 1 267775.51 607562.10 410.00
+  652_bld House$Longbarrack 1 267556.04 607810.94 665.00
+  653_bld House$Metal_hut 1 267661.48 607796.32 395.00
+  654_bld House$Metal_hut 1 267644.67 607826.39 395.00
+  655_bld House$Metal_hut 1 267635.42 607814.13 395.00
+  656_bld House$Metal_hut 1 267619.97 607792.08 395.00
+  657_bld House$Metal_hut 1 267618.49 607843.48 395.00
+  658_bld House$Metal_hut 1 267609.94 607831.46 395.00
+  659_bld House$Metal_hut 1 267593.82 607809.75 395.00
+  660_bld House$AirdromeMaskingnetBig 1 267642.50 607545.45 714.10
+  661_bld House$DeadTree1 1 267727.81 607565.65 680.00
+  662_bld House$FurnitureTree2 1 267544.25 607839.81 694.79
+  663_bld House$Metal_hut 1 267669.78 607808.16 395.00
+  664_bld House$46Palette 1 267334.20 607794.72 699.10
+  665_bld House$Metal_hut 1 267669.84 607756.02 395.00
+  666_bld House$Metal_hut 1 267661.82 607742.70 395.00
+  667_bld House$Longbarrack 1 267679.48 607695.52 395.00
+  668_bld House$Longbarrack 1 267541.62 607790.34 665.00
+  669_bld House$Metal_hut 1 267645.53 607773.55 395.00
+  670_bld House$Metal_hut 1 267636.62 607760.83 395.00
+  671_bld House$Metal_hut 1 267611.22 607778.63 395.00
+  672_bld House$Longbarrack 1 267595.61 607755.73 395.00
+  673_bld House$Longbarrack 1 267556.87 607784.04 395.00
+  674_bld House$Longbarrack 1 267638.94 607725.46 395.00
+  675_bld House$Metal_hut 1 267585.37 607796.73 395.00
+[Bridge]
+[House]

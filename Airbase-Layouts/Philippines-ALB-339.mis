@@ -1,0 +1,124 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 12.000002
+  CloudType 0
+  CloudHeight 1000.0
+  army 1
+  playerNum 0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 8
+[WEATHER]
+  WindDirection 0.0
+  WindSpeed 0.0
+  Gust 0
+  Turbulence 0
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 0
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 100
+  MDS_Radar_ShipRadar_MinHeight 100
+  MDS_Radar_ShipRadar_MaxHeight 5000
+  MDS_Radar_ShipSmallRadar_MaxRange 25
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 2000
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 1500
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 0
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 0
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 0
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 1.0
+[RespawnTime]
+  Bigship 1800
+  Ship 1800
+  Aeroanchored 1800
+  Artillery 1800
+  Searchlight 1800
+[Wing]
+  USA_FG_035_FS_039z10
+  USA_FG_035_FS_039z11
+[USA_FG_035_FS_039z10]
+  Planes 1
+  Skill 1
+  Class air.A_20B
+  Fuel 100
+  weapons default
+[USA_FG_035_FS_039z10_Way]
+  TAKEOFF 390416.84 278038.56 0 0 &0
+[USA_FG_035_FS_039z11]
+  Planes 1
+  Skill 1
+  Class air.A_20B
+  Fuel 100
+  weapons default
+[USA_FG_035_FS_039z11_Way]
+  LANDING 389172.06 276916.03 0 0 &0
+[NStationary]
+  0_Static vehicles.planes.Plane$B_24J100 1 389207.62 277485.66 400.00 0.0 us 1 1.0 null 1
+  1_Static vehicles.planes.Plane$B_24J100 1 389241.15 277523.63 395.00 0.0 us 1 1.0 null 1
+  2_Static vehicles.planes.Plane$B_24J100 1 389575.70 276845.73 230.00 0.0 us 1 1.0 null 1
+  3_Static vehicles.planes.Plane$B_24J100 1 389662.56 276939.11 200.00 0.0 us 1 1.0 null 1
+  4_Static vehicles.planes.Plane$B_24J100 1 389514.21 276775.27 210.00 0.0 us 1 1.0 null 1
+  5_Static vehicles.planes.Plane$B_24J100 1 389543.75 276808.19 230.00 0.0 us 1 1.0 null 1
+  6_Static vehicles.planes.Plane$B_24J100 1 389645.38 276901.89 205.00 0.0 us 1 1.0 null 1
+  7_Static vehicles.planes.Plane$B_24J100 1 390508.56 277543.06 184.10 0.0 us 1 1.0 null 1
+  8_Static vehicles.planes.Plane$B_24J100 1 390502.76 277606.93 529.10 0.0 us 1 1.0 null 1
+  9_Static vehicles.planes.Plane$B_24J100 1 390496.67 277661.33 534.10 0.0 us 1 1.0 null 1
+  10_Static vehicles.planes.Plane$B_24J100 1 389807.65 278174.42 400.00 0.0 us 1 1.0 null 1
+  11_Static vehicles.planes.Plane$B_24J100 1 389850.15 278213.90 425.00 0.0 us 1 1.0 null 1
+  12_Static vehicles.planes.Plane$B_24J100 1 389923.34 277197.85 454.10 0.0 us 1 1.0 null 1
+  13_Static vehicles.planes.Plane$B_24J100 1 389866.53 277184.53 444.10 0.0 us 1 1.0 null 1
+  14_Static vehicles.planes.Plane$B_24J100 1 389809.71 277168.55 439.10 0.0 us 1 1.0 null 1
+  15_Static vehicles.planes.Plane$B_24J100 1 390539.42 277285.46 519.10 0.0 us 1 1.0 null 1
+  16_Static vehicles.planes.Plane$B_24J100 1 390536.17 277332.97 529.10 0.0 us 1 1.0 null 1
+  17_Static vehicles.planes.Plane$B_24J100 1 390534.14 277378.86 534.10 0.0 us 1 1.0 null 1
+  18_Static vehicles.planes.Plane$B_24J100 1 390545.51 277242.83 529.10 0.0 us 1 1.0 null 1
+  19_Static vehicles.planes.Plane$B_24J100 1 389393.13 277690.06 395.00 0.0 us 1 1.0 null 1
+  20_Static vehicles.planes.Plane$B_24J100 1 389418.71 277721.73 405.00 0.0 us 1 1.0 null 1
+  21_Static vehicles.planes.Plane$B_24J100 1 389459.72 277770.46 405.00 0.0 us 1 1.0 null 1
+  22_Static vehicles.planes.Plane$B_24J100 1 389484.90 277799.69 400.00 0.0 us 1 1.0 null 1
+  23_Static vehicles.planes.Plane$B_24J100 1 389510.07 277835.42 395.00 0.0 us 1 1.0 null 1
+  24_Static vehicles.planes.Plane$B_24J100 1 389330.72 277614.19 400.00 0.0 us 1 1.0 null 1
+  25_Static vehicles.planes.Plane$B_24J100 1 389084.18 277330.99 394.10 0.0 us 1 1.0 null 1
+  26_Static vehicles.planes.Plane$B_24J100 1 389680.94 276975.84 225.00 0.0 us 1 1.0 null 1
+  27_Static vehicles.planes.Plane$B_24J100 1 390513.35 277478.51 180.00 0.0 us 1 1.0 null 1
+  28_Static vehicles.planes.Plane$B_24J100 1 389723.59 278082.93 405.00 0.0 us 1 1.0 null 1
+  29_Static vehicles.planes.Plane$B_24J100 1 389684.20 278042.73 400.00 0.0 us 1 1.0 null 1
+  30_Static vehicles.planes.Plane$B_24J100 1 389652.53 278006.99 405.00 0.0 us 1 1.0 null 1
+  31_Static vehicles.planes.Plane$B_24J100 1 389601.77 277932.69 395.00 0.0 us 1 1.0 null 1
+  32_Static vehicles.planes.Plane$B_24J100 1 389574.57 277898.98 405.00 0.0 us 1 1.0 null 1
+  33_Static vehicles.planes.Plane$B_24J100 1 388932.22 277029.69 345.00 0.0 us 1 1.0 null 1
+  34_Static vehicles.planes.Plane$B_24J100 1 388964.53 276985.33 320.00 0.0 us 1 1.0 null 1
+  35_Static vehicles.planes.Plane$B_24J100 1 390055.93 278223.67 469.10 0.0 us 1 1.0 null 1
+  36_Static vehicles.planes.Plane$B_24J100 1 390119.44 278180.46 514.10 0.0 us 1 1.0 null 1
+  37_Static vehicles.planes.Plane$B_24J100 1 389049.08 277297.01 409.10 0.0 us 1 1.0 null 1
+  38_Static vehicles.planes.Plane$B_24J100 1 389018.58 277260.23 394.10 0.0 us 1 1.0 null 1
+  39_Static vehicles.planes.Plane$B_24J100 1 390380.11 277249.25 509.10 0.0 us 1 1.0 null 1
+  40_Static vehicles.planes.Plane$B_24J100 1 390371.45 277302.86 519.10 0.0 us 1 1.0 null 1
+  41_Static vehicles.planes.Plane$B_24J100 1 390262.23 277264.26 385.00 0.0 us 1 1.0 null 1
+  42_Static vehicles.planes.Plane$B_24J100 1 390252.33 277308.79 380.00 0.0 us 1 1.0 null 1
+  43_Static vehicles.artillery.Artillery$ATG38_45mm 1 389550.16 278168.61 540.00 0.0 0 1 1
+  44_Static vehicles.artillery.Artillery$ATG38_45mm 1 389908.98 278311.65 540.00 0.0 0 1 1
+  45_Static vehicles.artillery.Artillery$ATG38_45mm 1 390667.81 277894.65 540.00 0.0 0 1 1
+  46_Static vehicles.artillery.Artillery$ATG38_45mm 1 389988.98 277017.02 540.00 0.0 0 1 1
+  47_Static vehicles.artillery.Artillery$ATG38_45mm 1 388970.73 276871.56 540.00 0.0 0 1 1
+  48_Static vehicles.artillery.Artillery$ATG38_45mm 1 389101.65 276752.76 540.00 0.0 0 1 1
+  49_Static vehicles.planes.Plane$B_24J100 1 388940.74 277197.70 420.00 0.0 us 1 1.0 null 1
+  50_Static vehicles.planes.Plane$B_24J100 1 388899.01 277096.49 360.00 0.0 us 1 1.0 null 1
+[Buildings]
+  0_bld House$IndustrialFactoryTank1 1 390371.18 277558.55 540.00
+  1_bld House$IndustrialFactoryTank1 1 390377.45 277615.06 540.00
+  2_bld House$IndustrialFactoryTank1 1 390333.50 277650.94 540.00
+  3_bld House$IndustrialFactoryTank1 1 390352.34 277692.20 540.00
+[Bridge]
+[House]

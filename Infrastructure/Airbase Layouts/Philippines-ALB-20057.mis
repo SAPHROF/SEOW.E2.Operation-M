@@ -1,0 +1,121 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 12.000002
+  WEAPONSCONSTANT 1
+  CloudType 0
+  CloudHeight 892.0
+  army 1
+  playerNum 0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 9
+[WEATHER]
+  WindDirection 55.0
+  WindSpeed 8.0
+  Gust 10
+  Turbulence 4
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 0
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 100
+  MDS_Radar_ShipRadar_MinHeight 100
+  MDS_Radar_ShipRadar_MaxHeight 5000
+  MDS_Radar_ShipSmallRadar_MaxRange 25
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 2000
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 1500
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 0
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 0
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 0
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 1.0
+[RespawnTime]
+  Bigship 1800
+  Ship 1800
+  Aeroanchored 1800
+  Artillery 1800
+  Searchlight 1800
+[Wing]
+  USA_FG_035_FS_039z13
+  USA_FG_035_FS_039z10
+[USA_FG_035_FS_039z13]
+  Planes 1
+  Skill 1
+  Class air.A_20B
+  Fuel 100
+  weapons default
+[USA_FG_035_FS_039z13_Way]
+  TAKEOFF 278034.97 447707.59 0 0 &0
+[USA_FG_035_FS_039z10]
+  Planes 1
+  Skill 1
+  Class air.A_20B
+  Fuel 100
+  weapons default
+[USA_FG_035_FS_039z10_Way]
+  LANDING 276389.91 445649.93 0 0 &0
+[NStationary]
+  0_Static vehicles.planes.Plane$H8K1 2 277769.01 446876.96 489.10 0.0 null 2 1.0 null 1
+  1_Static vehicles.artillery.Artillery$ATG38_45mm 1 277140.39 445294.36 510.00 0.0 0 1 1
+  2_Static vehicles.planes.Plane$H8K1 2 277756.46 446720.90 199.10 0.0 null 2 1.0 null 1
+  3_Static vehicles.planes.Plane$H8K1 2 277817.20 446517.20 219.10 0.0 null 2 1.0 null 1
+  4_Static vehicles.artillery.Artillery$ATG38_45mm 1 278174.57 446484.82 570.00 0.0 0 1 1
+  5_Static vehicles.planes.Plane$H8K1 2 277487.58 445450.45 204.10 0.0 null 2 1.0 null 1
+  6_Static vehicles.artillery.Artillery$ATG38_45mm 1 277973.42 446367.60 435.00 0.0 0 1 1
+  7_Static vehicles.artillery.Artillery$ATG38_45mm 1 278144.76 445099.69 465.00 0.0 0 1 1
+  8_Static vehicles.planes.Plane$H8K1 2 277717.79 446349.64 204.10 0.0 null 2 1.0 null 1
+  9_Static vehicles.planes.Plane$H8K1 2 277815.54 446332.20 214.10 0.0 null 2 1.0 null 1
+  10_Static vehicles.planes.Plane$H8K1 2 277828.96 446246.57 189.10 0.0 null 2 1.0 null 1
+  11_Static vehicles.planes.Plane$H8K1 2 276236.07 445851.39 279.10 0.0 null 2 1.0 null 1
+  12_Static vehicles.planes.Plane$H8K1 2 277720.32 445546.33 534.10 0.0 null 2 1.0 null 1
+  13_Static vehicles.planes.Plane$H8K1 2 277738.30 446261.42 189.10 0.0 null 2 1.0 null 1
+  14_Static vehicles.planes.Plane$H8K1 2 277630.32 446278.71 184.10 0.0 null 2 1.0 null 1
+  15_Static vehicles.planes.Plane$H8K1 2 277522.51 446343.53 489.10 0.0 null 2 1.0 null 1
+  16_Static vehicles.planes.Plane$H8K1 2 277611.61 446372.34 219.10 0.0 null 2 1.0 null 1
+  17_Static vehicles.artillery.Artillery$ATG38_45mm 1 277922.72 446830.90 645.00 0.0 0 1 1
+  18_Static vehicles.planes.Plane$H8K1 2 277186.12 445580.36 269.10 0.0 null 2 1.0 null 1
+  19_Static vehicles.planes.Plane$H8K1 2 277854.45 446048.21 209.10 0.0 null 2 1.0 null 1
+  20_Static vehicles.planes.Plane$H8K1 2 277463.80 445709.56 244.10 0.0 null 2 1.0 null 1
+  21_Static vehicles.planes.Plane$H8K1 2 277393.38 445748.41 199.10 0.0 null 2 1.0 null 1
+  22_Static vehicles.artillery.Artillery$ATG38_45mm 1 277944.20 445791.85 675.00 0.0 0 1 1
+  23_Static vehicles.planes.Plane$H8K1 2 277410.79 445540.31 274.10 0.0 null 2 1.0 null 1
+  24_Static vehicles.planes.Plane$H8K1 2 277321.38 445554.36 259.10 0.0 null 2 1.0 null 1
+  25_Static vehicles.planes.Plane$H8K1 2 277421.10 445636.55 304.10 0.0 null 2 1.0 null 1
+  26_Static vehicles.planes.Plane$H8K1 2 277329.51 445621.79 284.10 0.0 null 2 1.0 null 1
+  27_Static vehicles.planes.Plane$H8K1 2 277294.09 445710.67 259.10 0.0 null 2 1.0 null 1
+  28_Static vehicles.planes.Plane$H8K1 2 277747.87 446614.42 204.10 0.0 null 2 1.0 null 1
+  29_Static vehicles.artillery.Artillery$ATG38_45mm 1 277553.06 445355.40 360.00 0.0 0 1 1
+  30_Static vehicles.planes.Plane$H8K1 2 277687.86 447124.92 489.10 0.0 null 2 1.0 null 1
+  31_Static vehicles.planes.Plane$H8K1 2 277858.04 445761.65 249.10 0.0 null 2 1.0 null 1
+  32_Static vehicles.planes.Plane$H8K1 2 277119.16 445775.58 219.10 0.0 null 2 1.0 null 1
+  33_Static vehicles.artillery.Artillery$ATG38_45mm 1 277043.79 445614.43 615.00 0.0 0 1 1
+  34_Static vehicles.planes.Plane$H8K1 2 276522.64 445730.57 294.10 0.0 null 2 1.0 null 1
+  35_Static vehicles.planes.Plane$H8K1 2 276978.99 445744.17 249.10 0.0 null 2 1.0 null 1
+  36_Static vehicles.artillery.Artillery$ATG38_45mm 1 276386.07 445760.82 405.00 0.0 0 1 1
+  37_Static vehicles.planes.Plane$H8K1 2 276577.70 445603.99 239.10 0.0 null 2 1.0 null 1
+  38_Static vehicles.planes.Plane$H8K1 2 277797.78 446134.71 504.10 0.0 null 1 1.0 null 1
+  39_Static vehicles.planes.Plane$H8K1 2 276748.21 445443.80 234.10 0.0 null 1 1.0 null 1
+  40_Static vehicles.planes.Plane$H8K1 2 277556.05 446294.87 184.10 0.0 null 1 1.0 null 1
+  41_Static vehicles.planes.Plane$H8K1 2 276453.82 445890.19 204.10 0.0 null 1 1.0 null 1
+  42_Static vehicles.planes.Plane$H8K1 2 276348.28 445908.93 209.10 0.0 null 1 1.0 null 1
+  43_Static vehicles.artillery.Artillery$ATG38_45mm 1 278077.45 447123.30 645.00 0.0 0 1 1
+  44_Static vehicles.artillery.Artillery$ATG38_45mm 1 276304.73 445238.49 645.00 0.0 0 1 1
+[Buildings]
+  6_bld House$IndustrialFactoryTank1 1 277051.50 445402.81 474.10
+  7_bld House$IndustrialFactoryTank1 1 276979.26 445399.85 519.10
+  8_bld House$IndustrialFactoryTank1 1 278050.07 446532.34 510.00
+  9_bld House$IndustrialFactoryTank1 1 278023.41 446567.46 510.00
+  10_bld House$IndustrialFactoryTank1 1 277948.01 445242.98 474.10
+  11_bld House$IndustrialFactoryTank1 1 277888.82 445217.21 519.10
+[Bridge]
+[House]

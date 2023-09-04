@@ -15548,6 +15548,34 @@ CREATE TABLE `bridges` (
 
 /*Data for the table `bridges` */
 
+insert  into `bridges`(`Map`,`Obj_Construction`,`Obj_Name`,`Damage_Name`,`Obj_State`,`Obj_Type`,`Length`,`X_Axis`,`Y_Axis`) values 
+('Philippines','Metal',12,'c',0,'Railway Bridge',400,281700,483100),
+('Philippines','Metal',13,'d',0,'Railway Bridge',200,283200,514500),
+('Philippines','Metal',14,'e',0,'Railway Bridge',200,334400,591700),
+('Philippines','Metal',15,'f',0,'Railway Bridge',400,332900,595900),
+('Philippines','Metal',16,'g',0,'Railway Bridge',566,516300,110500),
+('Philippines','Metal',18,'i',0,'Railway Bridge',400,326900,632300),
+('Philippines','Metal',19,'j',0,'Railway Bridge',400,327900,618500),
+('Philippines','Metal',22,'m',0,'Railway Bridge',400,294500,463700),
+('Philippines','Metal',24,'o',0,'Railway Bridge',600,509700,191000),
+('Philippines','Wooden',0,'0',0,'Road Bridge',200,179800,27500),
+('Philippines','Wooden',1,'1',0,'Road Bridge',200,283200,514300),
+('Philippines','Wooden',2,'2',0,'Road Bridge',200,334400,591900),
+('Philippines','Wooden',3,'3',0,'Road Bridge',200,327800,618300),
+('Philippines','Wooden',4,'4',0,'Road Bridge',200,326800,632500),
+('Philippines','Wooden',5,'5',0,'Road Bridge',200,510100,191200),
+('Philippines','Wooden',6,'6',0,'Road Bridge',283,516400,110400),
+('Philippines','Wooden',7,'7',0,'Road Bridge',283,373400,281000),
+('Philippines','Wooden',8,'8',0,'Road Bridge',283,471400,338600),
+('Philippines','Wooden',9,'9',0,'Road Bridge',200,471500,336800),
+('Philippines','Wooden',10,'a',0,'Road Bridge',283,471800,336200),
+('Philippines','Wooden',11,'b',0,'Road Bridge',283,473400,335000),
+('Philippines','Wooden',17,'h',0,'Road Bridge',400,281300,483700),
+('Philippines','Wooden',20,'k',0,'Road Bridge',400,332700,596100),
+('Philippines','Wooden',21,'l',0,'Road Bridge',200,386100,249000),
+('Philippines','Wooden',23,'n',0,'Road Bridge',400,295500,463700),
+('Philippines','Wooden',25,'p',0,'Road Bridge',400,302300,406100);
+
 /*Table structure for table `cameras` */
 
 DROP TABLE IF EXISTS `cameras`;
@@ -25750,18 +25778,6 @@ insert  into `route_blockages`(`Map`,`Blockage_X`,`Blockage_Y`,`Blockage_Name`,`
 ('Smolensk',129324,13194,'1','Road'),
 ('KurskX',79532,23705,'1','Road'),
 ('Slovakia',25000,102100,'Bylnitz West','Rail'),
-('Philippines',326500,632300,'Aparri1','Rail'),
-('Philippines',327100,632300,'Aparri2','Rail'),
-('Philippines',329300,617900,'Tuguegarao North','Rail'),
-('Philippines',330100,617300,'Tuguegarao South','Rail'),
-('Philippines',332900,596300,'Roxas North','Rail'),
-('Philippines',332500,594700,'Roxas South','Rail'),
-('Philippines',297500,456700,'Neilson North','Rail'),
-('Philippines',296900,456100,'Neilson South','Rail'),
-('Philippines',398500,416100,'Naga West','Rail'),
-('Philippines',399100,416100,'Naga East','Rail'),
-('Philippines',294900,465500,'Manila North','Rail'),
-('Philippines',296500,459700,'Manila South','Rail'),
 ('Iasi',45300,218100,'Ceplenita South-East 1','Rail'),
 ('Iasi',45700,218100,'Ceplenita South-East 2','Rail'),
 ('Iasi',101300,129900,'Husi South-West 2','Rail'),

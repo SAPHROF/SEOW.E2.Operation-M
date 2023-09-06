@@ -13,3 +13,7 @@ United States (US)
   War Plan Orange (Phase II)
  * Hold Manilla and Mindanao
  * Sink Japanese Transport Fleet
+
+
+Game Requirements: 
+IL-2 1946 4.12.2 (expert mode)

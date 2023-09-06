@@ -5,12 +5,12 @@ After the sudden strike on Pearl Harbor and the Philippines, the United States m
 
 Objectives:
 Imperial Japan (IJ)
-  Operation-M
+Operation-M
  * Capture Luzon in 50 days (Jan 27, 1942)
  * Destroy FEAF Bases (less than 30% aircraft capacity on airfields)
 
 United States (US)
-  War Plan Orange (Phase II)
+War Plan Orange (Phase II)
  * Hold Manilla and Mindanao
  * Sink Japanese Transport Fleet
 

@@ -68,6 +68,42 @@
   USA_BG_019_BS_028z01
   USA_BG_019_BS_028z02
   USA_BG_019_BS_028z03
+  IJA_F_S_24z00
+  IJA_F_S_24z01
+  IJA_F_S_24z10
+  IJA_F_S_24z11
+  IJA_F_C_14z00
+  IJA_F_C_14z01
+  IJA_F_C_14z12
+  IJA_F_C_14z11
+  IJA_F_C_14z10
+  IJA_F_D_8z00
+  IJA_F_D_8z01
+  USN_VP_10200
+  USN_VP_10201
+  USN_VP_10202
+  USN_VP_10203
+  USN_VP_10100
+  USN_VP_10101
+  USN_VP_10102
+  USN_VP_10103
+  USA_FG_018_FS_006z00
+  USA_FG_018_FS_006z01
+  USA_FG_035_FS_039z20
+  IJA_F_S_11z20
+  IJA_F_S_11z21
+  IJA_F_S_24z12
+  IJA_F_S_50z00
+  IJA_F_S_50z01
+  IJN_AG_3z20
+  IJN_AG_3z21
+  IJN_AG_3z10
+  IJN_AG_3z11
+  IJN_AG_3z00
+  IJN_AG_3z01
+  IJN_AG_3z22
+  IJN_AG_3z23
+  IJN_AG_13z00
 [USA_FG_024_FS_003z10]
   Planes 4
   Skill 1
@@ -211,7 +247,7 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z00_Way]
-  NORMFLY 267402.29 475116.59 500.00 300.00 &0
+  NORMFLY 267403.20 475116.59 500.00 300.00 &0
   LANDING 267624.99 475364.38 0 0 &0
 [USA_FG_035_FS_039z01]
   Planes 4
@@ -220,7 +256,7 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z01_Way]
-  NORMFLY 267506.59 475091.31 500.00 300.00 &0
+  NORMFLY 267506.59 475089.72 500.00 300.00 &0
   LANDING 267628.60 475364.38 0 0 &0
 [USA_FG_035_FS_039z10]
   Planes 4
@@ -276,6 +312,332 @@
 [USA_BG_019_BS_028z03_Way]
   NORMFLY 272568.99 480707.19 500.00 300.00 &0
   LANDING 272646.84 482273.16 0 0 &0
+[IJA_F_S_24z00]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_24z00_Way]
+  NORMFLY 337632.58 676283.97 500.00 300.00 &0
+  LANDING 337478.36 675638.01 0 0 &0
+[IJA_F_S_24z01]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_24z01_Way]
+  NORMFLY 337063.89 675762.87 500.00 300.00 &0
+  LANDING 337417.72 675548.11 0 0 &0
+[IJA_F_S_24z10]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_24z10_Way]
+  NORMFLY 310025.53 645986.29 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJA_F_S_24z11]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_24z11_Way]
+  NORMFLY 310001.33 646028.77 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJA_F_C_14z00]
+  Planes 4
+  Skill 1
+  Class air.KI_21_I
+  Fuel 100
+  weapons default
+[IJA_F_C_14z00_Way]
+  NORMFLY 309255.98 645898.74 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJA_F_C_14z01]
+  Planes 4
+  Skill 1
+  Class air.KI_21_I
+  Fuel 100
+  weapons default
+[IJA_F_C_14z01_Way]
+  NORMFLY 309223.53 645845.65 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJA_F_C_14z12]
+  Planes 2
+  Skill 1
+  Class air.KI_21_I
+  Fuel 100
+  weapons default
+[IJA_F_C_14z12_Way]
+  NORMFLY 268276.52 608245.44 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[IJA_F_C_14z11]
+  Planes 4
+  Skill 1
+  Class air.KI_21_I
+  Fuel 100
+  weapons default
+[IJA_F_C_14z11_Way]
+  NORMFLY 268266.54 608377.11 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[IJA_F_C_14z10]
+  Planes 4
+  Skill 1
+  Class air.KI_21_I
+  Fuel 100
+  weapons default
+[IJA_F_C_14z10_Way]
+  NORMFLY 268132.87 608335.22 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[IJA_F_D_8z00]
+  Planes 1
+  Skill 1
+  Class air.KI_46_RECCE
+  Fuel 100
+  weapons default
+[IJA_F_D_8z00_Way]
+  NORMFLY 309603.45 644261.40 500.00 300.00 &0
+  LANDING 309204.16 644622.44 0 0 &0
+[IJA_F_D_8z01]
+  Planes 1
+  Skill 1
+  Class air.KI_46_RECCE
+  Fuel 100
+  weapons default
+[IJA_F_D_8z01_Way]
+  NORMFLY 268469.62 606950.31 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[USN_VP_10200]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10200_Way]
+  NORMFLY 277092.39 447043.27 500.00 300.00 &0
+  LANDING 276298.81 447798.69 0 0 &0
+[USN_VP_10201]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10201_Way]
+  NORMFLY 276724.94 446333.13 500.00 300.00 &0
+  LANDING 276298.81 447798.69 0 0 &0
+[USN_VP_10202]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10202_Way]
+  NORMFLY 506635.03 293057.61 500.00 300.00 &0
+  LANDING 507616.22 292633.50 0 0 &0
+[USN_VP_10203]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10203_Way]
+  NORMFLY 391524.37 295680.85 500.00 300.00 &0
+  LANDING 392289.28 295912.69 0 0 &0
+[USN_VP_10100]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10100_Way]
+  NORMFLY 191138.42 245413.28 500.00 300.00 &0
+  LANDING 190547.66 245264.02 0 0 &0
+[USN_VP_10101]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10101_Way]
+  NORMFLY 304585.22 43888.52 500.00 300.00 &0
+  LANDING 305961.06 44294.73 0 0 &0
+[USN_VP_10102]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10102_Way]
+  NORMFLY 304019.94 44162.05 500.00 300.00 &0
+  LANDING 305961.06 44294.73 0 0 &0
+[USN_VP_10103]
+  Planes 4
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10103_Way]
+  NORMFLY 472172.21 170217.51 500.00 300.00 &0
+  LANDING 472390.38 170591.83 0 0 &0
+[USA_FG_018_FS_006z00]
+  Planes 4
+  Skill 1
+  Class air.P_26
+  Fuel 100
+  weapons default
+[USA_FG_018_FS_006z00_Way]
+  NORMFLY 301191.14 405415.53 500.00 300.00 &0
+  LANDING 301447.69 404910.69 0 0 &0
+[USA_FG_018_FS_006z01]
+  Planes 4
+  Skill 1
+  Class air.P_26
+  Fuel 100
+  weapons default
+[USA_FG_018_FS_006z01_Way]
+  NORMFLY 301823.29 404734.48 500.00 300.00 &0
+  LANDING 301447.69 404910.69 0 0 &0
+[USA_FG_035_FS_039z20]
+  Planes 1
+  Skill 1
+  Class air.P_36A4
+  Fuel 100
+  weapons default
+[USA_FG_035_FS_039z20_Way]
+  NORMFLY 273788.06 481852.82 500.00 300.00 &0
+  LANDING 272839.84 482221.47 0 0 &0
+[IJA_F_S_11z20]
+  Planes 4
+  Skill 1
+  Class air.FiatBr20
+  Fuel 100
+  weapons default
+[IJA_F_S_11z20_Way]
+  NORMFLY 268958.03 608386.46 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[IJA_F_S_11z21]
+  Planes 4
+  Skill 1
+  skin0 JAPAN - Fiat Br20 - 001.bmp
+  Class air.FiatBr20
+  Fuel 100
+  weapons default
+[IJA_F_S_11z21_Way]
+  NORMFLY 268984.98 608256.50 500.00 300.00 &0
+  LANDING 268006.66 608094.31 0 0 &0
+[IJA_F_S_24z12]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_24z12_Way]
+  NORMFLY 310120.38 645789.09 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJA_F_S_50z00]
+  Planes 4
+  Skill 1
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_50z00_Way]
+  NORMFLY 267307.02 608441.39 500.00 300.00 &0
+  LANDING 267082.84 607934.88 0 0 &0
+[IJA_F_S_50z01]
+  Planes 4
+  Skill 1
+  skin0 RRG_85 Sentai - 2 Chutai.bmp
+  Class air.KI_27_OTSU
+  Fuel 100
+  weapons default
+[IJA_F_S_50z01_Way]
+  NORMFLY 267459.78 608399.11 500.00 300.00 &0
+  LANDING 267082.84 607934.88 0 0 &0
+[IJN_AG_3z20]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z20_Way]
+  NORMFLY 308813.26 645843.60 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJN_AG_3z21]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z21_Way]
+  NORMFLY 308788.52 645774.93 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
+[IJN_AG_3z10]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z10_Way]
+  NORMFLY 365477.65 584424.35 500.00 300.00 &0
+  LANDING 365067.25 585071.44 0 0 &0
+[IJN_AG_3z11]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z11_Way]
+  NORMFLY 365534.91 584483.53 500.00 300.00 &0
+  LANDING 365067.25 585071.44 0 0 &0
+[IJN_AG_3z00]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z00_Way]
+  NORMFLY 337890.13 676614.40 500.00 300.00 &0
+  LANDING 337784.79 675768.71 0 0 &0
+[IJN_AG_3z01]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_3z01_Way]
+  NORMFLY 337793.56 676649.51 500.00 300.00 &0
+  LANDING 337694.07 675771.64 0 0 &0
+[IJN_AG_3z22]
+  Planes 4
+  Skill 1
+  Class air.A5M4
+  Fuel 100
+  weapons default
+[IJN_AG_3z22_Way]
+  NORMFLY 365980.89 584981.75 500.00 300.00 &0
+  LANDING 365067.25 585071.44 0 0 &0
+[IJN_AG_3z23]
+  Planes 4
+  Skill 1
+  Class air.A5M4
+  Fuel 100
+  weapons default
+[IJN_AG_3z23_Way]
+  NORMFLY 365982.87 585090.43 500.00 300.00 &0
+  LANDING 365067.25 585071.44 0 0 &0
+[IJN_AG_13z00]
+  Planes 2
+  Skill 1
+  Class air.A5M4
+  Fuel 100
+  weapons 1xdt
+[IJN_AG_13z00_Way]
+  NORMFLY 309292.61 646115.40 500.00 300.00 &0
+  LANDING 309580.91 645645.19 0 0 &0
 [Chiefs]
   0_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
   1_Chief Ships.USSMcKean 1 0 2 1.0
@@ -324,6 +686,38 @@
   44_Chief Ships.USSGreenlingSS213_Srf 1 0 2 1.0
   45_Chief Ships.USSGatoSS212_Srf 1 0 2 1.0
   47_Chief Trains.Germany_CargoTrain/AA 1
+  46_Chief Vehicles.USACarsColumnC 1
+  48_Chief Vehicles.USACarsColumnC 1
+  49_Chief Vehicles.USACarsColumnE 1
+  50_Chief Vehicles.USACarsColumnE 1
+  51_Chief Vehicles.USACarsColumnE 1
+  52_Chief Vehicles.USACarsColumnB 1
+  53_Chief Vehicles.USACarsColumnB 1
+  54_Chief Vehicles.USACarsColumnB 1
+  55_Chief Vehicles.USACarsColumnE 1
+  56_Chief Vehicles.JapanCarsColumnA 2
+  57_Chief Vehicles.JapanCarsColumnA 2
+  58_Chief Vehicles.JapanCarsColumnC 2
+  59_Chief Vehicles.JapanCarsColumnE 2
+  60_Chief Ships.Transport3 2 0 2 1.0
+  61_Chief Ships.Transport3 2 0 2 1.0
+  63_Chief Ships.Transport3 2 0 2 1.0
+  64_Chief Vehicles.JapanCarsColumnA 2
+  65_Chief Infantry.4-JapInfantry 2
+  66_Chief Infantry.4-JapInfantry 2
+  76_Chief Infantry.4-USInfantry 1
+  77_Chief Infantry.4-USInfantry 1
+  79_Chief Infantry.4-USInfantry 1
+  81_Chief Vehicles.4-Chevrolet_flatbed_US 1
+  82_Chief Vehicles.4-DiamondT_US 1
+  83_Chief Vehicles.Bulldozer_US 1
+  62_Chief Ships.MAS501UNP 1 0 2 1.0
+  67_Chief Trains.Germany_EquipmentCTrain/AA 1
+  68_Chief Armor.4-M3A1Stuart 1
+  69_Chief Armor.4-M3A1Stuart 1
+  70_Chief Armor.4-M3A1Stuart 1
+  71_Chief Armor.3-M3Lee 1
+  72_Chief Armor.3-M3Lee 1
 [0_Chief_Road]
   258880.95 439095.84 120.00 0 2 5.555555820465088
   258748.58 440158.09 120.00
@@ -382,17 +776,17 @@
   292667.38 464244.06 120.00 0 2 8.333333969116211
   292419.75 463957.75 120.00
 [19_Chief_Road]
-  292574.13 458753.34 120.00 0 2 8.333333969116211
-  292371.72 459274.72 120.00
+  292574.13 458747.94 120.00 0 2 8.333333969116211
+  292757.59 459599.66 120.00
 [20_Chief_Road]
-  368601.31 590050.31 120.00 0 2 8.333333969116211
-  368484.88 590742.81 120.00
+  367152.09 532034.69 120.00 0 2 8.333333969116211
+  363455.06 531089.38 120.00
 [21_Chief_Road]
-  367737.22 590473.19 120.00 0 2 8.333333969116211
-  367498.22 591300.50 120.00
+  362768.75 530024.81 120.00 0 2 8.333333969116211
+  367353.34 531300.69 120.00
 [22_Chief_Road]
-  366836.41 589694.94 120.00 0 2 8.333333969116211
-  366689.31 590871.50 120.00
+  362627.84 531535.00 120.00 0 2 8.333333969116211
+  367351.16 532895.31 120.00
 [23_Chief_Road]
   163669.36 512538.50 120.00 0 2 8.333333969116211
   163782.27 513493.44 120.00
@@ -409,8 +803,8 @@
   187348.22 247229.39 120.00 0 2 2.777777910232544
   187785.30 249474.41 120.00
 [28_Chief_Road]
-  673837.69 654587.44 120.00 0 2 2.777777910232544
-  654933.13 649751.38 120.00
+  624868.25 349295.25 120.00 0 2 2.777777910232544
+  539014.44 363970.25 120.00
 [29_Chief_Road]
   272843.97 440956.03 120.00 0 2 2.777777910232544
   272497.63 443726.66 120.00
@@ -485,6 +879,107 @@
   275500.00 497300.00 20.00
   275500.00 501300.00 20.00
   276100.00 501900.00 20.00
+[46_Chief_Road]
+  290654.09 458049.38 120.00 0 2 2.6388890743255615
+  290822.34 458228.16 120.00
+[48_Chief_Road]
+  271038.19 481864.44 120.00 0 2 2.6388890743255615
+  271186.78 481839.53 120.00
+[49_Chief_Road]
+  271700.94 483369.44 120.00 0 2 2.6388890743255615
+  271700.81 483583.16 120.00
+[50_Chief_Road]
+  296319.34 458340.06 120.00 0 2 2.6388890743255615
+  296107.94 458439.75 120.00
+[51_Chief_Road]
+  295494.19 464431.53 120.00 0 2 2.6388890743255615
+  295499.09 464768.81 120.00
+[52_Chief_Road]
+  290484.22 457788.13 120.00 0 2 2.6388890743255615
+  290520.03 457932.56 120.00
+[53_Chief_Road]
+  247289.42 503694.03 120.00 0 2 2.6388890743255615
+  247205.64 503973.34 120.00
+[54_Chief_Road]
+  514641.47 102148.00 120.00 0 2 2.6388890743255615
+  514914.78 102351.47 120.00
+[55_Chief_Road]
+  509891.13 193062.36 120.00 0 2 2.6388890743255615
+  509904.59 192926.17 120.00
+[56_Chief_Road]
+  308520.72 644638.88 120.00 0 2 1.6666667461395264
+  308778.13 644568.13 120.00
+[57_Chief_Road]
+  329860.72 618037.88 120.00 0 2 1.6666667461395264
+  330160.53 617878.50 120.00
+[58_Chief_Road]
+  329518.88 643404.50 120.00 0 2 2.5
+  329694.25 643192.44 120.00
+[59_Chief_Road]
+  329109.47 618464.75 120.00 0 2 1.6666667461395264
+  329339.53 618160.94 120.00
+[60_Chief_Road]
+  328125.16 645426.13 120.00 0 4 5.0
+  328700.00 645300.00 120.00
+  329002.00 644998.00 120.00
+  329169.88 644804.06 120.00
+[61_Chief_Road]
+  328952.25 645517.38 120.00 0 2 5.0
+  329775.59 645105.75 120.00
+[63_Chief_Road]
+  264317.00 609957.75 120.00 0 2 5.0
+  264138.25 608701.06 120.00
+[64_Chief_Road]
+  267320.06 608779.06 120.00 0 2 2.5
+  267696.38 608652.25 120.00
+[65_Chief_Road]
+  267041.91 608533.69 120.00 0 2 1.0
+  266914.66 608416.13 120.00
+[66_Chief_Road]
+  268915.28 607630.56 120.00 0 2 1.0
+  268772.09 607458.75 120.00
+[76_Chief_Road]
+  510897.84 100227.10 120.00 0 2 1.0
+  511150.19 100149.76 120.00
+[77_Chief_Road]
+  512583.44 195483.25 120.00 0 2 1.0
+  512420.75 195812.69 120.00
+[79_Chief_Road]
+  267785.41 475984.94 120.00 0 2 1.0
+  267934.66 476145.88 120.00
+[81_Chief_Road]
+  361242.03 433382.72 120.00 0 4 2.6388890743255615
+  361300.00 433500.00 20.00
+  361500.00 433700.00 20.00
+  361708.31 433624.59 120.00
+[82_Chief_Road]
+  295693.50 462104.75 120.00 0 2 2.6388890743255615
+  295508.69 462192.81 120.00
+[83_Chief_Road]
+  295317.34 457766.25 120.00 0 2 1.6666667461395264
+  295186.25 457776.03 120.00
+[62_Chief_Road]
+  290561.00 459295.72 120.00 0 2 8.333333969116211
+  290422.50 459634.59 120.00
+[67_Chief_Road]
+  296100.00 460100.00 20.00 0 3 5.555555820465088
+  295900.00 460300.00 20.00
+  295900.00 461100.00 20.00
+[68_Chief_Road]
+  279470.38 484871.66 120.00 0 2 2.5
+  279468.44 485018.50 120.00
+[69_Chief_Road]
+  335825.09 580379.00 120.00 0 2 2.5
+  335810.34 580839.13 120.00
+[70_Chief_Road]
+  515405.88 102671.39 120.00 0 2 2.5
+  515076.38 102756.73 120.00
+[71_Chief_Road]
+  514828.31 102615.58 120.00 0 2 1.9444445371627808
+  514796.00 102874.07 120.00
+[72_Chief_Road]
+  296988.97 466441.41 120.00 0 2 1.9444445371627808
+  296864.25 466787.88 120.00
 [NStationary]
   0_Static ships.Ship$TroopTrans0 1 294210.46 461610.57 630.00 0.0 0 2 1.0
   1_Static ships.Ship$TroopTrans0 1 294175.09 460299.76 660.00 0.0 0 2 1.0
@@ -500,6 +995,55 @@
   12_Static ships.Ship$Tanker1 1 263299.62 537197.33 665.00 0.0 0 2 1.0
   13_Static ships.Ship$HospitalShip 1 291011.53 462738.90 660.00 0.0 0 2 1.0
   14_Static ships.Ship$Tanker0 1 294851.62 458676.36 495.00 0.0 0 2 1.0
+  6_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 296747.18 457773.57 360.00 0.0 0 1 1
+  15_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 274158.62 484150.05 360.00 0.0 0 1 1
+  16_Static vehicles.artillery.Artillery$_50calMG_water_US 1 271977.87 483955.96 360.00 0.0 0 1 1
+  17_Static vehicles.artillery.Artillery$_50calMG_water_US 1 246080.54 503817.76 360.00 0.0 0 1 1
+  18_Static vehicles.artillery.Artillery$_50calMG_water_US 1 264580.61 534963.16 360.00 0.0 0 1 1
+  19_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 266098.04 535943.11 360.00 0.0 0 1 1
+  20_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 271087.83 483218.62 360.00 0.0 0 1 1
+  21_Static vehicles.artillery.Artillery$JapInfantryE 2 308932.98 645504.99 540.00 0.0 0 1 1
+  22_Static vehicles.artillery.Artillery$JapInfantryE 2 329042.77 643470.09 495.00 0.0 0 1 1
+  23_Static vehicles.artillery.Artillery$JapInfantryE 2 329044.78 617451.49 495.00 0.0 0 1 1
+  24_Static vehicles.artillery.Artillery$JapInfantryE 2 330148.16 617446.63 435.00 0.0 0 1 1
+  25_Static vehicles.artillery.Artillery$JapInfantryE 2 278845.18 608351.35 420.00 0.0 0 1 1
+  26_Static vehicles.artillery.Artillery$JapInfantryE 2 267666.82 606640.39 435.00 0.0 0 1 1
+  27_Static vehicles.artillery.Artillery$JapInfantryE 2 334649.88 591792.04 465.00 0.0 0 1 1
+  28_Static vehicles.artillery.Artillery$JapInfantryE 2 332311.53 594629.65 510.00 0.0 0 1 1
+  29_Static vehicles.artillery.Artillery$JapInfantryE 2 332367.43 595608.40 465.00 0.0 0 1 1
+  30_Static vehicles.artillery.Artillery$JapInfantryE 2 338421.08 676139.76 555.00 0.0 0 1 1
+  31_Static vehicles.artillery.Artillery$USInfantryE 1 274425.02 452991.47 495.00 0.0 0 1 1
+  32_Static vehicles.artillery.Artillery$USInfantryE 1 271388.96 481782.00 495.00 0.0 0 1 1
+  33_Static vehicles.artillery.Artillery$USInfantryE 1 282685.44 514410.46 375.00 0.0 0 1 1
+  34_Static vehicles.artillery.Artillery$USInfantryE 1 265963.58 535330.28 690.00 0.0 0 1 1
+  35_Static vehicles.artillery.Artillery$USInfantryE 1 361544.67 433562.48 450.00 0.0 0 1 1
+  36_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 308749.76 645047.81 450.00 0.0 0 1 1
+  37_Static vehicles.artillery.Artillery$Twin25mm_JA 2 309874.87 645144.82 450.00 0.0 0 1 1
+  38_Static vehicles.artillery.Artillery$Twin25mm_JA 2 328288.68 644166.69 450.00 0.0 0 1 1
+  39_Static vehicles.artillery.Artillery$Twin25mm_JA 2 329732.93 618235.54 450.00 0.0 0 1 1
+  40_Static vehicles.artillery.Artillery$Twin25mm_JA 2 365707.04 584664.46 450.00 0.0 0 1 1
+  41_Static vehicles.artillery.Artillery$Trip25mm_JA 2 364569.27 585133.75 450.00 0.0 0 1 1
+  42_Static vehicles.artillery.Artillery$Trip25mm_JA 2 266624.22 606842.84 450.00 0.0 0 1 1
+  43_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 268861.55 609354.21 450.00 0.0 0 1 1
+  44_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 309715.39 646381.20 450.00 0.0 0 1 1
+  45_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 339030.74 676333.47 450.00 0.0 0 1 1
+  46_Static vehicles.artillery.Artillery$Twin25mm_JA 2 336764.85 673218.77 450.00 0.0 0 1 1
+  47_Static vehicles.artillery.Artillery$Twin25mm_JA 2 333888.68 591725.97 450.00 0.0 0 1 1
+  48_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 331494.04 594984.21 450.00 0.0 0 1 1
+  49_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 332940.99 594490.29 450.00 0.0 0 1 1
+  50_Static vehicles.artillery.Artillery$Type94_37mm_JA 2 332471.06 594127.16 450.00 0.0 0 1 1
+  51_Static vehicles.artillery.Artillery$Type38_75mm 2 329609.70 616956.96 450.00 0.0 0 1 1
+  52_Static vehicles.artillery.Artillery$_50calMG_water_US 1 282677.99 514158.82 705.00 0.0 0 1 1
+  53_Static vehicles.artillery.Artillery$_50calMG_water_US 1 335335.61 579071.53 705.00 0.0 0 1 1
+  54_Static vehicles.artillery.Artillery$_50calMG_water_US 1 274598.36 452990.08 705.00 0.0 0 1 1
+  55_Static vehicles.artillery.Artillery$Zenit3K 1 296478.18 457457.13 660.00 0.0 0 1 1
+  56_Static vehicles.artillery.Artillery$Zenit3K 1 295593.80 460909.10 660.00 0.0 0 1 1
+  57_Static vehicles.artillery.Artillery$Zenit3K 1 294627.89 464375.10 660.00 0.0 0 1 1
+  58_Static vehicles.artillery.Artillery$Zenit3K 1 274349.48 485072.49 660.00 0.0 0 1 1
+  59_Static vehicles.artillery.Artillery$Zenit3K 1 269499.89 475239.76 660.00 0.0 0 1 1
+  60_Static vehicles.artillery.Artillery$Zenit3K 1 246138.89 504386.87 660.00 0.0 0 1 1
+  61_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 247635.20 504394.85 660.00 0.0 0 1 1
+  62_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 281729.74 513863.43 660.00 0.0 0 1 1
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00
@@ -996,7 +1540,7 @@
   492_bld House$PortFloor 1 486453.76 301235.10 360.00
   493_bld House$PortFloor 1 486453.86 301225.67 360.00
   494_bld House$PortFloor 1 486453.83 301215.96 360.00
-  495_bld House$PortFloor 1 486453.11 301205.87 360.00
+  495_bld House$PortFloor 1 486453.97 301205.98 360.00
   496_bld House$PortFloor 1 486453.89 301196.81 360.00
   497_bld House$PortFloor 1 486453.99 301187.02 360.00
   498_bld House$PortFloor 1 486454.04 301177.08 360.00
@@ -1259,7 +1803,7 @@
   755_bld House$PortBaseSmallSegment 1 365111.10 585594.01 450.00
   756_bld House$PortBaseSmallSegment 1 365111.99 585585.32 450.00
   757_bld House$PortBaseSmallSegment 1 365111.99 585576.76 450.00
-  758_bld House$RussiaCountryHouse1 1 360649.06 275625.25 415.00
+  758_bld House$RussiaCountryHouse1 1 361298.77 275192.59 415.00
   759_bld House$RussiaCountryHouse1 1 360643.79 275621.76 415.00
   760_bld House$GermanyCountryBarn 1 360634.10 275616.34 685.00
   761_bld House$IndustrialFactoryHouse1 1 359870.67 275091.47 555.00
@@ -1503,5 +2047,61 @@
   999_bld House$Water_Tower 1 271449.42 482892.83 450.00
   1000_bld House$46StoneWall1 1 271717.74 483819.63 719.79
   1001_bld House$Hangar_camoufB1 1 246974.92 503952.96 600.00
+  1002_bld Plate$MuddyGroundRunway 1 338214.92 676492.25 675.00
+  1003_bld Plate$MuddyGroundRunwayEnd 1 338228.64 676505.74 675.00
+  1004_bld Plate$MuddyGroundRunway 1 338204.22 676424.17 495.00
+  1005_bld Plate$MuddyGroundRunway 1 338176.45 676396.54 495.00
+  1006_bld Plate$MuddyGroundRunway 1 338147.82 676368.57 495.00
+  1007_bld Plate$MuddyGroundRunway 1 338119.73 676340.48 495.00
+  1008_bld Plate$MuddyGroundRunway 1 338092.54 676312.88 495.00
+  1009_bld Plate$MuddyGroundRunway 1 338064.19 676285.23 495.00
+  1010_bld Plate$MuddyGroundRunway 1 338036.22 676256.90 495.00
+  1011_bld Plate$MuddyGroundRunway 1 338008.61 676229.38 495.00
+  1012_bld Plate$MuddyGroundRunway 1 337980.06 676201.44 495.00
+  1013_bld Plate$MuddyGroundRunway 1 337951.96 676173.84 495.00
+  1014_bld Plate$MuddyGroundRunway 1 337927.91 676149.46 495.00
+  1015_bld Plate$MuddyGroundRunway 1 337902.63 676124.29 495.00
+  1016_bld Plate$MuddyGroundRunway 1 337879.03 676100.42 495.00
+  1017_bld Plate$MuddyGroundRunway 1 337839.62 676060.93 495.00
+  1018_bld Plate$MuddyGroundRunway 1 337811.40 676033.29 495.00
+  1019_bld Plate$MuddyGroundRunway 1 337783.30 676005.69 495.00
+  1020_bld Plate$MuddyGroundRunway 1 337754.34 675978.19 495.00
+  1021_bld Plate$MuddyGroundRunway 1 337727.49 675949.78 495.00
+  1022_bld Plate$MuddyGroundRunway 1 337699.51 675921.45 495.00
+  1023_bld Plate$MuddyGroundRunway 1 337671.04 675893.62 495.00
+  1024_bld Plate$MuddyGroundRunway 1 337642.59 675865.88 495.00
+  1025_bld Plate$MuddyGroundRunway 1 337616.05 675839.96 495.00
+  1026_bld Plate$MuddyGroundRunway 1 337596.19 675818.83 495.00
+  1027_bld Plate$MuddyGroundRunway 1 337567.55 675847.89 675.00
+  1028_bld Plate$MuddyGroundRunway 1 337541.73 675766.45 495.00
+  1029_bld Plate$MuddyGroundRunway 1 337514.75 675739.91 495.00
+  1030_bld Plate$MuddyGroundRunway 1 337487.25 675712.51 495.00
+  1031_bld Plate$MuddyGroundRunway 1 337459.69 675685.64 495.00
+  1032_bld Plate$MuddyGroundRunway 1 337432.01 675658.42 495.00
+  1033_bld Plate$MuddyGroundRunway 1 337405.13 675631.59 495.00
+  1034_bld Plate$MuddyGroundRunway 1 337377.41 675604.13 495.00
+  1035_bld Plate$MuddyGroundRunway 1 337350.06 675576.63 495.00
+  1036_bld Plate$MuddyGroundRunway 1 337322.29 675549.02 495.00
+  1037_bld Plate$MuddyGroundRunway 1 337295.07 675522.14 495.00
+  1038_bld Plate$MuddyGroundRunway 1 337267.01 675494.83 495.00
+  1039_bld Plate$MuddyGroundRunway 1 337239.74 675467.73 495.00
+  1040_bld Plate$MuddyGroundRunway 1 337211.22 675439.88 495.00
+  1041_bld Plate$MuddyGroundRunway 1 337183.18 675412.98 495.00
+  1042_bld Plate$MuddyGroundRunway 1 337156.06 675386.20 495.00
+  1043_bld Plate$MuddyGroundRunway 1 337128.08 675358.61 495.00
+  1044_bld Plate$MuddyGroundRunwayEnd 1 337088.71 675318.80 495.00
+  1045_bld Plate$MuddyGroundRunway 1 337100.39 675387.33 675.00
+  1046_bld Plate$MuddyGroundRunway 1 337851.35 676131.13 675.00
+  1047_bld House$46Ponton 1 338215.45 676659.14 585.00
+  1048_bld House$46Ponton 1 338218.61 676656.08 585.00
+  1049_bld House$46Ponton 1 338221.80 676653.01 585.00
+  1050_bld House$46Ponton 1 338224.96 676649.88 585.00
+  1051_bld House$46Ponton 1 338228.27 676646.68 405.00
+  1052_bld House$46Ponton 1 338231.43 676643.48 405.00
+  1053_bld House$46PtnPandus 1 338234.30 676640.66 405.00
+  1054_bld House$PortFloor 1 486443.16 301215.32 540.00
+  1055_bld House$PortFloor 1 486443.05 301205.29 540.00
+  1056_bld House$PortFloor 1 486442.83 301195.25 540.00
+  1057_bld House$PortFloor 1 486443.05 301185.22 540.00
 [Bridge]
 [House]

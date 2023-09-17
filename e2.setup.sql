@@ -24807,17 +24807,18 @@ CREATE TABLE `railway_stations` (
 /*Data for the table `railway_stations` */
 
 insert  into `railway_stations`(`Station_Type`,`Station_Name`,`Map`,`Platform_Start_X`,`Platform_Start_Y`,`Platform_Finish_X`,`Platform_Finish_Y`,`Status`,`Event_Date`,`Control`,`Target_X`,`Target_Y`,`Target_Z`,`Supply_Capacity`,`Supply_Holding`) values 
-(1,'Aparri_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',329300,643500,360,50000,0),
-(1,'Davao_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',514900,102089,675,10000,0),
-(1,'Butuan_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',509500,192300,675,10000,0),
-(1,'Luzon_South_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',426100,392900,675,50000,0),
-(1,'Naga_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',398518,416104,675,50000,0),
-(1,'Lucena_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',327290,432110,675,10000,0),
-(1,'Manila_South_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',296300,459900,360,10000,0),
-(1,'Manila_North_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',295700,465500,360,10000,0),
-(1,'Del_Carmen_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',272900,484900,360,10000,0),
-(1,'Dagupan_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',268300,536300,360,10000,0),
-(1,'Roxas_Station','Philippines',NULL,NULL,NULL,NULL,'Operational','','n',332500,594700,675,10000,0);
+(1,'Aparri_Station','Philippines',0,0,0,0,'Operational','','n',329133,643679,495,50000,0),
+(1,'Davao_Station','Philippines',0,0,0,0,'Operational','','n',332547,102089,675,10000,0),
+(1,'Butuan_Station','Philippines',0,0,0,0,'Operational','','n',509300,192491,680,10000,0),
+(1,'Luzon_South_Station','Philippines',0,0,0,0,'Operational','','n',425912,393079,680,50000,0),
+(1,'Naga_Station','Philippines',0,0,0,0,'Operational','','n',398506,416115,405,50000,0),
+(1,'Lucena_Station','Philippines',0,0,0,0,'Operational','','n',326485,432308,450,10000,0),
+(1,'Manila_South_Station','Philippines',0,0,0,0,'Operational','','n',295292,462501,670,10000,0),
+(1,'Manila_North_Station','Philippines',0,0,0,0,'Operational','','n',294494,464625,360,10000,0),
+(1,'Del_Carmen_Station','Philippines',0,0,0,0,'Operational','','n',272877,484874,360,10000,0),
+(1,'Dagupan_Station','Philippines',0,0,0,0,'Operational','','n',268301,536289,360,10000,0),
+(1,'Roxas_Station','Philippines',0,0,0,0,'Operational','','n',332547,594735,585,10000,0),
+(1,'Tuguegarao_Station','Philippines',0,0,0,0,'Operational','','n',329527,617659,675,10000,0);
 
 /*Table structure for table `railway_units` */
 

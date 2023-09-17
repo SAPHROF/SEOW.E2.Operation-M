@@ -852,8 +852,8 @@
   467407.44 378416.09 120.00 0 2 2.777777910232544
   464320.56 381416.03 120.00
 [27_Chief_Road]
-  239965.77 362613.97 120.00 0 2 2.777777910232544
-  243340.97 366194.47 120.00
+  253972.52 371516.75 120.00 0 2 2.777777910232544
+  255455.34 374825.06 120.00
 [28_Chief_Road]
   693038.06 318696.28 120.00 0 2 2.777777910232544
   682132.44 320589.50 120.00
@@ -1174,8 +1174,22 @@
   100_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 397748.05 416603.18 495.00 0.0 0 1 1
   101_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 295771.00 462974.09 495.00 0.0 0 1 1
   102_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 262255.61 475077.19 495.00 0.0 0 1 1
-  103_Static vehicles.artillery.Artillery$M3Lee 1 693047.57 318663.03 540.00 0.0 0 1 1
-  104_Static vehicles.artillery.Artillery$M3Lee 1 693035.80 318750.97 540.00 0.0 0 1 1
+  103_Static vehicles.artillery.Artillery$M3Lee 1 693029.82 318412.69 540.00 0.0 0 1 1
+  104_Static vehicles.artillery.Artillery$M3Lee 1 692907.08 318434.94 540.00 0.0 0 1 1
+  105_Static vehicles.artillery.Artillery$M3A1Stuart 1 692733.97 318443.82 540.00 0.0 0 1 1
+  106_Static vehicles.artillery.Artillery$M3A1Stuart 1 692592.82 318460.68 540.00 0.0 0 1 1
+  107_Static vehicles.artillery.Artillery$USInfantry 1 467387.95 378320.94 540.00 0.0 0 1 1
+  108_Static vehicles.artillery.Artillery$USInfantry 1 467338.27 378349.21 540.00 0.0 0 1 1
+  109_Static vehicles.artillery.Artillery$USInfantry 1 467276.54 378382.12 540.00 0.0 0 1 1
+  110_Static vehicles.artillery.Artillery$USInfantry 1 467430.84 378276.74 540.00 0.0 0 1 1
+  111_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 467571.21 378438.81 540.00 0.0
+  112_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 467519.68 378479.38 540.00 0.0
+  113_Static vehicles.stationary.Stationary$Chevrolet_medic_US 1 467464.30 378511.58 540.00 0.0
+  114_Static vehicles.stationary.Stationary$M3_Halftrack 1 467418.57 378550.87 540.00 0.0
+  115_Static vehicles.stationary.Stationary$WillisMBt_US 1 253908.33 371506.54 540.00 0.0
+  116_Static vehicles.stationary.Stationary$DiamondT_US 1 253905.76 371551.62 540.00 0.0
+  117_Static vehicles.stationary.Stationary$HART_RU_2 1 280458.76 508960.45 600.00 0.0
+  118_Static vehicles.stationary.Stationary$M16_US 1 253944.72 371546.56 600.00 0.0
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00

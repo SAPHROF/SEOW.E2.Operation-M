@@ -1071,19 +1071,19 @@
   329234.72 643237.56 120.00 0 2 1.6666667461395264
   329482.38 642971.25 120.00
 [NStationary]
-  0_Static ships.Ship$TroopTrans0 1 294210.46 461610.57 630.00 0.0 0 2 1.0
+  0_Static ships.Ship$TroopTrans0 1 294227.85 461614.43 630.00 0.0 0 2 1.0
   1_Static ships.Ship$TroopTrans0 1 294175.09 460299.76 660.00 0.0 0 2 1.0
   2_Static ships.Ship$TroopTrans2 1 294363.03 459942.13 540.00 0.0 0 2 1.0
   3_Static ships.Ship$TroopTrans3 1 294315.47 462254.17 585.00 0.0 0 2 1.0
   4_Static ships.Ship$Barge0 1 294553.20 462190.67 510.00 0.0 0 2 1.0
-  5_Static ships.Ship$Transport4 1 294211.62 461444.17 630.00 0.0 0 2 1.0
+  5_Static ships.Ship$Transport4 1 294221.28 461458.98 630.00 0.0 0 2 1.0
   7_Static ships.Ship$TroopTrans0 1 294064.16 460769.15 555.00 0.0 0 2 1.0
-  8_Static ships.Ship$TroopTrans1 1 289840.28 461585.62 540.00 0.0 0 2 1.0
+  8_Static ships.Ship$TroopTrans1 1 294130.61 460014.04 465.00 0.0 0 2 1.0
   9_Static ships.Ship$PaddleSteamer 1 292614.35 463480.26 560.00 0.0 0 2 1.0
   10_Static ships.Ship$Tanker0 1 292699.85 461558.97 605.00 0.0 0 2 1.0
   11_Static ships.Ship$Tanker0 1 289295.04 458547.36 665.00 0.0 0 2 1.0
   12_Static ships.Ship$Tanker1 1 263299.62 537197.33 665.00 0.0 0 2 1.0
-  13_Static ships.Ship$HospitalShip 1 291011.53 462738.90 660.00 0.0 0 2 1.0
+  13_Static ships.Ship$HospitalShip 1 292566.50 462256.70 660.00 0.0 0 2 1.0
   14_Static ships.Ship$Tanker0 1 294851.62 458676.36 495.00 0.0 0 2 1.0
   6_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 296747.18 457773.57 360.00 0.0 0 1 1
   15_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 274158.62 484150.05 360.00 0.0 0 1 1
@@ -1098,7 +1098,7 @@
   24_Static vehicles.artillery.Artillery$JapInfantryE 2 330148.16 617446.63 435.00 0.0 0 1 1
   25_Static vehicles.artillery.Artillery$JapInfantryE 2 278845.18 608351.35 420.00 0.0 0 1 1
   26_Static vehicles.artillery.Artillery$JapInfantryE 2 267666.82 606640.39 435.00 0.0 0 1 1
-  27_Static vehicles.artillery.Artillery$JapInfantryE 2 334649.88 591792.04 465.00 0.0 0 1 1
+  27_Static vehicles.artillery.Artillery$JapInfantryE 2 334649.88 591792.04 405.00 0.0 0 1 1
   28_Static vehicles.artillery.Artillery$JapInfantryE 2 332311.53 594629.65 510.00 0.0 0 1 1
   29_Static vehicles.artillery.Artillery$JapInfantryE 2 332367.43 595608.40 465.00 0.0 0 1 1
   30_Static vehicles.artillery.Artillery$JapInfantryE 2 338421.08 676139.76 555.00 0.0 0 1 1
@@ -1160,7 +1160,7 @@
   86_Static vehicles.artillery.Artillery$BunkerA_gun 2 333109.16 594686.83 450.00 0.0 0 1 1
   87_Static vehicles.artillery.Artillery$BunkerA_gun 2 329520.57 640898.09 450.00 0.0 0 1 1
   88_Static vehicles.artillery.Artillery$BunkerS2_gun 2 329550.63 640883.85 450.00 0.0 0 1 1
-  89_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 329540.53 643868.75 450.00 0.0 0 1 1
+  89_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 329540.49 643868.75 405.00 0.0 0 1 1
   90_Static vehicles.artillery.Artillery$Type88_75mm_JA 2 365956.69 584964.16 450.00 0.0 0 1 1
   91_Static vehicles.artillery.Artillery$_50calMG_water_US 1 335733.37 579969.04 450.00 0.0 0 1 1
   92_Static vehicles.artillery.Artillery$CoastBunker_ETO2 1 265520.88 536025.88 600.00 0.0 0 1 1
@@ -3243,6 +3243,31 @@
   2049_bld House$46Cart 1 509316.45 192489.65 540.00
   2050_bld House$Rail_01 1 514895.24 102112.11 450.00
   2051_bld House$Rail_02 1 514912.93 102105.04 400.00
+  2052_bld House$RacingPoleRed 1 295433.91 464567.11 630.00
+  2053_bld House$RacingPoleRed 1 295142.50 463021.46 630.00
+  2054_bld House$RacingPoleRed 1 295780.40 461123.58 630.00
+  2055_bld House$RacingPoleRed 1 291035.80 458671.96 630.00
+  2056_bld House$RacingPoleRed 1 274468.02 452947.48 630.00
+  2057_bld House$RacingPoleBlue 1 329583.74 617589.68 630.00
+  2058_bld House$RacingPoleBlue 1 332715.28 595184.61 630.00
+  2059_bld House$RacingPoleBlue 1 328891.81 643669.36 630.00
+  2060_bld House$RacingPoleRed 1 261542.67 474975.92 630.00
+  2061_bld House$RacingPoleRed 1 280741.94 487774.50 630.00
+  2062_bld House$RacingPoleRed 1 326752.12 432816.84 630.00
+  2063_bld House$RacingPoleRed 1 398697.65 416572.55 630.00
+  2064_bld House$RacingPoleRed 1 425609.76 393236.58 630.00
+  2065_bld House$RacingPoleRed 1 263994.37 532628.71 630.00
+  2066_bld House$RacingPoleRed 1 268625.50 536614.41 630.00
+  2067_bld House$RacingPoleRed 1 515173.87 101449.04 630.00
+  2068_bld House$RacingPoleRed 1 509197.03 192893.08 630.00
+  2069_bld House$RacingPoleRed 1 467995.38 168223.56 630.00
+  2070_bld House$RacingPoleRed 1 493761.74 54184.04 630.00
+  2071_bld House$RacingPoleRed 1 484841.07 301467.52 630.00
+  2072_bld House$RacingPoleRed 1 466553.65 290601.57 630.00
+  2073_bld House$RacingPoleRed 1 463810.18 341776.16 630.00
+  2074_bld House$RacingPoleRed 1 370193.45 275920.93 630.00
+  2075_bld House$RacingPoleRed 1 388595.99 275632.98 630.00
+  2076_bld House$RacingPoleRed 1 435367.31 255922.11 630.00
 [Bridge]
 [House]
   MmwZ8 2

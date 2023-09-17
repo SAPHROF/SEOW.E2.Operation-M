@@ -25821,7 +25821,7 @@ CREATE TABLE `railway_stations` (
 
 insert  into `railway_stations`(`Station_Type`,`Station_Name`,`Map`,`Platform_Start_X`,`Platform_Start_Y`,`Platform_Finish_X`,`Platform_Finish_Y`,`Status`,`Event_Date`,`Control`,`Target_X`,`Target_Y`,`Target_Z`,`Supply_Capacity`,`Supply_Holding`) values 
 (1,'Aparri_Station','Philippines',0,0,0,0,'Operational','','n',329133,643679,495,50000,0),
-(1,'Davao_Station','Philippines',0,0,0,0,'Operational','','n',332547,102089,675,10000,0),
+(1,'Davao_Station','Philippines',0,0,0,0,'Operational','','n',514896,102111,675,10000,0),
 (1,'Butuan_Station','Philippines',0,0,0,0,'Operational','','n',509300,192491,680,10000,0),
 (1,'Luzon_South_Station','Philippines',0,0,0,0,'Operational','','n',425912,393079,680,50000,0),
 (1,'Naga_Station','Philippines',0,0,0,0,'Operational','','n',398506,416115,405,50000,0),

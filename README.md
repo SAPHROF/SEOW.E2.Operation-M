@@ -24,6 +24,8 @@ Infrastructures
 		Intersections Rebuilt
 	Rails rebuilt
 		Intersections Rebuilt
+	Rail Stations Updated Coordinates
+		Added Tuguegarao_Station
 
 Airbases:
 	Created Camiguin airfield on one of remote islands to simulate Japanese invasion of smaller islands preluding the main Philippine Invasion.

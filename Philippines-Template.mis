@@ -855,8 +855,8 @@
   239965.77 362613.97 120.00 0 2 2.777777910232544
   243340.97 366194.47 120.00
 [28_Chief_Road]
-  624868.25 349295.25 120.00 0 2 2.777777910232544
-  539014.44 363970.25 120.00
+  693038.06 318696.28 120.00 0 2 2.777777910232544
+  682132.44 320589.50 120.00
 [29_Chief_Road]
   272843.97 440956.03 120.00 0 2 2.777777910232544
   272497.63 443726.66 120.00
@@ -1174,18 +1174,8 @@
   100_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 397748.05 416603.18 495.00 0.0 0 1 1
   101_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 295771.00 462974.09 495.00 0.0 0 1 1
   102_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 262255.61 475077.19 495.00 0.0 0 1 1
-  103_Static vehicles.stationary.Stationary$BunkerA_gun 2 329133.48 643679.44 495.00 0.0
-  104_Static vehicles.stationary.Stationary$BunkerA_gun 2 329526.71 617659.06 675.00 0.0
-  105_Static vehicles.stationary.Stationary$BunkerA_gun 2 332547.26 594734.76 585.00 0.0
-  106_Static vehicles.stationary.Stationary$BunkerA2_gun 2 268300.90 536288.93 450.00 0.0
-  107_Static vehicles.stationary.Stationary$BunkerA2_gun 2 272877.23 484873.64 665.00 0.0
-  108_Static vehicles.stationary.Stationary$BunkerA_gun 2 294494.43 464625.23 360.00 0.0
-  109_Static vehicles.stationary.Stationary$BunkerA_gun 2 295291.50 462501.27 670.00 0.0
-  110_Static vehicles.stationary.Stationary$BunkerA_gun 2 326485.49 432307.74 450.00 0.0
-  111_Static vehicles.stationary.Stationary$BunkerA_gun 2 398506.11 416114.76 405.00 0.0
-  112_Static vehicles.stationary.Stationary$BunkerA_gun 2 425912.34 393078.59 680.00 0.0
-  113_Static vehicles.stationary.Stationary$BunkerA_gun 2 509300.44 192491.04 680.00 0.0
-  114_Static vehicles.stationary.Stationary$BunkerA_gun 2 514895.20 102111.61 360.00 0.0
+  103_Static vehicles.artillery.Artillery$M3Lee 1 693047.57 318663.03 540.00 0.0 0 1 1
+  104_Static vehicles.artillery.Artillery$M3Lee 1 693035.80 318750.97 540.00 0.0 0 1 1
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00
@@ -3239,19 +3229,6 @@
   2049_bld House$46Cart 1 509316.45 192489.65 540.00
   2050_bld House$Rail_01 1 514895.24 102112.11 450.00
   2051_bld House$Rail_02 1 514912.93 102105.04 400.00
-[StaticCamera]
-  329130 643681 100 0
-  329520 617660 100 0
-  332546 594733 100 0
-  268300 536293 100 0
-  272881 484878 100 0
-  294493 464624 100 0
-  295291 462501 100 0
-  326486 432307 100 0
-  398505 416114 100 0
-  425913 393078 100 0
-  509300 192490 100 0
-  514895 102110 100 0
 [Bridge]
 [House]
   MmwZ8 2

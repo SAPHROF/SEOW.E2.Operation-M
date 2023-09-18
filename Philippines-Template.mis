@@ -1201,6 +1201,7 @@
   117_Static vehicles.stationary.Stationary$HART_RU_2 1 280458.76 508960.45 600.00 0.0
   118_Static vehicles.stationary.Stationary$M16_US 1 253944.72 371546.56 600.00 0.0
   119_Static vehicles.artillery.Artillery$USInfantryE 1 335973.57 580485.07 645.00 0.0 0 1 1
+  120_Static ships.Ship$SeaPlaneTender 2 195673.55 708730.45 510.00 0.0 0 2 1.0
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00

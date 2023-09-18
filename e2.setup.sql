@@ -13215,8 +13215,10 @@ insert  into `army_units`(`Country`,`Division_Name`,`Division_Type`,`Alignment`,
 ('Germany','17 Pz Div','all','Axis','null','IF_Baranow',64,'default','Battalion'),
 ('Russia','52 Guards Tank Brigade','all','Allied','ru','IF_Staszow',64,'default','Brigade'),
 ('Germany','7 Panzer Regt','all','Axis','null','IF_Staszow',64,'default','Regiment'),
-('Japan','14_Army','E','Axis','ja','Philippines',64,'default','Army'),
-('USA','803rd_Engineer_Btn','E','Allied','us','Philippines',64,'default','Battalion');
+('Japan','21_Eng_Reg','E','Axis','ja','Philippines',64,'default','Regiment'),
+('USA','803rd_Engineer_Btn','E','Allied','us','Philippines',64,'default','Battalion'),
+('Japan','3_Eng_Reg','E','Axis','ja','Philippines',64,'default','Regiment'),
+('USA','14th_Eng_Reg','E','Allied','us','Philippines',64,'default','Regiment');
 
 /*Table structure for table `bridge_codes` */
 

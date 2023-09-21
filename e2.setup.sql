@@ -27588,11 +27588,11 @@ CREATE TABLE `supply_drops` (
 /*Data for the table `supply_drops` */
 
 insert  into `supply_drops`(`Map`,`Sequence`,`Transport_Unit`,`Supply_Name`,`Nationality`,`Initial_Holding`,`Holding`,`Drop_X`,`Drop_Y`,`Recon`) values 
-('Philippines','194112101600','Tokyo Express','1','g',1800,337815,675449.83,395,0),
-('Philippines','194112101600','Tokyo Express','2','g',1800,337804,675434.09,395,0),
-('Philippines','194112101600','Tokyo Express','3','g',6000,336885,675430.09,455,0),
-('Philippines','194112101600','Tokyo Express','4','g',1800,338479,676400.9,480,0),
-('Philippines','194112101600','Tokyo Express','5','g',4000,338468,676404.86,480,0);
+('Philippines','194112141700','Tokyo Express','1','g',1500,2000,337814.99,675449.83,395),
+('Philippines','194112141700','Tokyo Express','2','g',800,1000,337804.4,675434.09,395),
+('Philippines','194112141700','Tokyo Express','3','g',2500,2500,336884.5,675430.09,455),
+('Philippines','194112141700','Tokyo Express','4','g',3000,6000,338478.98,676400.9,480),
+('Philippines','194112141700','Tokyo Express','5','g',1800,1800,338467.58,676404.86,480);
 
 /*Table structure for table `task_forces` */
 

@@ -132,6 +132,14 @@
   USA_FG_035_FS_039z00
   USA_FG_035_FS_039z01
   USA_FG_035_FS_039z02
+  12AF_52TCW_316TCG10
+  12AF_52TCW_316TCG01
+  12AF_52TCW_316TCG20
+  IJA_F_TS21
+  USA_RS_017z02
+  USA_RS_017z22
+  USA_RS_017z23
+  USN_VP_10210
 [USA_FG_024_FS_003z10]
   Planes 4
   Skill 1
@@ -808,7 +816,7 @@
   Fuel 100
   weapons default
 [USA_FG_015_FS_046z02_Way]
-  NORMFLY 299087.94 355555.100 500.00 300.00 &0
+  NORMFLY 299087.94 355555.10 500.00 300.00 &0
   LANDING 298794.09 356510.28 0 0 &0
 [USA_FG_015_FS_046z10]
   Planes 4
@@ -919,6 +927,78 @@
 [USA_FG_035_FS_039z02_Way]
   NORMFLY 144292.06 24783.17 500.00 300.00 &0
   LANDING 143636.98 26024.38 0 0 &0
+[12AF_52TCW_316TCG10]
+  Planes 2
+  Skill 1
+  Class air.C_47
+  Fuel 100
+  weapons default
+[12AF_52TCW_316TCG10_Way]
+  NORMFLY 482779.13 288519.81 500.00 300.00 &0
+  LANDING 481547.66 289398.13 0 0 &0
+[12AF_52TCW_316TCG01]
+  Planes 4
+  Skill 1
+  Class air.C_47
+  Fuel 100
+  weapons default
+[12AF_52TCW_316TCG01_Way]
+  NORMFLY 245327.56 503594.84 500.00 300.00 &0
+  LANDING 246324.75 503445.91 0 0 &0
+[12AF_52TCW_316TCG20]
+  Planes 4
+  Skill 1
+  Class air.C_47
+  Fuel 100
+  weapons default
+[12AF_52TCW_316TCG20_Way]
+  NORMFLY 143649.11 24551.54 500.00 300.00 &0
+  LANDING 143636.98 26024.38 0 0 &0
+[IJA_F_TS21]
+  Planes 3
+  Skill 1
+  Class air.CW_21
+  Fuel 100
+  weapons default
+[IJA_F_TS21_Way]
+  NORMFLY 365359.94 584246.35 500.00 300.00 &0
+  LANDING 365067.25 585071.44 0 0 &0
+[USA_RS_017z02]
+  Planes 2
+  Skill 1
+  Class air.L_5
+  Fuel 100
+  weapons default
+[USA_RS_017z02_Way]
+  NORMFLY 270369.75 482521.96 500.00 206.00 &0
+  LANDING 272646.84 482273.16 0 0 &0
+[USA_RS_017z22]
+  Planes 1
+  Skill 1
+  Class air.L_5
+  Fuel 100
+  weapons default
+[USA_RS_017z22_Way]
+  NORMFLY 511439.90 101224.10 500.00 206.00 &0
+  LANDING 512139.84 100354.05 0 0 &0
+[USA_RS_017z23]
+  Planes 1
+  Skill 1
+  Class air.L_5
+  Fuel 100
+  weapons default
+[USA_RS_017z23_Way]
+  NORMFLY 361450.41 276998.04 500.00 206.00 &0
+  LANDING 360936.84 276097.22 0 0 &0
+[USN_VP_10210]
+  Planes 3
+  Skill 1
+  Class air.PBY
+  Fuel 100
+  weapons default
+[USN_VP_10210_Way]
+  NORMFLY 392873.82 295241.16 500.00 300.00 &0
+  LANDING 392289.28 295912.69 0 0 &0
 [Chiefs]
   0_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
   1_Chief Ships.USSMcKean 1 0 2 1.0
@@ -1011,6 +1091,11 @@
   89_Chief Vehicles.4-HART_T94_37_ch2 2
   90_Chief Armor.4-HaGo 2
   75_Chief Vehicles.Bicycle 2
+  91_Chief Vehicles.USACarsColumnC 1
+  92_Chief Vehicles.USACarsColumnB 1
+  93_Chief Vehicles.US_Supply_Cpy 1
+  94_Chief Vehicles.JapanCarsColumnC 2
+  95_Chief Vehicles.3-HART_T94_37_ch2 2
 [0_Chief_Road]
   258880.95 439095.84 120.00 0 2 5.555555820465088
   258748.58 440158.09 120.00
@@ -1309,11 +1394,32 @@
   329234.72 643237.56 120.00 0 2 1.6666667461395264
   329482.38 642971.25 120.00
 [75_Chief_Road]
-  407680.59 425668.97 120.00 0 2 0.5555555820465088
+  407680.59 425668.97 120.00 0 2 1.0
   407437.31 425343.50 120.00
+[91_Chief_Road]
+  324132.28 564226.88 120.00 0 2 2.6388890743255615
+  324668.53 564849.81 120.00
+[92_Chief_Road]
+  326174.13 564750.69 120.00 0 5 2.6388890743255615
+  326300.00 564700.00 20.00
+  327500.00 564700.00 20.00
+  327900.00 565100.00 20.00
+  328140.47 565141.81 120.00
+[93_Chief_Road]
+  296082.34 464830.31 120.00 0 2 2.6388890743255615
+  295870.22 465394.66 120.00
+[94_Chief_Road]
+  328319.13 643306.00 120.00 0 2 2.5
+  328420.75 642975.25 120.00
+[95_Chief_Road]
+  325975.97 622572.00 120.00 0 5 1.25
+  326100.00 622500.00 20.00
+  326700.00 621900.00 20.00
+  326700.00 619500.00 20.00
+  326536.47 619303.06 120.00
 [NStationary]
   0_Static ships.Ship$TroopTrans0 1 294227.85 461614.43 630.00 0.0 0 2 1.0
-  1_Static ships.Ship$TroopTrans0 1 294175.09 460299.76 660.00 0.0 0 2 1.0
+  1_Static ships.Ship$TroopTrans0 1 294169.94 460269.98 660.00 0.0 0 2 1.0
   2_Static ships.Ship$TroopTrans2 1 294363.03 459942.13 540.00 0.0 0 2 1.0
   3_Static ships.Ship$TroopTrans3 1 294315.47 462254.17 585.00 0.0 0 2 1.0
   4_Static ships.Ship$Barge0 1 294553.20 462190.67 510.00 0.0 0 2 1.0
@@ -1323,9 +1429,9 @@
   9_Static ships.Ship$PaddleSteamer 1 292614.35 463480.26 560.00 0.0 0 2 1.0
   10_Static ships.Ship$Tanker0 1 292699.85 461558.97 605.00 0.0 0 2 1.0
   11_Static ships.Ship$Tanker0 1 289295.04 458547.36 665.00 0.0 0 2 1.0
-  12_Static ships.Ship$Tanker1 1 263299.62 537197.33 665.00 0.0 0 2 1.0
+  12_Static ships.Ship$Tanker1 1 324408.41 407206.28 665.00 0.0 0 2 1.0
   13_Static ships.Ship$HospitalShip 1 292566.50 462256.70 660.00 0.0 0 2 1.0
-  14_Static ships.Ship$Tanker0 1 294851.62 458676.36 495.00 0.0 0 2 1.0
+  14_Static ships.Ship$Tanker0 1 294624.11 458517.17 495.00 0.0 0 2 1.0
   6_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 296747.18 457773.57 360.00 0.0 0 1 1
   15_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 274158.62 484150.05 360.00 0.0 0 1 1
   16_Static vehicles.artillery.Artillery$_50calMG_water_US 1 271977.87 483955.96 360.00 0.0 0 1 1
@@ -1411,7 +1517,7 @@
   96_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 329258.20 644127.43 435.00 0.0 0 1 1
   97_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 327392.80 632648.88 435.00 0.0 0 1 1
   98_Static vehicles.artillery.Artillery$BunkerD_gun 2 264851.69 608324.18 495.00 0.0 0 1 1
-  99_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 391146.20 298240.32 495.00 0.0 0 1 1
+  99_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 391146.20 298236.24 495.00 0.0 0 1 1
   100_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 397748.05 416603.18 495.00 0.0 0 1 1
   101_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 295771.00 462974.09 495.00 0.0 0 1 1
   102_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 262255.61 475077.19 495.00 0.0 0 1 1
@@ -1433,6 +1539,34 @@
   118_Static vehicles.stationary.Stationary$M16_US 1 253944.72 371546.56 600.00 0.0
   119_Static vehicles.artillery.Artillery$USInfantryE 1 335973.57 580485.07 645.00 0.0 0 1 1
   120_Static ships.Ship$SeaPlaneTender 2 195673.55 708730.45 510.00 0.0 0 2 1.0
+  121_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 361759.56 275496.57 495.00 0.0 0 1 1
+  122_Static vehicles.artillery.Artillery$_50calMG_water_US 1 359546.77 276048.74 495.00 0.0 0 1 1
+  123_Static vehicles.artillery.Artillery$Zenit3K 1 358184.74 275001.66 495.00 0.0 0 1 1
+  124_Static vehicles.artillery.Artillery$Zenit3K 1 290992.52 456417.03 660.00 0.0 0 1 1
+  125_Static vehicles.artillery.Artillery$_50calMG_water_US 1 290729.02 458287.90 660.00 0.0 0 1 1
+  126_Static vehicles.artillery.Artillery$DShKAA 2 364095.53 583927.76 660.00 0.0 0 1 1
+  127_Static vehicles.artillery.Artillery$DShKAA 2 316482.80 649542.87 390.00 0.0 0 1 1
+  128_Static vehicles.artillery.Artillery$DShK 2 334784.07 591365.23 405.00 0.0 0 1 1
+  129_Static vehicles.artillery.Artillery$DShKAA 2 265176.96 608816.51 405.00 0.0 0 1 1
+  130_Static vehicles.artillery.Artillery$DShKAA 2 337134.84 675064.69 510.00 0.0 0 1 1
+  131_Static vehicles.artillery.Artillery$ATG38_45mm 1 290591.56 520224.10 360.00 0.0 0 1 1
+  132_Static vehicles.artillery.Artillery$USInfantryE 1 291285.95 520381.74 375.00 0.0 0 1 1
+  133_Static vehicles.artillery.Artillery$USInfantryE 1 268082.82 536811.66 645.00 0.0 0 1 1
+  134_Static vehicles.artillery.Artillery$JapInfantry 2 269647.57 591027.15 480.00 0.0 0 1 1
+  135_Static vehicles.artillery.Artillery$JapInfantry 2 338142.18 591645.01 480.00 0.0 0 1 1
+  136_Static vehicles.artillery.Artillery$M2A1_105mm 1 295995.81 460839.33 615.00 0.0 0 1 1
+  137_Static vehicles.artillery.Artillery$Type91_105mm 2 332770.68 594325.77 435.00 0.0 0 1 1
+  138_Static vehicles.artillery.Artillery$Type91_105mm 2 265166.36 607994.91 465.00 0.0 0 1 1
+  139_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 390062.14 278959.05 495.00 0.0 0 1 1
+  140_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 390086.61 276156.67 495.00 0.0 0 1 1
+  141_Static vehicles.artillery.Artillery$StBofors_40mm_US 1 414341.04 278502.58 495.00 0.0 0 1 1
+  142_Static vehicles.artillery.Artillery$BunkerG1_gun 1 292250.53 520020.14 665.00 0.0 0 1 1
+  143_Static vehicles.artillery.Artillery$_50calMG_water_US 1 412768.96 278984.56 425.00 0.0 0 1 1
+  144_Static vehicles.artillery.Artillery$_50calMG_water_US 1 473148.40 170633.12 380.00 0.0 0 1 1
+  145_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 473793.92 169525.39 380.00 0.0 0 1 1
+  146_Static vehicles.artillery.Artillery$JapInfantryE 2 191681.39 242393.76 440.00 0.0 0 1 1
+  147_Static vehicles.artillery.Artillery$JapInfantryE 2 206629.01 243004.55 440.00 0.0 0 1 1
+  148_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 206389.12 242907.26 440.00 0.0 0 1 1
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00
@@ -1658,9 +1792,9 @@
   221_bld House$FurnitureTree2 1 295010.77 458413.34 569.79
   222_bld House$DeadTree1 1 294933.58 458560.04 485.00
   223_bld House$46BoxCoverMed 1 294962.19 458586.22 465.00
-  224_bld House$46TRBoxes 1 294984.49 458612.49 370.00
-  225_bld House$46TRBoxes 1 294983.57 458613.15 655.00
-  226_bld House$AirdromeMaskingnet 1 294989.04 458622.34 385.00
+  224_bld House$46TRBoxes 1 294756.98 458453.30 370.00
+  225_bld House$46TRBoxes 1 294756.06 458453.96 655.00
+  226_bld House$AirdromeMaskingnet 1 294761.53 458463.15 385.00
   227_bld House$AirdromeMaskingnet 1 295505.42 458171.60 620.00
   228_bld House$46Trench5 1 295725.19 458098.58 654.10
   229_bld House$Tent_Pyramid_US 1 295739.84 458098.16 580.00
@@ -1701,26 +1835,26 @@
   264_bld House$46BoxCoverMed 1 295722.15 458103.34 540.00
   265_bld House$Tent_Pyramid_US 1 295726.99 458105.73 580.00
   266_bld House$Tent_HQ_US 1 295728.63 458108.39 489.10
-  267_bld House$PortFloor 1 294952.97 458648.69 389.79
-  268_bld House$PortFloor 1 294948.28 458640.66 389.79
-  269_bld House$PortFloor 1 294943.28 458632.05 389.79
-  270_bld House$PortFloor 1 294938.27 458623.50 389.79
-  271_bld House$PortBaseSegment 1 294927.92 458625.81 389.79
-  272_bld House$PortBaseSegment 1 294920.46 458630.04 389.79
-  273_bld House$PortBaseSegment 1 294912.97 458634.33 389.79
-  274_bld House$PortBaseSegment 1 294905.33 458638.65 389.79
-  275_bld House$PortBaseSegment 1 294897.84 458642.95 389.79
-  276_bld House$PortBaseSegment 1 294890.20 458647.27 389.79
-  277_bld House$PortBaseSegment 1 294882.56 458651.57 389.79
-  278_bld House$PortBaseSegment 1 294874.90 458655.96 389.79
-  279_bld House$PortBaseSegment 1 294929.85 458629.14 389.79
-  280_bld House$PortBaseSegment 1 294922.34 458633.51 389.79
-  281_bld House$PortBaseSegment 1 294914.70 458637.82 389.79
-  282_bld House$PortBaseSegment 1 294907.13 458642.16 389.79
-  283_bld House$PortBaseSegment 1 294899.48 458646.47 389.79
-  284_bld House$PortBaseSegment 1 294891.90 458650.80 389.79
-  285_bld House$PortBaseSegment 1 294884.27 458655.12 389.79
-  286_bld House$PortBaseSegment 1 294876.80 458659.35 389.79
+  267_bld House$PortFloor 1 294725.46 458489.50 389.79
+  268_bld House$PortFloor 1 294720.77 458481.47 389.79
+  269_bld House$PortFloor 1 294715.77 458472.86 389.79
+  270_bld House$PortFloor 1 294710.76 458464.31 389.79
+  271_bld House$PortBaseSegment 1 294700.41 458466.62 389.79
+  272_bld House$PortBaseSegment 1 294692.95 458470.85 389.79
+  273_bld House$PortBaseSegment 1 294685.46 458475.14 389.79
+  274_bld House$PortBaseSegment 1 294677.82 458479.46 389.79
+  275_bld House$PortBaseSegment 1 294670.33 458483.76 389.79
+  276_bld House$PortBaseSegment 1 294662.69 458488.08 389.79
+  277_bld House$PortBaseSegment 1 294655.05 458492.38 389.79
+  278_bld House$PortBaseSegment 1 294647.39 458496.77 389.79
+  279_bld House$PortBaseSegment 1 294702.34 458469.95 389.79
+  280_bld House$PortBaseSegment 1 294694.83 458474.32 389.79
+  281_bld House$PortBaseSegment 1 294687.19 458478.63 389.79
+  282_bld House$PortBaseSegment 1 294679.62 458482.97 389.79
+  283_bld House$PortBaseSegment 1 294671.97 458487.28 389.79
+  284_bld House$PortBaseSegment 1 294664.39 458491.61 389.79
+  285_bld House$PortBaseSegment 1 294656.76 458495.93 389.79
+  286_bld House$PortBaseSegment 1 294649.29 458500.16 389.79
   287_bld House$Bamboo_hut_3 1 268713.21 475774.91 680.00
   288_bld House$Bamboo_hut_3 1 268696.12 475796.02 680.00
   289_bld House$Bamboo_barrack 1 268698.80 475761.73 590.00
@@ -3359,7 +3493,7 @@
   1922_bld House$46Palette 1 291645.78 458141.26 530.00
   1923_bld House$46Palette 1 291645.57 458135.63 620.00
   1924_bld House$Factory_06 1 291644.88 458050.80 695.00
-  1925_bld House$Factory_06 1 291605.93 458104.93 715.00
+  1925_bld House$Factory_06 1 291727.75 458052.96 690.00
   1926_bld House$46StoneWall1 1 291706.85 457986.70 510.00
   1927_bld House$46StoneWall1 1 291704.28 457990.88 510.00
   1928_bld House$46StoneWall1 1 291701.63 457995.03 510.00
@@ -3407,190 +3541,230 @@
   1970_bld House$svalbard_mine3 1 291571.31 458897.17 405.00
   1971_bld House$svalbard_mine3 1 291572.83 458904.00 405.00
   1972_bld House$Hangar_01 1 291500.42 458952.60 475.00
-  1973_bld House$FinlandHelsinkiStadium 1 295157.61 462253.51 405.00
-  1974_bld House$Henderspagoda 1 295117.61 458588.83 415.00
-  1975_bld House$Henderstower 1 291497.40 458856.61 415.00
-  1976_bld House$HQ_JP02 1 291603.52 458066.80 695.00
-  1977_bld House$Hangar_Med2 1 291097.51 458621.94 405.00
-  1978_bld House$Hangar_Med2 1 291075.98 458599.20 405.00
-  1979_bld House$Housepacif2 1 291168.97 458673.51 405.00
-  1980_bld House$Longbarrack 1 291549.04 458881.41 420.00
-  1981_bld House$AlohaTwr 1 295244.15 462764.96 450.00
-  1982_bld House$CHouse01 1 290619.03 457990.88 495.00
-  1983_bld House$CHouse02 1 290737.99 458166.12 405.00
-  1984_bld House$Bridge_Prim 1 291558.90 458868.04 420.00
-  1985_bld House$Bridge_Prim 1 291561.42 458863.43 420.00
-  1986_bld House$SmallCrane 1 291564.10 458867.94 420.00
-  1987_bld House$NorwayHellisoy_lighths 1 271804.93 454610.51 420.00
-  1988_bld House$NorwayQuay_02 1 291744.28 458082.87 420.00
-  1989_bld House$Norwaystorehouse_02 1 291720.42 458113.16 600.00
-  1990_bld House$Norwaysplinterbox_02 1 291593.47 458881.51 645.00
-  1991_bld House$Norwaysplinterbox_01 1 291596.83 458893.76 645.00
-  1992_bld House$46StoneWall1 1 291543.30 458825.11 605.00
-  1993_bld House$46StoneWall1 1 291532.89 458847.42 605.00
-  1994_bld House$46StoneWall1 1 291554.45 458801.32 605.00
-  1995_bld House$46StoneWall1 1 291565.11 458778.77 605.00
-  1996_bld House$46StoneWall1 1 291555.26 458802.12 605.00
-  1997_bld House$46StoneWall1 1 291533.70 458848.22 605.00
-  1998_bld House$46StoneWall1 1 291544.11 458825.92 605.00
-  1999_bld House$46StoneWall1 1 291565.92 458779.57 605.00
-  2000_bld House$46StoneWall1 1 291518.49 458803.02 605.00
-  2001_bld House$46StoneWall1 1 291507.33 458826.81 605.00
-  2002_bld House$46StoneWall1 1 291496.93 458849.12 605.00
-  2003_bld House$46StoneWall1 1 291517.68 458802.22 605.00
-  2004_bld House$46StoneWall1 1 291496.12 458848.31 605.00
-  2005_bld House$46StoneWall1 1 291506.53 458826.01 605.00
-  2006_bld House$46StoneWall1 1 291529.14 458780.47 605.00
-  2007_bld House$46StoneWall1 1 291528.34 458779.66 605.00
-  2008_bld House$46Lichter1 1 291580.55 458857.60 595.00
-  2009_bld House$46Lichter2 1 291751.36 458031.95 595.00
-  2010_bld House$46Lichter1 1 291738.47 458001.71 490.00
-  2011_bld House$46Lichter1 1 291701.54 457989.32 595.00
-  2012_bld House$46Ponton 1 291678.49 457983.37 595.00
-  2013_bld House$46PtnPandus 1 291673.29 457987.59 535.00
-  2014_bld House$46Ponton 1 291659.41 457993.78 520.00
-  2015_bld House$46Ponton 1 291651.23 457997.99 550.00
-  2016_bld House$46Watower 1 291037.41 458588.38 550.00
-  2017_bld House$NTL_House3 1 291389.60 458822.87 600.00
-  2018_bld House$NTL_House4 1 291407.45 458811.56 600.00
-  2019_bld House$Mongolyamongol_camouflage2 1 365059.91 585401.02 525.00
-  2020_bld House$MongolyaAbri_M 1 365003.31 585409.66 540.00
-  2021_bld House$MongolyaAbri_M 1 364958.19 585409.01 540.00
-  2022_bld House$Factory_06 1 294804.41 462520.47 405.00
-  2023_bld House$Factory_07 1 294830.55 462547.56 405.00
-  2024_bld House$Factory_02 1 294789.83 462540.97 495.00
-  2025_bld House$3Duby_Workshop 1 294803.03 462816.13 495.00
-  2026_bld House$Cetatea_Alba 1 291611.43 458037.34 605.00
-  2027_bld House$olive_tree_1 1 291091.92 458559.23 605.00
-  2028_bld House$olive_tree_1 1 291214.65 458723.12 605.00
-  2029_bld House$crater2_summer 1 291278.20 458776.30 605.00
-  2030_bld House$crater2_summer 1 273112.38 484674.17 605.00
-  2031_bld House$crater1_summer 1 272760.69 484772.08 605.00
-  2032_bld House$Rail_01 1 295290.68 462501.99 585.00
-  2033_bld House$3Duby_Workshop 1 294582.86 463417.53 585.00
-  2034_bld House$KitchenRU 1 294686.02 462744.89 585.00
-  2035_bld House$Rail_02 1 326486.10 432308.19 450.00
-  2036_bld House$Rail_03 1 398505.68 416114.82 405.00
-  2037_bld House$Rail_03 1 425912.28 393079.48 495.00
-  2038_bld House$FurnitureGermanyCountryFenceVert 1 425924.58 393071.43 675.00
-  2039_bld House$FurnitureGermanyCountryFenceVert 1 425929.50 393066.48 675.00
-  2040_bld House$FurnitureGermanyCountryFenceVert 1 425899.95 393096.46 495.00
-  2041_bld House$FurnitureGermanyCountryFenceVert 1 425904.95 393091.45 495.00
-  2042_bld House$FurnitureGermanyCountryFenceVert 1 425894.58 393096.70 410.00
-  2043_bld House$RailSemafor 1 425911.01 393093.78 405.00
-  2044_bld House$RailSemafor 1 425936.11 393053.71 585.00
-  2045_bld House$46Cart 1 425928.09 393082.17 540.00
-  2046_bld House$46BCycle 1 425900.39 393095.42 405.00
-  2047_bld House$FurnitureGermanyCountryFenceVert 1 425929.52 393061.68 405.00
-  2048_bld House$Rail_03 1 509299.66 192492.41 495.00
-  2049_bld House$46Cart 1 509316.45 192489.65 540.00
-  2050_bld House$Rail_01 1 514895.24 102112.11 450.00
-  2051_bld House$Rail_02 1 514912.93 102105.04 400.00
-  2052_bld House$RacingPoleRed 1 295433.91 464567.11 630.00
-  2053_bld House$RacingPoleRed 1 295142.50 463021.46 630.00
-  2054_bld House$RacingPoleRed 1 295780.40 461123.58 630.00
-  2055_bld House$RacingPoleRed 1 291035.80 458671.96 630.00
-  2056_bld House$RacingPoleRed 1 274468.02 452947.48 630.00
-  2057_bld House$RacingPoleBlue 1 329583.74 617589.68 630.00
-  2058_bld House$RacingPoleBlue 1 332715.28 595184.61 630.00
-  2059_bld House$RacingPoleBlue 1 328891.81 643668.72 630.00
-  2060_bld House$RacingPoleRed 1 261542.67 474975.92 630.00
-  2061_bld House$RacingPoleRed 1 280741.94 487774.50 630.00
-  2062_bld House$RacingPoleRed 1 326752.12 432816.84 630.00
-  2063_bld House$RacingPoleRed 1 398697.65 416572.55 630.00
-  2064_bld House$RacingPoleRed 1 425609.76 393236.58 630.00
-  2065_bld House$RacingPoleRed 1 263994.37 532628.71 630.00
-  2066_bld House$RacingPoleRed 1 268625.50 536614.41 630.00
-  2067_bld House$RacingPoleRed 1 515173.87 101449.04 630.00
-  2068_bld House$RacingPoleRed 1 509197.03 192893.08 630.00
-  2069_bld House$RacingPoleRed 1 467995.38 168223.56 630.00
-  2070_bld House$RacingPoleRed 1 493761.74 54184.04 630.00
-  2071_bld House$RacingPoleRed 1 484841.07 301467.52 630.00
-  2072_bld House$RacingPoleRed 1 466553.65 290601.57 630.00
-  2073_bld House$RacingPoleRed 1 463810.18 341776.16 630.00
-  2074_bld House$RacingPoleRed 1 370193.45 275920.93 630.00
-  2075_bld House$RacingPoleRed 1 388595.99 275632.98 630.00
-  2076_bld House$RacingPoleRed 1 435367.31 255922.11 630.00
-  2077_bld House$RacingPoleBlue 1 278810.58 608362.36 405.00
-  2078_bld House$AirdromeFuelTank 1 272108.58 484101.46 360.00
-  2079_bld House$AirdromeFuelTank 1 272124.08 484075.31 360.00
-  2080_bld House$AirdromeFuelTank 1 272094.86 484074.98 360.00
-  2081_bld House$AirdromeFuelTank 1 272109.61 484047.83 360.00
-  2082_bld House$AirdromeFuelTank 1 272081.40 484044.96 360.00
-  2083_bld House$AirdromeFuelTank 1 272094.77 484020.03 360.00
-  2084_bld House$AirdromeFuelTank 1 272063.27 484014.95 360.00
-  2085_bld House$AirdromeFuelTank 1 272078.58 483990.93 360.00
-  2086_bld House$AirdromeTank1 1 247112.39 504058.50 675.00
-  2087_bld House$AirdromeTank1 1 247120.99 504049.90 675.00
-  2088_bld House$AirdromeTank1 1 247129.94 504041.49 675.00
-  2089_bld House$AirdromeFuelTank 1 247160.20 504006.22 675.00
-  2090_bld House$AirdromeFuelTank 1 247140.82 503989.23 675.00
-  2091_bld House$AirdromeFuelTank 1 360905.70 275063.03 675.00
-  2092_bld House$AirdromeFuelTank 1 360948.24 275103.40 675.00
-  2093_bld House$AirdromeFuelTank 1 360993.87 275060.26 675.00
-  2094_bld House$AirdromeFuelTank 1 360954.47 275019.19 675.00
-  2095_bld House$AirdromeFuelTank 1 360861.55 275019.19 675.00
-  2096_bld House$AirdromeFuelTank 1 360909.25 274972.32 675.00
-  2097_bld House$AirdromeFuelTank 1 390728.62 277217.12 675.00
-  2098_bld House$AirdromeFuelTank 1 390730.35 277273.71 675.00
-  2099_bld House$AirdromeFuelTank 1 390731.10 277324.53 675.00
-  2100_bld House$AirdromeFuelTank 1 390684.65 277324.12 675.00
-  2101_bld House$AirdromeFuelTank 1 390684.65 277272.68 675.00
-  2102_bld House$AirdromeFuelTank 1 390684.23 277217.51 675.00
-  2103_bld House$AirdromeFuelTank 1 412875.24 278305.06 675.00
-  2104_bld House$AirdromeFuelTank 1 412875.49 278335.14 675.00
-  2105_bld House$AirdromeTank1 1 413245.54 278129.17 685.00
-  2106_bld House$AirdromeTank1 1 413237.23 278140.77 685.00
-  2107_bld House$AirdromeFuelTank 1 486434.35 301164.04 685.00
-  2108_bld House$AirdromeFuelTank 1 486434.84 301135.32 685.00
-  2109_bld House$AirdromeFuelTank 1 486434.35 301104.87 685.00
-  2110_bld House$AirdromeFuelTank 1 480809.31 288636.31 685.00
-  2111_bld House$AirdromeFuelTank 1 480837.48 288609.93 685.00
-  2112_bld House$AirdromeFuelTank 1 480808.69 288580.21 685.00
-  2113_bld House$AirdromeFuelTank 1 480779.95 288605.88 685.00
-  2114_bld House$AirdromeFuelTank 1 480778.99 288549.99 685.00
-  2115_bld House$AirdromeFuelTank 1 480748.64 288577.12 685.00
-  2116_bld House$AirdromeFuelTank 1 512375.05 196374.92 685.00
-  2117_bld House$AirdromeFuelTank 1 512415.15 196374.78 685.00
-  2118_bld House$AirdromeFuelTank 1 512445.41 196374.56 685.00
-  2119_bld House$AirdromeFuelTank 1 512445.41 196404.79 685.00
-  2120_bld House$AirdromeFuelTank 1 512414.43 196405.04 685.00
-  2121_bld House$AirdromeFuelTank 1 512375.27 196404.79 685.00
-  2122_bld House$AirdromeTank1 1 510633.16 195218.72 640.00
-  2123_bld House$AirdromeTank1 1 510651.98 195216.36 640.00
-  2124_bld House$AirdromeTank1 1 510615.06 195221.56 640.00
-  2125_bld House$AirdromeTank1 1 511374.61 99503.82 585.00
-  2126_bld House$AirdromeTank1 1 511385.25 99514.21 585.00
-  2127_bld House$AirdromeTank1 1 511394.89 99524.84 585.00
-  2128_bld House$AirdromeTank1 1 511974.36 100665.44 540.00
-  2129_bld House$AirdromeTank1 1 511974.19 100653.22 540.00
-  2130_bld House$AirdromeTank1 1 511974.93 100678.75 540.00
-  2131_bld House$AirdromeFuelTank 1 499145.41 52264.96 540.00
-  2132_bld House$AirdromeFuelTank 1 499199.30 52264.48 540.00
-  2133_bld House$AirdromeFuelTank 1 499145.24 52214.96 540.00
-  2134_bld House$AirdromeFuelTank 1 499199.30 52214.91 540.00
-  2135_bld House$AirdromeFuelTank 1 497825.52 52452.60 540.00
-  2136_bld House$AirdromeFuelTank 1 497858.79 52499.27 540.00
-  2137_bld House$AirdromeFuelTank 1 497908.58 52466.08 540.00
-  2138_bld House$AirdromeFuelTank 1 497874.75 52418.84 540.00
-  2139_bld House$AirdromeFuelTank 1 497775.67 52485.60 540.00
-  2140_bld House$AirdromeFuelTank 1 497807.10 52532.73 540.00
-  2141_bld House$AirdromeFuelTank 1 141687.98 25338.89 540.00
-  2142_bld House$AirdromeFuelTank 1 141718.66 25289.47 540.00
-  2143_bld House$AirdromeFuelTank 1 141741.33 25370.12 540.00
-  2144_bld House$AirdromeFuelTank 1 141770.64 25319.02 540.00
-  2145_bld House$AirdromeTank1 1 143509.23 25580.54 415.00
-  2146_bld House$AirdromeTank1 1 143522.33 25588.81 415.00
-  2147_bld House$AirdromeTank1 1 143536.46 25597.73 415.00
-  2148_bld House$AirdromeTank1 1 141905.97 24786.58 360.00
-  2149_bld House$AirdromeTank1 1 141905.72 24764.77 360.00
-  2150_bld House$AirdromeTank1 1 141904.98 24741.97 360.00
-  2151_bld House$AirdromeTank1 1 272249.27 482274.80 645.00
-  2152_bld House$AirdromeTank1 1 272263.71 482270.71 645.00
-  2153_bld House$AirdromeTank1 1 272278.83 482266.49 645.00
-  2154_bld House$AirdromeTank1 1 272038.68 483381.58 665.00
-  2155_bld House$AirdromeTank1 1 272052.56 483373.65 665.00
-  2156_bld House$AirdromeTank1 1 272066.69 483365.48 665.00
+  1973_bld House$Henderspagoda 1 295117.61 458588.83 415.00
+  1974_bld House$Henderstower 1 291497.40 458856.61 415.00
+  1975_bld House$HQ_JP02 1 291603.52 458066.80 695.00
+  1976_bld House$Hangar_Med2 1 291097.51 458621.94 405.00
+  1977_bld House$Hangar_Med2 1 291075.98 458599.20 405.00
+  1978_bld House$Housepacif2 1 291168.97 458673.51 405.00
+  1979_bld House$Longbarrack 1 291549.04 458881.41 420.00
+  1980_bld House$AlohaTwr 1 295244.15 462764.96 450.00
+  1981_bld House$CHouse01 1 290619.03 457990.88 495.00
+  1982_bld House$CHouse02 1 290737.99 458166.12 405.00
+  1983_bld House$Bridge_Prim 1 291558.90 458868.04 420.00
+  1984_bld House$Bridge_Prim 1 291561.42 458863.43 420.00
+  1985_bld House$SmallCrane 1 291564.10 458867.94 420.00
+  1986_bld House$NorwayHellisoy_lighths 1 271804.93 454610.51 420.00
+  1987_bld House$NorwayQuay_02 1 291744.28 458082.87 420.00
+  1988_bld House$Norwaystorehouse_02 1 291720.42 458113.16 600.00
+  1989_bld House$Norwaysplinterbox_02 1 291593.47 458881.51 645.00
+  1990_bld House$Norwaysplinterbox_01 1 291596.83 458893.76 645.00
+  1991_bld House$46StoneWall1 1 291543.30 458825.11 605.00
+  1992_bld House$46StoneWall1 1 291532.89 458847.42 605.00
+  1993_bld House$46StoneWall1 1 291554.45 458801.32 605.00
+  1994_bld House$46StoneWall1 1 291565.11 458778.77 605.00
+  1995_bld House$46StoneWall1 1 291555.26 458802.12 605.00
+  1996_bld House$46StoneWall1 1 291533.70 458848.22 605.00
+  1997_bld House$46StoneWall1 1 291544.11 458825.92 605.00
+  1998_bld House$46StoneWall1 1 291565.92 458779.57 605.00
+  1999_bld House$46StoneWall1 1 291518.49 458803.02 605.00
+  2000_bld House$46StoneWall1 1 291507.33 458826.81 605.00
+  2001_bld House$46StoneWall1 1 291496.93 458849.12 605.00
+  2002_bld House$46StoneWall1 1 291517.68 458802.22 605.00
+  2003_bld House$46StoneWall1 1 291496.12 458848.31 605.00
+  2004_bld House$46StoneWall1 1 291506.53 458826.01 605.00
+  2005_bld House$46StoneWall1 1 291529.14 458780.47 605.00
+  2006_bld House$46StoneWall1 1 291528.34 458779.66 605.00
+  2007_bld House$46Lichter1 1 291580.55 458857.60 595.00
+  2008_bld House$46Lichter2 1 291751.36 458031.95 595.00
+  2009_bld House$46Lichter1 1 291738.47 458001.71 490.00
+  2010_bld House$46Lichter1 1 291701.54 457989.32 595.00
+  2011_bld House$46Ponton 1 291678.49 457983.37 595.00
+  2012_bld House$46PtnPandus 1 291673.29 457987.59 535.00
+  2013_bld House$46Ponton 1 291659.41 457993.78 520.00
+  2014_bld House$46Ponton 1 291651.23 457997.99 550.00
+  2015_bld House$46Watower 1 291037.41 458588.38 550.00
+  2016_bld House$NTL_House3 1 291389.60 458822.87 600.00
+  2017_bld House$NTL_House4 1 291407.45 458811.56 600.00
+  2018_bld House$Mongolyamongol_camouflage2 1 365059.91 585401.02 525.00
+  2019_bld House$MongolyaAbri_M 1 365003.31 585409.66 540.00
+  2020_bld House$MongolyaAbri_M 1 364958.19 585409.01 540.00
+  2021_bld House$Factory_06 1 294804.41 462520.47 405.00
+  2022_bld House$Factory_07 1 294830.55 462547.56 405.00
+  2023_bld House$Factory_02 1 294789.83 462540.97 495.00
+  2024_bld House$3Duby_Workshop 1 294803.03 462816.13 495.00
+  2025_bld House$Cetatea_Alba 1 291611.43 458037.34 605.00
+  2026_bld House$olive_tree_1 1 291091.92 458559.23 605.00
+  2027_bld House$olive_tree_1 1 291214.65 458723.12 605.00
+  2028_bld House$crater2_summer 1 291278.20 458776.30 605.00
+  2029_bld House$crater2_summer 1 273112.38 484674.17 605.00
+  2030_bld House$crater1_summer 1 272760.69 484772.08 605.00
+  2031_bld House$Rail_01 1 295290.68 462501.99 585.00
+  2032_bld House$3Duby_Workshop 1 294582.86 463417.53 585.00
+  2033_bld House$KitchenRU 1 294686.02 462744.89 585.00
+  2034_bld House$Rail_02 1 326486.10 432308.19 450.00
+  2035_bld House$Rail_03 1 398505.68 416114.82 405.00
+  2036_bld House$Rail_03 1 425912.28 393079.48 495.00
+  2037_bld House$FurnitureGermanyCountryFenceVert 1 425924.58 393071.43 675.00
+  2038_bld House$FurnitureGermanyCountryFenceVert 1 425929.50 393066.48 675.00
+  2039_bld House$FurnitureGermanyCountryFenceVert 1 425899.95 393096.46 495.00
+  2040_bld House$FurnitureGermanyCountryFenceVert 1 425904.95 393091.45 495.00
+  2041_bld House$FurnitureGermanyCountryFenceVert 1 425894.58 393096.70 410.00
+  2042_bld House$RailSemafor 1 425911.01 393093.78 405.00
+  2043_bld House$RailSemafor 1 425936.11 393053.71 585.00
+  2044_bld House$46Cart 1 425928.09 393082.17 540.00
+  2045_bld House$46BCycle 1 425900.39 393095.42 405.00
+  2046_bld House$FurnitureGermanyCountryFenceVert 1 425929.52 393061.68 405.00
+  2047_bld House$Rail_03 1 509299.66 192492.41 495.00
+  2048_bld House$46Cart 1 509316.45 192489.65 540.00
+  2049_bld House$Rail_01 1 514895.24 102112.11 450.00
+  2050_bld House$Rail_02 1 514912.93 102105.04 400.00
+  2051_bld House$RacingPoleRed 1 295433.91 464567.11 630.00
+  2052_bld House$RacingPoleRed 1 295142.50 463021.46 630.00
+  2053_bld House$RacingPoleRed 1 295780.40 461123.58 630.00
+  2054_bld House$RacingPoleRed 1 291035.80 458671.96 630.00
+  2055_bld House$RacingPoleRed 1 274468.02 452947.48 630.00
+  2056_bld House$RacingPoleBlue 1 329583.74 617589.68 630.00
+  2057_bld House$RacingPoleBlue 1 332715.28 595184.61 630.00
+  2058_bld House$RacingPoleBlue 1 328891.81 643668.72 630.00
+  2059_bld House$RacingPoleRed 1 261542.67 474975.92 630.00
+  2060_bld House$RacingPoleRed 1 280741.94 487774.50 630.00
+  2061_bld House$RacingPoleRed 1 326752.12 432816.84 630.00
+  2062_bld House$RacingPoleRed 1 398697.65 416572.55 630.00
+  2063_bld House$RacingPoleRed 1 425609.76 393236.58 630.00
+  2064_bld House$RacingPoleRed 1 263994.37 532628.71 630.00
+  2065_bld House$RacingPoleRed 1 268625.50 536614.41 630.00
+  2066_bld House$RacingPoleRed 1 515173.87 101449.04 630.00
+  2067_bld House$RacingPoleRed 1 509197.03 192893.08 630.00
+  2068_bld House$RacingPoleRed 1 467995.38 168223.56 630.00
+  2069_bld House$RacingPoleRed 1 493761.74 54184.04 630.00
+  2070_bld House$RacingPoleRed 1 484841.07 301467.52 630.00
+  2071_bld House$RacingPoleRed 1 466553.65 290601.57 630.00
+  2072_bld House$RacingPoleRed 1 463810.18 341776.16 630.00
+  2073_bld House$RacingPoleRed 1 370193.45 275920.93 630.00
+  2074_bld House$RacingPoleRed 1 388595.99 275632.98 630.00
+  2075_bld House$RacingPoleRed 1 435367.31 255922.11 630.00
+  2076_bld House$RacingPoleBlue 1 278810.58 608362.36 405.00
+  2077_bld House$AirdromeFuelTank 1 272108.58 484101.46 360.00
+  2078_bld House$AirdromeFuelTank 1 272124.08 484075.31 360.00
+  2079_bld House$AirdromeFuelTank 1 272094.86 484074.98 360.00
+  2080_bld House$AirdromeFuelTank 1 272109.61 484047.83 360.00
+  2081_bld House$AirdromeFuelTank 1 272081.40 484044.96 360.00
+  2082_bld House$AirdromeFuelTank 1 272094.77 484020.03 360.00
+  2083_bld House$AirdromeFuelTank 1 272063.27 484014.95 360.00
+  2084_bld House$AirdromeFuelTank 1 272078.58 483990.93 360.00
+  2085_bld House$AirdromeTank1 1 247112.39 504058.50 675.00
+  2086_bld House$AirdromeTank1 1 247120.99 504049.90 675.00
+  2087_bld House$AirdromeTank1 1 247129.94 504041.49 675.00
+  2088_bld House$AirdromeFuelTank 1 247160.20 504006.22 675.00
+  2089_bld House$AirdromeFuelTank 1 247140.82 503989.23 675.00
+  2090_bld House$AirdromeFuelTank 1 360905.70 275063.03 675.00
+  2091_bld House$AirdromeFuelTank 1 360948.24 275103.40 675.00
+  2092_bld House$AirdromeFuelTank 1 360993.87 275060.26 675.00
+  2093_bld House$AirdromeFuelTank 1 360954.47 275019.19 675.00
+  2094_bld House$AirdromeFuelTank 1 360861.55 275019.19 675.00
+  2095_bld House$AirdromeFuelTank 1 360909.25 274972.32 675.00
+  2096_bld House$AirdromeFuelTank 1 390728.62 277217.12 675.00
+  2097_bld House$AirdromeFuelTank 1 390730.35 277273.71 675.00
+  2098_bld House$AirdromeFuelTank 1 390731.10 277324.53 675.00
+  2099_bld House$AirdromeFuelTank 1 390684.65 277324.12 675.00
+  2100_bld House$AirdromeFuelTank 1 390684.65 277272.68 675.00
+  2101_bld House$AirdromeFuelTank 1 390684.23 277217.51 675.00
+  2102_bld House$AirdromeFuelTank 1 412875.24 278305.06 675.00
+  2103_bld House$AirdromeFuelTank 1 412875.49 278335.14 675.00
+  2104_bld House$AirdromeTank1 1 413245.54 278129.17 685.00
+  2105_bld House$AirdromeTank1 1 413237.23 278140.77 685.00
+  2106_bld House$AirdromeFuelTank 1 486434.35 301164.04 685.00
+  2107_bld House$AirdromeFuelTank 1 486434.84 301135.32 685.00
+  2108_bld House$AirdromeFuelTank 1 486434.35 301104.87 685.00
+  2109_bld House$AirdromeFuelTank 1 480809.31 288636.31 685.00
+  2110_bld House$AirdromeFuelTank 1 480837.48 288609.93 685.00
+  2111_bld House$AirdromeFuelTank 1 480808.69 288580.21 685.00
+  2112_bld House$AirdromeFuelTank 1 480779.95 288605.88 685.00
+  2113_bld House$AirdromeFuelTank 1 480778.99 288549.99 685.00
+  2114_bld House$AirdromeFuelTank 1 480748.64 288577.12 685.00
+  2115_bld House$AirdromeFuelTank 1 512375.05 196374.92 685.00
+  2116_bld House$AirdromeFuelTank 1 512415.15 196374.78 685.00
+  2117_bld House$AirdromeFuelTank 1 512445.41 196374.56 685.00
+  2118_bld House$AirdromeFuelTank 1 512445.41 196404.79 685.00
+  2119_bld House$AirdromeFuelTank 1 512414.43 196405.04 685.00
+  2120_bld House$AirdromeFuelTank 1 512375.27 196404.79 685.00
+  2121_bld House$AirdromeTank1 1 510633.16 195218.72 640.00
+  2122_bld House$AirdromeTank1 1 510651.98 195216.36 640.00
+  2123_bld House$AirdromeTank1 1 510615.06 195221.56 640.00
+  2124_bld House$AirdromeTank1 1 511374.61 99503.82 585.00
+  2125_bld House$AirdromeTank1 1 511385.25 99514.21 585.00
+  2126_bld House$AirdromeTank1 1 511394.89 99524.84 585.00
+  2127_bld House$AirdromeTank1 1 511974.36 100665.44 540.00
+  2128_bld House$AirdromeTank1 1 511974.19 100653.22 540.00
+  2129_bld House$AirdromeTank1 1 511974.93 100678.75 540.00
+  2130_bld House$AirdromeFuelTank 1 499145.41 52264.96 540.00
+  2131_bld House$AirdromeFuelTank 1 499199.30 52264.48 540.00
+  2132_bld House$AirdromeFuelTank 1 499145.24 52214.96 540.00
+  2133_bld House$AirdromeFuelTank 1 499199.30 52214.91 540.00
+  2134_bld House$AirdromeFuelTank 1 497825.52 52452.60 540.00
+  2135_bld House$AirdromeFuelTank 1 497858.79 52499.27 540.00
+  2136_bld House$AirdromeFuelTank 1 497908.58 52466.08 540.00
+  2137_bld House$AirdromeFuelTank 1 497874.75 52418.84 540.00
+  2138_bld House$AirdromeFuelTank 1 497775.67 52485.60 540.00
+  2139_bld House$AirdromeFuelTank 1 497807.10 52532.73 540.00
+  2140_bld House$AirdromeFuelTank 1 141687.98 25338.89 540.00
+  2141_bld House$AirdromeFuelTank 1 141718.66 25289.47 540.00
+  2142_bld House$AirdromeFuelTank 1 141741.33 25370.12 540.00
+  2143_bld House$AirdromeFuelTank 1 141770.64 25319.02 540.00
+  2144_bld House$AirdromeTank1 1 143509.23 25580.54 415.00
+  2145_bld House$AirdromeTank1 1 143522.33 25588.81 415.00
+  2146_bld House$AirdromeTank1 1 143536.46 25597.73 415.00
+  2147_bld House$AirdromeTank1 1 141905.97 24786.58 360.00
+  2148_bld House$AirdromeTank1 1 141905.72 24764.77 360.00
+  2149_bld House$AirdromeTank1 1 141904.98 24741.97 360.00
+  2150_bld House$AirdromeTank1 1 272249.27 482274.80 645.00
+  2151_bld House$AirdromeTank1 1 272263.71 482270.71 645.00
+  2152_bld House$AirdromeTank1 1 272278.83 482266.49 645.00
+  2153_bld House$AirdromeTank1 1 272038.68 483381.58 665.00
+  2154_bld House$AirdromeTank1 1 272052.56 483373.65 665.00
+  2155_bld House$AirdromeTank1 1 272066.69 483365.48 665.00
+  2156_bld House$FinlandHelsinkiStadium 1 295157.61 462253.51 405.00
+  2157_bld House$Bunker7 1 295730.31 465548.20 440.00
+  2158_bld House$Bunker8 1 291009.44 458050.88 440.00
+  2159_bld House$Bunker8 1 291688.83 458123.28 710.00
+  2160_bld House$shacks 1 291026.34 458184.08 405.00
+  2161_bld House$BambooHut2 1 291542.86 458875.65 510.00
+  2162_bld House$BP_Earth 1 295394.37 457453.18 620.00
+  2163_bld House$Nissen_hut 1 290938.21 458084.13 675.00
+  2164_bld House$Nissen_hut 1 290949.20 458075.72 675.00
+  2165_bld House$RHouse2 1 290302.72 469222.02 695.00
+  2166_bld House$RHouse1 1 295603.05 458383.80 630.00
+  2167_bld House$CHouse02 1 293768.66 463964.09 360.00
+  2168_bld House$Factory 1 294462.89 462967.85 410.00
+  2169_bld House$Bridge_Prim 1 291133.23 458088.57 715.00
+  2170_bld House$DummyPlane1 1 295422.53 457460.08 620.00
+  2171_bld House$LargeCrane1 1 291495.53 458832.49 695.00
+  2172_bld House$S_CASTLE 1 294525.11 463566.18 375.00
+  2173_bld House$VehicleM1Black 1 295459.58 462359.75 385.00
+  2174_bld House$NorwayQuay_02 1 291079.43 458186.67 390.00
+  2175_bld House$Norwayairshelter_01 1 291689.64 458135.75 655.00
+  2176_bld House$Cetatea_Alba 1 291098.07 458068.80 655.00
+  2177_bld House$crater1_desert 1 291109.82 458117.72 655.00
+  2178_bld House$ThaiFarm 1 290965.34 458058.02 580.00
+  2179_bld House$Hangar_Urouille 1 291079.03 458055.57 580.00
+  2180_bld House$Tour-obs-metal 1 291096.33 458054.18 580.00
+  2181_bld House$Cuve-horiz 1 295534.83 458383.25 670.00
+  2182_bld House$Cuve-Gr 1 291434.01 458831.01 670.00
+  2183_bld House$Country_Bridge_Short_End 1 291164.39 458104.06 540.00
+  2184_bld House$Country_Bridge_Short_Mid 1 291264.09 458104.04 540.00
+  2185_bld House$Country_Bridge_Long_Mid 1 291384.62 458104.01 360.00
+  2186_bld House$Country_Bridge_Short_End 1 291547.39 458103.94 360.00
+  2187_bld House$Country_Bridge_Long_Mid 1 291452.38 458103.53 360.00
+  2188_bld House$Egypt_boxes_all003 1 291607.63 458119.77 360.00
+  2189_bld House$arba_2 1 291101.66 458086.26 360.00
+  2190_bld House$Egypt_tree_06 1 291071.02 458140.59 360.00
+  2191_bld House$charbon 1 295029.72 458440.02 360.00
+  2192_bld House$detritus 1 295020.49 458474.24 360.00
+  2193_bld House$MongolyaAbri_M 1 294742.47 458443.79 380.00
+  2194_bld House$MongolyaAbri_M 1 294732.41 458421.07 380.00
+  2195_bld House$Koper 1 294651.71 460201.81 360.00
+  2196_bld House$storage_002 1 272186.12 483431.37 380.00
 [Bridge]
 [House]
   MmwZ8 2

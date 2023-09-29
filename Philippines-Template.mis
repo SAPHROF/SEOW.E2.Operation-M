@@ -3744,7 +3744,7 @@
   2173_bld House$VehicleM1Black 1 295459.58 462359.75 385.00
   2174_bld House$NorwayQuay_02 1 291079.43 458186.67 390.00
   2175_bld House$Norwayairshelter_01 1 291689.64 458135.75 655.00
-  2176_bld House$Cetatea_Alba 1 291098.07 458068.80 655.00
+  2176_bld House$Cetatea_Alba 1 291027.93 458086.64 360.00
   2177_bld House$crater1_desert 1 291109.82 458117.72 655.00
   2178_bld House$ThaiFarm 1 290965.34 458058.02 580.00
   2179_bld House$Hangar_Urouille 1 291079.03 458055.57 580.00
@@ -3765,6 +3765,9 @@
   2194_bld House$MongolyaAbri_M 1 294732.41 458421.07 380.00
   2195_bld House$Koper 1 294651.71 460201.81 360.00
   2196_bld House$storage_002 1 272186.12 483431.37 380.00
+  2197_bld House$muralla_torre 1 295354.92 462831.90 685.00
+  2198_bld House$muralla_1 1 295481.40 462725.91 655.00
+  2199_bld House$muralla_torre 1 295487.12 462727.17 630.00
 [Bridge]
 [House]
   MmwZ8 2

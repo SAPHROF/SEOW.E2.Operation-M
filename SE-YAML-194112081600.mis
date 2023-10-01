@@ -1,0 +1,1417 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 16.0
+  WEAPONSCONSTANT 1
+  CloudType 0
+  CloudHeight 2394.0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 8
+[WEATHER]
+  WindDirection 127.0
+  WindSpeed 2.0
+  Gust 0
+  Turbulence 3
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 1
+  MDS_Radar_RefreshInterval 30
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 1
+  MDS_Radar_ShipRadar_MaxRange 24
+  MDS_Radar_ShipRadar_MinHeight 67
+  MDS_Radar_ShipRadar_MaxHeight 5273
+  MDS_Radar_ShipSmallRadar_MaxRange 12
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 100
+  MDS_Radar_ScoutsAsRadar 1
+  MDS_Radar_ScoutRadar_MaxRange 15
+  MDS_Radar_ScoutRadar_DeltaHeight 5440
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 1
+  MDS_Radar_ScoutGroundObjects_Alpha 25
+  MDS_Radar_ScoutCompleteRecon 1
+  MDS_Misc_DisableAIRadioChatter 1
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 1
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 12.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 12.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 12.0
+[RespawnTime]
+  Bigship 14800
+  Ship 14800
+  Aeroanchored 14800
+  Artillery 14800
+  Searchlight 14800
+[Wing]
+[Chiefs]
+[NStationary]
+  0_Static vehicles.planes.Plane$B_24J100 1 265610.83 535838.17 439.10 0.0 us 0 1.0 null 1
+  1_Static vehicles.planes.Plane$B_24J100 1 265514.82 535854.84 414.10 0.0 us 0 1.0 null 1
+  2_Static vehicles.planes.Plane$B_24J100 1 265473.35 535810.32 444.10 0.0 us 0 1.0 null 1
+  3_Static vehicles.planes.Plane$B_24J100 1 265358.73 535749.87 425.00 0.0 us 0 1.0 null 1
+  4_Static vehicles.planes.Plane$B_24J100 1 265797.80 535546.15 209.10 0.0 us 0 1.0 null 1
+  5_Static vehicles.planes.Plane$B_24J100 1 265297.24 535734.15 425.00 0.0 us 0 1.0 null 1
+  6_Static vehicles.planes.Plane$B_24J100 1 265225.39 535678.84 425.00 0.0 us 0 1.0 null 1
+  7_Static vehicles.planes.Plane$B_24J100 1 265678.12 535448.82 270.00 0.0 us 0 1.0 null 1
+  8_Static vehicles.planes.Plane$B_24J100 1 264769.57 535474.20 410.00 0.0 us 0 1.0 null 1
+  9_Static vehicles.planes.Plane$B_24J100 1 264824.40 535511.90 420.00 0.0 us 0 1.0 null 1
+  10_Static vehicles.planes.Plane$B_24J100 1 265667.80 535850.03 454.10 0.0 us 0 1.0 null 1
+  11_Static vehicles.planes.Plane$B_24J100 1 264725.62 535430.21 390.00 0.0 us 0 1.0 null 1
+  12_Static vehicles.planes.Plane$B_24J100 1 265764.72 535487.44 230.00 0.0 us 0 1.0 null 1
+  13_Static vehicles.planes.Plane$B_24J100 1 265710.67 535417.78 240.00 0.0 us 0 1.0 null 1
+  14_Static vehicles.planes.Plane$B_24J100 1 264843.85 535187.56 310.00 0.0 us 0 1.0 null 1
+  15_Static vehicles.planes.Plane$B_24J100 1 265338.83 535224.10 454.10 0.0 us 0 1.0 null 1
+  16_Static vehicles.planes.Plane$B_24J100 1 265404.46 535244.02 265.00 0.0 us 0 1.0 null 1
+  17_Static vehicles.planes.Plane$B_24J100 1 264893.40 535150.91 280.00 0.0 us 0 1.0 null 1
+  18_Static vehicles.planes.Plane$B_24J100 1 265427.30 535830.94 439.10 0.0 us 0 1.0 null 1
+  19_Static vehicles.planes.Plane$B_24J100 1 264958.80 535158.55 255.00 0.0 us 0 1.0 null 1
+  20_Static vehicles.planes.Plane$B_24J100 1 265466.28 535268.75 245.00 0.0 us 0 1.0 null 1
+  21_Static vehicles.planes.Plane$B_24J100 1 264838.59 535568.40 390.00 0.0 us 0 1.0 null 1
+  22_Static vehicles.planes.Plane$B_24J100 1 265156.05 535163.53 265.00 0.0 us 0 1.0 null 1
+  23_Static vehicles.planes.Plane$B_24J100 1 265019.77 535150.68 280.00 0.0 us 0 1.0 null 1
+  24_Static vehicles.planes.Plane$B_24J100 1 268399.85 475820.17 439.80 0.0 us 0 1.0 null 1
+  25_Static vehicles.planes.Plane$B_24J100 1 268448.89 476067.68 374.80 0.0 us 0 1.0 null 1
+  26_Static vehicles.planes.Plane$B_24J100 1 268698.47 475655.26 509.80 0.0 us 0 1.0 null 1
+  27_Static vehicles.planes.Plane$B_24J100 1 268492.45 476142.45 364.80 0.0 us 0 1.0 null 1
+  28_Static vehicles.planes.Plane$B_24J100 1 268703.30 476072.43 509.80 0.0 us 0 1.0 null 1
+  29_Static vehicles.planes.Plane$B_24J100 1 268080.44 475637.12 434.80 0.0 us 0 1.0 null 1
+  30_Static vehicles.planes.Plane$B_24J100 1 268043.32 475622.17 429.80 0.0 us 0 1.0 null 1
+  31_Static vehicles.planes.Plane$B_24J100 1 268356.14 475822.16 469.80 0.0 us 0 1.0 null 1
+  32_Static vehicles.planes.Plane$B_24J100 1 205969.19 242964.00 330.00 0.0 gb 0 1.0 null 1
+  33_Static vehicles.planes.Plane$B_24J100 1 206003.60 242933.12 300.00 0.0 gb 0 1.0 null 1
+  34_Static vehicles.planes.Plane$B_24J100 1 206244.89 242844.55 255.00 0.0 gb 0 1.0 null 1
+  35_Static vehicles.planes.Plane$B_24J100 1 206305.37 242870.39 195.00 0.0 gb 0 1.0 null 1
+  36_Static vehicles.planes.Plane$B_24J100 1 272241.79 482641.49 375.10 0.0 us 0 1.0 null 1
+  37_Static vehicles.planes.Plane$B_24J100 1 272435.25 483359.80 375.10 0.0 us 0 1.0 null 1
+  38_Static vehicles.planes.Plane$B_24J100 1 272505.72 483400.82 195.10 0.0 us 0 1.0 null 1
+  39_Static vehicles.planes.Plane$B_24J100 1 272405.21 483962.91 190.10 0.0 us 0 1.0 null 1
+  40_Static vehicles.planes.Plane$B_24J100 1 272535.82 484447.25 200.10 0.0 us 0 1.0 null 1
+  41_Static vehicles.planes.Plane$B_24J100 1 272510.57 484350.25 195.10 0.0 us 0 1.0 null 1
+  42_Static vehicles.planes.Plane$B_24J100 1 272381.12 483865.47 195.10 0.0 us 0 1.0 null 1
+  43_Static vehicles.planes.Plane$B_24J100 1 272462.35 484156.19 200.10 0.0 us 0 1.0 null 1
+  44_Static vehicles.planes.Plane$B_24J100 1 272344.75 483020.34 375.10 0.0 us 0 1.0 null 1
+  45_Static vehicles.planes.Plane$B_24J100 1 272371.42 483118.74 380.10 0.0 us 0 1.0 null 1
+  46_Static vehicles.planes.Plane$B_24J100 1 272566.29 484543.51 195.10 0.0 us 0 1.0 null 1
+  47_Static vehicles.planes.Plane$B_24J100 1 272318.19 482927.38 380.10 0.0 us 0 1.0 null 1
+  48_Static vehicles.planes.Plane$B_24J100 1 272433.28 484062.05 195.10 0.0 us 0 1.0 null 1
+  49_Static vehicles.planes.Plane$B_24J100 1 272264.22 482732.97 380.10 0.0 us 0 1.0 null 1
+  50_Static vehicles.planes.Plane$B_24J100 1 272354.80 483770.42 200.10 0.0 us 0 1.0 null 1
+  51_Static vehicles.planes.Plane$B_24J100 1 272292.92 482830.83 375.10 0.0 us 0 1.0 null 1
+  52_Static vehicles.planes.Plane$B_24J100 1 272252.88 484103.42 285.10 0.0 us 0 1.0 null 1
+  53_Static vehicles.planes.Plane$B_24J100 1 272914.24 484533.91 375.10 0.0 us 0 1.0 null 1
+  54_Static vehicles.planes.Plane$B_24J100 1 272887.43 484437.21 380.10 0.0 us 0 1.0 null 1
+  55_Static vehicles.planes.Plane$B_24J100 1 272316.67 484158.54 255.10 0.0 us 0 1.0 null 1
+  56_Static vehicles.planes.Plane$B_24J100 1 272162.14 483251.85 375.10 0.0 us 0 1.0 null 1
+  57_Static vehicles.planes.Plane$B_24J100 1 272862.95 484342.64 370.10 0.0 us 0 1.0 null 1
+  58_Static vehicles.planes.Plane$B_24J100 1 272134.44 483147.38 380.10 0.0 us 0 1.0 null 1
+  59_Static vehicles.planes.Plane$B_24J100 1 272104.50 483042.43 375.10 0.0 us 0 1.0 null 1
+  60_Static vehicles.planes.Plane$B_24J100 1 272832.96 484244.34 375.10 0.0 us 0 1.0 null 1
+  61_Static vehicles.planes.Plane$B_24J100 1 272786.92 484052.85 375.10 0.0 us 0 1.0 null 1
+  62_Static vehicles.planes.Plane$B_24J100 1 272077.31 482937.88 375.10 0.0 us 0 1.0 null 1
+  63_Static vehicles.planes.Plane$B_24J100 1 272759.10 483956.89 380.10 0.0 us 0 1.0 null 1
+  64_Static vehicles.planes.Plane$B_24J100 1 272052.74 482831.28 380.10 0.0 us 0 1.0 null 1
+  65_Static vehicles.planes.Plane$B_24J100 1 272730.41 483858.79 375.10 0.0 us 0 1.0 null 1
+  66_Static vehicles.planes.Plane$B_24J100 1 272704.47 483764.98 380.10 0.0 us 0 1.0 null 1
+  67_Static vehicles.planes.Plane$B_24J100 1 272680.68 483666.08 375.10 0.0 us 0 1.0 null 1
+  68_Static vehicles.planes.Plane$B_24J100 1 272521.09 483081.72 380.10 0.0 us 0 1.0 null 1
+  69_Static vehicles.planes.Plane$B_24J100 1 272494.98 482982.65 370.10 0.0 us 0 1.0 null 1
+  70_Static vehicles.planes.Plane$B_24J100 1 272459.37 482888.36 375.10 0.0 us 0 1.0 null 1
+  71_Static vehicles.planes.Plane$B_24J100 1 272430.22 482793.53 380.10 0.0 us 0 1.0 null 1
+  72_Static vehicles.planes.Plane$B_24J100 1 272418.46 482687.15 370.10 0.0 us 0 1.0 null 1
+  73_Static vehicles.planes.Plane$B_24J100 1 272387.42 482594.46 380.10 0.0 us 0 1.0 null 1
+  74_Static vehicles.planes.Plane$B_24J100 1 272394.38 484333.24 375.10 0.0 us 0 1.0 null 1
+  75_Static vehicles.planes.Plane$B_24J100 1 272378.54 484279.64 385.10 0.0 us 0 1.0 null 1
+  76_Static vehicles.planes.Plane$B_24J100 1 272178.38 484225.72 375.10 0.0 us 0 1.0 null 1
+  77_Static vehicles.planes.Plane$B_24J100 1 272707.47 483769.98 385.10 0.0 us 0 1.0 null 1
+  78_Static vehicles.planes.Plane$B_24J100 1 416681.84 421399.42 449.10 0.0 us 0 1.0 null 1
+  79_Static vehicles.planes.Plane$B_24J100 1 416638.16 421398.46 420.00 0.0 us 0 1.0 null 1
+  80_Static vehicles.planes.Plane$B_24J100 1 416729.34 421400.85 444.10 0.0 us 0 1.0 null 1
+  81_Static vehicles.planes.Plane$B_24J100 1 416887.80 421300.83 519.10 0.0 us 0 1.0 null 1
+  82_Static vehicles.planes.Plane$B_24J100 1 416929.10 421265.98 504.10 0.0 us 0 1.0 null 1
+  83_Static vehicles.planes.Plane$B_24J100 1 416952.25 421214.19 534.10 0.0 us 0 1.0 null 1
+  84_Static vehicles.planes.Plane$B_24J100 1 416960.13 421162.39 539.10 0.0 us 0 1.0 null 1
+  85_Static vehicles.planes.Plane$B_24J100 1 416299.00 421029.06 390.00 0.0 us 0 1.0 null 1
+  86_Static vehicles.planes.Plane$B_24J100 1 416292.32 420972.96 420.00 0.0 us 0 1.0 null 1
+  87_Static vehicles.planes.Plane$B_24J100 1 416373.52 421141.53 405.00 0.0 us 0 1.0 null 1
+  88_Static vehicles.planes.Plane$B_24J100 1 416394.30 421178.68 375.00 0.0 us 0 1.0 null 1
+  89_Static vehicles.planes.Plane$B_24J100 1 416216.82 420503.79 345.00 0.0 us 0 1.0 null 1
+  90_Static vehicles.planes.Plane$B_24J100 1 416211.15 420545.98 375.00 0.0 us 0 1.0 null 1
+  91_Static vehicles.planes.Plane$B_24J100 1 416313.16 420379.11 315.00 0.0 us 0 1.0 null 1
+  92_Static vehicles.planes.Plane$B_24J100 1 416364.79 420350.14 285.00 0.0 us 0 1.0 null 1
+  93_Static vehicles.planes.Plane$B_24J100 1 416838.46 420900.71 210.00 0.0 us 0 1.0 null 1
+  94_Static vehicles.planes.Plane$B_24J100 1 416816.42 420849.70 540.00 0.0 us 0 1.0 null 1
+  95_Static vehicles.planes.Plane$B_24J100 1 416798.79 420787.37 210.00 0.0 us 0 1.0 null 1
+  96_Static vehicles.planes.Plane$B_24J100 1 416788.09 420741.40 205.00 0.0 us 0 1.0 null 1
+  97_Static vehicles.planes.Plane$B_24J100 1 416766.68 420665.84 210.00 0.0 us 0 1.0 null 1
+  98_Static vehicles.planes.Plane$B_24J100 1 416298.40 420915.96 375.00 0.0 us 0 1.0 null 1
+  99_Static vehicles.planes.Plane$B_24J100 1 416288.96 420866.22 390.00 0.0 us 0 1.0 null 1
+  100_Static vehicles.planes.Plane$B_24J100 1 416415.52 421206.88 385.00 0.0 us 0 1.0 null 1
+  101_Static vehicles.planes.Plane$B_24J100 1 416183.94 420582.44 380.00 0.0 us 0 1.0 null 1
+  102_Static vehicles.planes.Plane$B_24J100 1 301685.55 405972.61 449.10 0.0 us 0 1.0 null 1
+  103_Static vehicles.planes.Plane$B_24J100 1 301641.87 405971.66 420.00 0.0 us 0 1.0 null 1
+  104_Static vehicles.planes.Plane$B_24J100 1 301733.05 405974.04 444.10 0.0 us 0 1.0 null 1
+  105_Static vehicles.planes.Plane$B_24J100 1 301891.50 405873.99 519.10 0.0 us 0 1.0 null 1
+  106_Static vehicles.planes.Plane$B_24J100 1 301932.79 405839.14 504.10 0.0 us 0 1.0 null 1
+  107_Static vehicles.planes.Plane$B_24J100 1 301955.93 405787.34 534.10 0.0 us 0 1.0 null 1
+  108_Static vehicles.planes.Plane$B_24J100 1 301963.81 405735.54 539.10 0.0 us 0 1.0 null 1
+  109_Static vehicles.planes.Plane$B_24J100 1 301302.66 405602.31 390.00 0.0 us 0 1.0 null 1
+  110_Static vehicles.planes.Plane$B_24J100 1 301295.97 405546.21 420.00 0.0 us 0 1.0 null 1
+  111_Static vehicles.planes.Plane$B_24J100 1 301377.19 405714.77 405.00 0.0 us 0 1.0 null 1
+  112_Static vehicles.planes.Plane$B_24J100 1 301397.98 405751.91 375.00 0.0 us 0 1.0 null 1
+  113_Static vehicles.planes.Plane$B_24J100 1 301220.40 405077.05 345.00 0.0 us 0 1.0 null 1
+  114_Static vehicles.planes.Plane$B_24J100 1 301214.74 405119.24 375.00 0.0 us 0 1.0 null 1
+  115_Static vehicles.planes.Plane$B_24J100 1 301316.73 404952.35 315.00 0.0 us 0 1.0 null 1
+  116_Static vehicles.planes.Plane$B_24J100 1 301368.35 404923.38 285.00 0.0 us 0 1.0 null 1
+  117_Static vehicles.planes.Plane$B_24J100 1 301842.10 405473.88 210.00 0.0 us 0 1.0 null 1
+  118_Static vehicles.planes.Plane$B_24J100 1 301820.05 405422.87 540.00 0.0 us 0 1.0 null 1
+  119_Static vehicles.planes.Plane$B_24J100 1 301802.41 405360.55 210.00 0.0 us 0 1.0 null 1
+  120_Static vehicles.planes.Plane$B_24J100 1 301791.71 405314.58 205.00 0.0 us 0 1.0 null 1
+  121_Static vehicles.planes.Plane$B_24J100 1 301770.29 405239.02 210.00 0.0 us 0 1.0 null 1
+  122_Static vehicles.planes.Plane$B_24J100 1 301302.04 405489.21 375.00 0.0 us 0 1.0 null 1
+  123_Static vehicles.planes.Plane$B_24J100 1 301292.59 405439.47 390.00 0.0 us 0 1.0 null 1
+  124_Static vehicles.planes.Plane$B_24J100 1 301419.20 405780.11 385.00 0.0 us 0 1.0 null 1
+  125_Static vehicles.planes.Plane$B_24J100 1 301187.53 405155.70 380.00 0.0 us 0 1.0 null 1
+  126_Static vehicles.planes.Plane$B_24J100 1 298280.83 356352.96 504.80 0.0 us 0 1.0 null 1
+  127_Static vehicles.planes.Plane$B_24J100 1 298525.87 356413.14 439.80 0.0 us 0 1.0 null 1
+  128_Static vehicles.planes.Plane$B_24J100 1 298257.58 356012.63 214.80 0.0 us 0 1.0 null 1
+  129_Static vehicles.planes.Plane$B_24J100 1 298612.04 356405.26 429.80 0.0 us 0 1.0 null 1
+  130_Static vehicles.planes.Plane$B_24J100 1 298637.71 356184.58 214.80 0.0 us 0 1.0 null 1
+  131_Static vehicles.planes.Plane$B_24J100 1 297979.93 356565.07 499.80 0.0 us 0 1.0 null 1
+  132_Static vehicles.planes.Plane$B_24J100 1 297950.69 356592.40 494.80 0.0 us 0 1.0 null 1
+  133_Static vehicles.planes.Plane$B_24J100 1 298264.15 356393.42 534.80 0.0 us 0 1.0 null 1
+  134_Static vehicles.planes.Plane$B_24J100 1 298477.16 356322.00 409.80 0.0 us 0 1.0 null 1
+  135_Static vehicles.planes.Plane$B_24J100 1 298420.18 356277.35 454.80 0.0 us 0 1.0 null 1
+  136_Static vehicles.planes.Plane$B_24J100 1 298520.26 356348.04 394.80 0.0 us 0 1.0 null 1
+  137_Static vehicles.planes.Plane$B_24J100 1 298559.89 356382.52 409.80 0.0 us 0 1.0 null 1
+  138_Static vehicles.planes.Plane$B_24J100 1 298478.93 356384.50 409.80 0.0 us 0 1.0 null 1
+  139_Static vehicles.planes.Plane$B_24J100 1 298039.28 356741.07 454.80 0.0 us 0 1.0 null 1
+  140_Static vehicles.planes.Plane$B_24J100 1 297956.13 356755.19 469.80 0.0 us 0 1.0 null 1
+  141_Static vehicles.planes.Plane$B_24J100 1 297887.16 356780.93 484.80 0.0 us 0 1.0 null 1
+  142_Static vehicles.planes.Plane$B_24J100 1 298094.07 356734.02 469.80 0.0 us 0 1.0 null 1
+  143_Static vehicles.planes.Plane$B_24J100 1 298499.88 356395.12 445.80 0.0 us 0 1.0 null 1
+  144_Static vehicles.planes.Plane$B_24J100 1 297847.83 356815.71 459.80 0.0 us 0 1.0 null 1
+  145_Static vehicles.planes.Plane$B_24J100 1 297700.62 356893.70 414.80 0.0 us 0 1.0 null 1
+  146_Static vehicles.planes.Plane$B_24J100 1 297742.54 356870.52 449.80 0.0 us 0 1.0 null 1
+  147_Static vehicles.planes.Plane$B_24J100 1 297795.39 356846.71 474.80 0.0 us 0 1.0 null 1
+  148_Static vehicles.planes.Plane$B_24J100 1 298075.18 355954.13 314.80 0.0 us 0 1.0 null 1
+  149_Static vehicles.planes.Plane$B_24J100 1 298101.42 355918.02 319.80 0.0 us 0 1.0 null 1
+  150_Static vehicles.planes.Plane$B_24J100 1 298133.86 355882.60 334.80 0.0 us 0 1.0 null 1
+  151_Static vehicles.planes.Plane$B_24J100 1 298159.18 355832.50 314.80 0.0 us 0 1.0 null 1
+  152_Static vehicles.planes.Plane$B_24J100 1 298110.25 355753.20 389.80 0.0 us 0 1.0 null 1
+  153_Static vehicles.planes.Plane$B_24J100 1 298489.63 356102.10 264.80 0.0 us 0 1.0 null 1
+  154_Static vehicles.planes.Plane$B_24J100 1 298378.76 356132.98 189.80 0.0 us 0 1.0 null 1
+  155_Static vehicles.planes.Plane$B_24J100 1 298631.37 356325.44 209.80 0.0 us 0 1.0 null 1
+  156_Static vehicles.planes.Plane$B_24J100 1 298595.94 356295.78 224.80 0.0 us 0 1.0 null 1
+  157_Static vehicles.planes.Plane$B_24J100 1 298459.36 356205.47 234.80 0.0 us 0 1.0 null 1
+  158_Static vehicles.planes.Plane$B_24J100 1 298497.38 356231.27 239.80 0.0 us 0 1.0 null 1
+  159_Static vehicles.planes.Plane$B_24J100 1 297414.40 356913.41 389.80 0.0 us 0 1.0 null 1
+  160_Static vehicles.planes.Plane$B_24J100 1 389203.19 277478.75 400.10 0.0 us 0 1.0 null 1
+  161_Static vehicles.planes.Plane$B_24J100 1 389236.77 277516.68 395.10 0.0 us 0 1.0 null 1
+  162_Static vehicles.planes.Plane$B_24J100 1 389570.38 276838.31 230.10 0.0 us 0 1.0 null 1
+  163_Static vehicles.planes.Plane$B_24J100 1 389657.37 276931.57 200.10 0.0 us 0 1.0 null 1
+  164_Static vehicles.planes.Plane$B_24J100 1 389508.79 276767.94 210.10 0.0 us 0 1.0 null 1
+  165_Static vehicles.planes.Plane$B_24J100 1 389538.38 276800.82 230.10 0.0 us 0 1.0 null 1
+  166_Static vehicles.planes.Plane$B_24J100 1 389640.14 276894.38 205.10 0.0 us 0 1.0 null 1
+  167_Static vehicles.planes.Plane$B_24J100 1 390504.21 277534.35 184.20 0.0 us 0 1.0 null 1
+  168_Static vehicles.planes.Plane$B_24J100 1 390498.49 277598.23 529.20 0.0 us 0 1.0 null 1
+  169_Static vehicles.planes.Plane$B_24J100 1 390492.48 277652.64 534.20 0.0 us 0 1.0 null 1
+  170_Static vehicles.planes.Plane$B_24J100 1 389804.17 278166.68 400.10 0.0 us 0 1.0 null 1
+  171_Static vehicles.planes.Plane$B_24J100 1 389846.72 278206.10 425.10 0.0 us 0 1.0 null 1
+  172_Static vehicles.planes.Plane$B_24J100 1 359836.45 275706.16 509.20 0.0 us 0 1.0 null 1
+  173_Static vehicles.planes.Plane$B_24J100 1 359818.93 275741.79 509.20 0.0 us 0 1.0 null 1
+  174_Static vehicles.planes.Plane$B_24J100 1 359456.62 275538.47 339.20 0.0 us 0 1.0 null 1
+  175_Static vehicles.planes.Plane$B_24J100 1 360119.96 275061.31 460.10 0.0 us 0 1.0 null 1
+  176_Static vehicles.planes.Plane$B_24J100 1 360012.30 275125.41 205.10 0.0 us 0 1.0 null 1
+  177_Static vehicles.planes.Plane$B_24J100 1 360466.88 275976.63 509.20 0.0 us 0 1.0 null 1
+  178_Static vehicles.planes.Plane$B_24J100 1 360511.73 276061.98 320.10 0.0 us 0 1.0 null 1
+  179_Static vehicles.planes.Plane$B_24J100 1 360737.53 275551.81 524.20 0.0 us 0 1.0 null 1
+  180_Static vehicles.planes.Plane$B_24J100 1 360488.45 275154.36 195.10 0.0 us 0 1.0 null 1
+  181_Static vehicles.planes.Plane$B_24J100 1 360453.91 275018.03 190.10 0.0 us 0 1.0 null 1
+  182_Static vehicles.planes.Plane$B_24J100 1 359867.17 275667.18 524.20 0.0 us 0 1.0 null 1
+  183_Static vehicles.planes.Plane$B_24J100 1 360477.66 275112.00 194.20 0.0 us 0 1.0 null 1
+  184_Static vehicles.planes.Plane$B_24J100 1 360459.71 275055.80 195.10 0.0 us 0 1.0 null 1
+  185_Static vehicles.planes.Plane$B_24J100 1 360168.90 275050.28 460.10 0.0 us 0 1.0 null 1
+  186_Static vehicles.planes.Plane$B_24J100 1 360216.83 275028.43 460.10 0.0 us 0 1.0 null 1
+  187_Static vehicles.planes.Plane$B_24J100 1 359947.22 275139.88 475.10 0.0 us 0 1.0 null 1
+  188_Static vehicles.planes.Plane$B_24J100 1 360409.61 275457.43 460.10 0.0 us 0 1.0 null 1
+  189_Static vehicles.planes.Plane$B_24J100 1 360443.93 274745.42 195.10 0.0 us 0 1.0 null 1
+  190_Static vehicles.planes.Plane$B_24J100 1 360062.79 275085.96 439.20 0.0 us 0 1.0 null 1
+  191_Static vehicles.planes.Plane$B_24J100 1 359514.61 275425.14 334.20 0.0 us 0 1.0 null 1
+  192_Static vehicles.planes.Plane$B_24J100 1 359468.73 275498.82 345.10 0.0 us 0 1.0 null 1
+  193_Static vehicles.planes.Plane$B_24J100 1 360456.10 276082.34 315.10 0.0 us 0 1.0 null 1
+  194_Static vehicles.planes.Plane$B_24J100 1 360653.02 276115.10 464.20 0.0 us 0 1.0 null 1
+  195_Static vehicles.planes.Plane$B_24J100 1 360597.06 276132.19 449.20 0.0 us 0 1.0 null 1
+  196_Static vehicles.planes.Plane$B_24J100 1 360538.65 276148.15 464.20 0.0 us 0 1.0 null 1
+  197_Static vehicles.planes.Plane$B_24J100 1 360491.77 276158.52 449.20 0.0 us 0 1.0 null 1
+  198_Static vehicles.planes.Plane$B_24J100 1 359720.36 275028.40 269.20 0.0 us 0 1.0 null 1
+  199_Static vehicles.planes.Plane$B_24J100 1 359778.37 275016.03 284.20 0.0 us 0 1.0 null 1
+  200_Static vehicles.planes.Plane$B_24J100 1 359832.80 274999.67 274.20 0.0 us 0 1.0 null 1
+  201_Static vehicles.planes.Plane$B_24J100 1 359889.60 274981.75 279.20 0.0 us 0 1.0 null 1
+  202_Static vehicles.planes.Plane$B_24J100 1 360321.49 275363.99 279.20 0.0 us 0 1.0 null 1
+  203_Static vehicles.planes.Plane$B_24J100 1 360368.78 275353.22 284.20 0.0 us 0 1.0 null 1
+  204_Static vehicles.planes.Plane$B_24J100 1 360416.85 275340.86 279.20 0.0 us 0 1.0 null 1
+  205_Static vehicles.planes.Plane$B_24J100 1 360464.93 275326.51 279.20 0.0 us 0 1.0 null 1
+  206_Static vehicles.planes.Plane$B_24J100 1 360126.80 276175.51 419.20 0.0 us 0 1.0 null 1
+  207_Static vehicles.planes.Plane$B_24J100 1 360166.56 276198.54 409.20 0.0 us 0 1.0 null 1
+  208_Static vehicles.planes.Plane$B_24J100 1 360208.31 276222.75 419.20 0.0 us 0 1.0 null 1
+  209_Static vehicles.planes.Plane$B_24J100 1 360250.85 276245.36 414.20 0.0 us 0 1.0 null 1
+  210_Static vehicles.planes.Plane$B_24J100 1 360509.96 275191.59 264.20 0.0 us 0 1.0 null 1
+  211_Static vehicles.planes.Plane$B_24J100 1 360555.48 275185.78 279.20 0.0 us 0 1.0 null 1
+  212_Static vehicles.planes.Plane$B_24J100 1 360599.35 275175.49 269.20 0.0 us 0 1.0 null 1
+  213_Static vehicles.planes.Plane$B_24J100 1 360707.76 275587.45 509.20 0.0 us 0 1.0 null 1
+  214_Static vehicles.planes.Plane$B_24J100 1 360655.71 275601.41 494.20 0.0 us 0 1.0 null 1
+  215_Static vehicles.planes.Plane$B_24J100 1 360457.64 274791.14 224.20 0.0 us 0 1.0 null 1
+  216_Static vehicles.planes.Plane$B_24J100 1 360470.79 274834.06 214.20 0.0 us 0 1.0 null 1
+  217_Static vehicles.planes.Plane$B_24J100 1 360482.36 274877.76 209.20 0.0 us 0 1.0 null 1
+  218_Static vehicles.planes.Plane$B_24J100 1 360496.70 274916.69 204.20 0.0 us 0 1.0 null 1
+  219_Static vehicles.planes.Plane$B_24J100 1 359493.50 275466.68 330.10 0.0 us 0 1.0 null 1
+  220_Static vehicles.planes.Plane$B_24J100 1 360487.75 275482.49 425.10 0.0 us 0 1.0 null 1
+  221_Static vehicles.planes.Plane$B_24J100 1 360466.58 275442.81 434.20 0.0 us 0 1.0 null 1
+  222_Static vehicles.planes.Plane$B_24J100 1 359969.22 275815.59 390.10 0.0 us 0 1.0 null 1
+  223_Static vehicles.planes.Plane$B_24J100 1 360127.48 275868.62 434.20 0.0 us 0 1.0 null 1
+  224_Static vehicles.planes.Plane$B_24J100 1 486146.80 300392.06 360.00 0.0 us 0 1.0 null 1
+  225_Static vehicles.planes.Plane$B_24J100 1 486167.40 300561.52 375.00 0.0 us 0 1.0 null 1
+  226_Static vehicles.planes.Plane$B_24J100 1 486184.35 300616.17 370.00 0.0 us 0 1.0 null 1
+  227_Static vehicles.planes.Plane$B_24J100 1 486195.80 300673.46 380.00 0.0 us 0 1.0 null 1
+  228_Static vehicles.planes.Plane$B_24J100 1 486201.53 300739.10 370.00 0.0 us 0 1.0 null 1
+  229_Static vehicles.planes.Plane$B_24J100 1 486231.85 300782.30 380.00 0.0 us 0 1.0 null 1
+  230_Static vehicles.planes.Plane$B_24J100 1 486406.17 301075.54 495.00 0.0 us 0 1.0 null 1
+  231_Static vehicles.planes.Plane$B_24J100 1 486396.82 300953.66 534.10 0.0 us 0 1.0 null 1
+  232_Static vehicles.planes.Plane$B_24J100 1 486289.59 300287.91 205.00 0.0 us 0 1.0 null 1
+  233_Static vehicles.planes.Plane$B_24J100 1 486248.03 300295.47 250.00 0.0 us 0 1.0 null 1
+  234_Static vehicles.planes.Plane$B_24J100 1 486293.36 300250.77 250.00 0.0 us 0 1.0 null 1
+  235_Static vehicles.planes.Plane$B_24J100 1 486135.29 300465.43 250.00 0.0 us 0 1.0 null 1
+  236_Static vehicles.planes.Plane$B_24J100 1 486096.86 300408.62 300.00 0.0 us 0 1.0 null 1
+  237_Static vehicles.planes.Plane$B_24J100 1 486378.03 300828.93 185.00 0.0 us 0 1.0 null 1
+  238_Static vehicles.planes.Plane$B_24J100 1 480436.78 289002.01 509.20 0.0 us 0 1.0 null 1
+  239_Static vehicles.planes.Plane$B_24J100 1 480419.32 289037.67 509.20 0.0 us 0 1.0 null 1
+  240_Static vehicles.planes.Plane$B_24J100 1 480056.72 288834.86 339.20 0.0 us 0 1.0 null 1
+  241_Static vehicles.planes.Plane$B_24J100 1 480719.38 288356.76 460.10 0.0 us 0 1.0 null 1
+  242_Static vehicles.planes.Plane$B_24J100 1 480611.81 288421.01 205.10 0.0 us 0 1.0 null 1
+  243_Static vehicles.planes.Plane$B_24J100 1 481067.60 289271.59 509.20 0.0 us 0 1.0 null 1
+  244_Static vehicles.planes.Plane$B_24J100 1 481112.57 289356.87 320.10 0.0 us 0 1.0 null 1
+  245_Static vehicles.planes.Plane$B_24J100 1 481337.64 288846.38 524.20 0.0 us 0 1.0 null 1
+  246_Static vehicles.planes.Plane$B_24J100 1 481088.00 288449.29 195.10 0.0 us 0 1.0 null 1
+  247_Static vehicles.planes.Plane$B_24J100 1 481053.26 288313.01 190.10 0.0 us 0 1.0 null 1
+  248_Static vehicles.planes.Plane$B_24J100 1 480467.45 288962.99 524.20 0.0 us 0 1.0 null 1
+  249_Static vehicles.planes.Plane$B_24J100 1 481077.15 288406.94 194.20 0.0 us 0 1.0 null 1
+  250_Static vehicles.planes.Plane$B_24J100 1 481059.12 288350.76 195.10 0.0 us 0 1.0 null 1
+  251_Static vehicles.planes.Plane$B_24J100 1 480768.30 288345.66 460.10 0.0 us 0 1.0 null 1
+  252_Static vehicles.planes.Plane$B_24J100 1 480816.20 288323.74 460.10 0.0 us 0 1.0 null 1
+  253_Static vehicles.planes.Plane$B_24J100 1 480546.75 288435.57 475.10 0.0 us 0 1.0 null 1
+  254_Static vehicles.planes.Plane$B_24J100 1 481009.59 288752.47 460.10 0.0 us 0 1.0 null 1
+  255_Static vehicles.planes.Plane$B_24J100 1 481042.90 288040.41 195.10 0.0 us 0 1.0 null 1
+  256_Static vehicles.planes.Plane$B_24J100 1 480662.24 288381.49 439.20 0.0 us 0 1.0 null 1
+  257_Static vehicles.planes.Plane$B_24J100 1 480114.55 288721.46 334.20 0.0 us 0 1.0 null 1
+  258_Static vehicles.planes.Plane$B_24J100 1 480068.77 288795.19 345.10 0.0 us 0 1.0 null 1
+  259_Static vehicles.planes.Plane$B_24J100 1 481056.97 289377.31 315.10 0.0 us 0 1.0 null 1
+  260_Static vehicles.planes.Plane$B_24J100 1 481253.94 289409.79 464.20 0.0 us 0 1.0 null 1
+  261_Static vehicles.planes.Plane$B_24J100 1 481198.00 289426.96 449.20 0.0 us 0 1.0 null 1
+  262_Static vehicles.planes.Plane$B_24J100 1 481139.62 289443.01 464.20 0.0 us 0 1.0 null 1
+  263_Static vehicles.planes.Plane$B_24J100 1 481092.75 289453.44 449.20 0.0 us 0 1.0 null 1
+  264_Static vehicles.planes.Plane$B_24J100 1 480319.73 288324.42 269.20 0.0 us 0 1.0 null 1
+  265_Static vehicles.planes.Plane$B_24J100 1 480377.72 288311.97 284.20 0.0 us 0 1.0 null 1
+  266_Static vehicles.planes.Plane$B_24J100 1 480432.13 288295.53 274.20 0.0 us 0 1.0 null 1
+  267_Static vehicles.planes.Plane$B_24J100 1 480488.91 288277.53 279.20 0.0 us 0 1.0 null 1
+  268_Static vehicles.planes.Plane$B_24J100 1 480921.34 288659.16 279.20 0.0 us 0 1.0 null 1
+  269_Static vehicles.planes.Plane$B_24J100 1 480968.62 288648.32 284.20 0.0 us 0 1.0 null 1
+  270_Static vehicles.planes.Plane$B_24J100 1 481016.67 288635.88 279.20 0.0 us 0 1.0 null 1
+  271_Static vehicles.planes.Plane$B_24J100 1 481064.73 288621.47 279.20 0.0 us 0 1.0 null 1
+  272_Static vehicles.planes.Plane$B_24J100 1 480727.80 289470.95 419.20 0.0 us 0 1.0 null 1
+  273_Static vehicles.planes.Plane$B_24J100 1 480767.60 289493.92 409.20 0.0 us 0 1.0 null 1
+  274_Static vehicles.planes.Plane$B_24J100 1 480809.38 289518.07 419.20 0.0 us 0 1.0 null 1
+  275_Static vehicles.planes.Plane$B_24J100 1 480851.95 289540.62 414.20 0.0 us 0 1.0 null 1
+  276_Static vehicles.planes.Plane$B_24J100 1 481109.56 288486.49 264.20 0.0 us 0 1.0 null 1
+  277_Static vehicles.planes.Plane$B_24J100 1 481155.08 288480.61 279.20 0.0 us 0 1.0 null 1
+  278_Static vehicles.planes.Plane$B_24J100 1 481198.93 288470.26 269.20 0.0 us 0 1.0 null 1
+  279_Static vehicles.planes.Plane$B_24J100 1 481307.93 288882.06 509.20 0.0 us 0 1.0 null 1
+  280_Static vehicles.planes.Plane$B_24J100 1 481255.90 288896.10 494.20 0.0 us 0 1.0 null 1
+  281_Static vehicles.planes.Plane$B_24J100 1 481056.67 288086.11 224.20 0.0 us 0 1.0 null 1
+  282_Static vehicles.planes.Plane$B_24J100 1 481069.88 288129.01 214.20 0.0 us 0 1.0 null 1
+  283_Static vehicles.planes.Plane$B_24J100 1 481081.52 288172.69 209.20 0.0 us 0 1.0 null 1
+  284_Static vehicles.planes.Plane$B_24J100 1 481095.92 288211.61 204.20 0.0 us 0 1.0 null 1
+  285_Static vehicles.planes.Plane$B_24J100 1 480093.49 288763.02 330.10 0.0 us 0 1.0 null 1
+  286_Static vehicles.planes.Plane$B_24J100 1 413679.18 277942.43 234.90 0.0 us 0 1.0 null 1
+  287_Static vehicles.planes.Plane$B_24J100 1 413705.07 278015.54 419.90 0.0 us 0 1.0 null 1
+  288_Static vehicles.planes.Plane$B_24J100 1 413745.89 278083.76 289.90 0.0 us 0 1.0 null 1
+  289_Static vehicles.planes.Plane$B_24J100 1 413826.53 278054.71 199.90 0.0 us 0 1.0 null 1
+  290_Static vehicles.planes.Plane$B_24J100 1 413861.49 278145.24 534.90 0.0 us 0 1.0 null 1
+  291_Static vehicles.planes.Plane$B_24J100 1 413780.66 278193.00 344.90 0.0 us 0 1.0 null 1
+  292_Static vehicles.planes.Plane$B_24J100 1 413826.01 278244.14 524.90 0.0 us 0 1.0 null 1
+  293_Static vehicles.planes.Plane$B_24J100 1 413647.94 278116.04 289.90 0.0 us 0 1.0 null 1
+  294_Static vehicles.planes.Plane$B_24J100 1 413796.83 278324.95 519.90 0.0 us 0 1.0 null 1
+  295_Static vehicles.planes.Plane$B_24J100 1 413258.79 278527.78 429.00 0.0 us 0 1.0 null 1
+  296_Static vehicles.planes.Plane$B_24J100 1 413377.15 277906.89 309.90 0.0 us 0 1.0 null 1
+  297_Static vehicles.planes.Plane$B_24J100 1 413405.04 277873.77 324.90 0.0 us 0 1.0 null 1
+  298_Static vehicles.planes.Plane$B_24J100 1 413434.58 277823.98 314.90 0.0 us 0 1.0 null 1
+  299_Static vehicles.planes.Plane$B_24J100 1 413457.59 277788.99 329.90 0.0 us 0 1.0 null 1
+  300_Static vehicles.planes.Plane$B_24J100 1 413210.83 278127.24 299.90 0.0 us 0 1.0 null 1
+  301_Static vehicles.planes.Plane$B_24J100 1 413183.51 278158.43 329.90 0.0 us 0 1.0 null 1
+  302_Static vehicles.planes.Plane$B_24J100 1 413154.66 278201.73 314.90 0.0 us 0 1.0 null 1
+  303_Static vehicles.planes.Plane$B_24J100 1 413131.54 278241.29 334.00 0.0 us 0 1.0 null 1
+  304_Static vehicles.planes.Plane$B_24J100 1 413066.36 278368.36 354.00 0.0 us 0 1.0 null 1
+  305_Static vehicles.planes.Plane$B_24J100 1 413075.35 278331.27 334.00 0.0 us 0 1.0 null 1
+  306_Static vehicles.planes.Plane$B_24J100 1 413732.18 277893.75 259.90 0.0 us 0 1.0 null 1
+  307_Static vehicles.planes.Plane$B_24J100 1 413838.92 277948.20 229.90 0.0 us 0 1.0 null 1
+  308_Static vehicles.planes.Plane$B_24J100 1 413638.73 278481.07 479.90 0.0 us 0 1.0 null 1
+  309_Static vehicles.planes.Plane$B_24J100 1 413411.99 278272.84 234.90 0.0 us 0 1.0 null 1
+  310_Static vehicles.planes.Plane$B_24J100 1 389918.51 277189.95 454.20 0.0 us 0 1.0 null 1
+  311_Static vehicles.planes.Plane$B_24J100 1 389861.68 277176.71 444.20 0.0 us 0 1.0 null 1
+  312_Static vehicles.planes.Plane$B_24J100 1 389804.84 277160.81 439.20 0.0 us 0 1.0 null 1
+  313_Static vehicles.planes.Plane$B_24J100 1 390534.71 277276.71 519.20 0.0 us 0 1.0 null 1
+  314_Static vehicles.planes.Plane$B_24J100 1 390531.52 277324.22 529.20 0.0 us 0 1.0 null 1
+  315_Static vehicles.planes.Plane$B_24J100 1 390529.56 277370.12 534.20 0.0 us 0 1.0 null 1
+  316_Static vehicles.planes.Plane$B_24J100 1 390540.74 277234.07 529.20 0.0 us 0 1.0 null 1
+  317_Static vehicles.planes.Plane$B_24J100 1 389388.98 277682.90 395.10 0.0 us 0 1.0 null 1
+  318_Static vehicles.planes.Plane$B_24J100 1 389414.60 277714.53 405.10 0.0 us 0 1.0 null 1
+  319_Static vehicles.planes.Plane$B_24J100 1 389455.68 277763.20 405.10 0.0 us 0 1.0 null 1
+  320_Static vehicles.planes.Plane$B_24J100 1 389480.90 277792.40 400.10 0.0 us 0 1.0 null 1
+  321_Static vehicles.planes.Plane$B_24J100 1 389506.12 277828.09 395.10 0.0 us 0 1.0 null 1
+  322_Static vehicles.planes.Plane$B_24J100 1 389326.46 277607.11 400.10 0.0 us 0 1.0 null 1
+  323_Static vehicles.planes.Plane$B_24J100 1 389079.53 277324.25 394.20 0.0 us 0 1.0 null 1
+  324_Static vehicles.planes.Plane$B_24J100 1 389675.80 276968.28 225.10 0.0 us 0 1.0 null 1
+  325_Static vehicles.planes.Plane$B_24J100 1 390508.91 277469.80 180.10 0.0 us 0 1.0 null 1
+  326_Static vehicles.planes.Plane$B_24J100 1 389719.98 278075.31 405.10 0.0 us 0 1.0 null 1
+  327_Static vehicles.planes.Plane$B_24J100 1 389680.54 278035.16 400.10 0.0 us 0 1.0 null 1
+  328_Static vehicles.planes.Plane$B_24J100 1 389648.82 277999.47 405.10 0.0 us 0 1.0 null 1
+  329_Static vehicles.planes.Plane$B_24J100 1 389597.96 277925.24 395.10 0.0 us 0 1.0 null 1
+  330_Static vehicles.planes.Plane$B_24J100 1 389570.71 277891.56 405.10 0.0 us 0 1.0 null 1
+  331_Static vehicles.planes.Plane$B_24J100 1 388927.16 277023.16 345.10 0.0 us 0 1.0 null 1
+  332_Static vehicles.planes.Plane$B_24J100 1 388959.41 276978.76 320.10 0.0 us 0 1.0 null 1
+  333_Static vehicles.planes.Plane$B_24J100 1 390052.52 278215.59 469.20 0.0 us 0 1.0 null 1
+  334_Static vehicles.planes.Plane$B_24J100 1 390115.97 278172.29 514.20 0.0 us 0 1.0 null 1
+  335_Static vehicles.planes.Plane$B_24J100 1 389044.39 277290.32 409.20 0.0 us 0 1.0 null 1
+  336_Static vehicles.planes.Plane$B_24J100 1 389013.84 277253.58 394.20 0.0 us 0 1.0 null 1
+  337_Static vehicles.planes.Plane$B_24J100 1 390375.35 277240.72 509.20 0.0 us 0 1.0 null 1
+  338_Static vehicles.planes.Plane$B_24J100 1 390366.76 277294.34 519.20 0.0 us 0 1.0 null 1
+  339_Static vehicles.planes.Plane$B_24J100 1 390257.49 277255.89 385.10 0.0 us 0 1.0 null 1
+  340_Static vehicles.planes.Plane$B_24J100 1 390247.65 277300.44 380.10 0.0 us 0 1.0 null 1
+  341_Static vehicles.planes.Plane$B_24J100 1 388935.91 277191.16 420.10 0.0 us 0 1.0 null 1
+  342_Static vehicles.planes.Plane$B_24J100 1 388894.04 277090.01 360.10 0.0 us 0 1.0 null 1
+  343_Static vehicles.planes.Plane$B_24J100 1 507334.35 340941.04 504.80 0.0 us 0 1.0 null 1
+  344_Static vehicles.planes.Plane$B_24J100 1 507579.43 341001.06 439.80 0.0 us 0 1.0 null 1
+  345_Static vehicles.planes.Plane$B_24J100 1 507310.89 340600.72 214.80 0.0 us 0 1.0 null 1
+  346_Static vehicles.planes.Plane$B_24J100 1 507665.59 340993.13 429.80 0.0 us 0 1.0 null 1
+  347_Static vehicles.planes.Plane$B_24J100 1 507691.12 340772.43 214.80 0.0 us 0 1.0 null 1
+  348_Static vehicles.planes.Plane$B_24J100 1 507033.58 341153.34 499.80 0.0 us 0 1.0 null 1
+  349_Static vehicles.planes.Plane$B_24J100 1 507004.36 341180.68 494.80 0.0 us 0 1.0 null 1
+  350_Static vehicles.planes.Plane$B_24J100 1 507317.70 340981.51 534.80 0.0 us 0 1.0 null 1
+  351_Static vehicles.planes.Plane$B_24J100 1 507530.66 340909.95 409.80 0.0 us 0 1.0 null 1
+  352_Static vehicles.planes.Plane$B_24J100 1 507473.65 340865.34 454.80 0.0 us 0 1.0 null 1
+  353_Static vehicles.planes.Plane$B_24J100 1 507573.78 340935.97 394.80 0.0 us 0 1.0 null 1
+  354_Static vehicles.planes.Plane$B_24J100 1 507613.43 340970.42 409.80 0.0 us 0 1.0 null 1
+  355_Static vehicles.planes.Plane$B_24J100 1 507532.47 340972.45 409.80 0.0 us 0 1.0 null 1
+  356_Static vehicles.planes.Plane$B_24J100 1 507093.04 341329.30 454.80 0.0 us 0 1.0 null 1
+  357_Static vehicles.planes.Plane$B_24J100 1 507009.90 341343.47 469.80 0.0 us 0 1.0 null 1
+  358_Static vehicles.planes.Plane$B_24J100 1 506940.95 341369.25 484.80 0.0 us 0 1.0 null 1
+  359_Static vehicles.planes.Plane$B_24J100 1 507147.83 341322.21 469.80 0.0 us 0 1.0 null 1
+  360_Static vehicles.planes.Plane$B_24J100 1 507553.43 340983.06 445.80 0.0 us 0 1.0 null 1
+  361_Static vehicles.planes.Plane$B_24J100 1 506901.64 341404.06 459.80 0.0 us 0 1.0 null 1
+  362_Static vehicles.planes.Plane$B_24J100 1 506754.48 341482.14 414.80 0.0 us 0 1.0 null 1
+  363_Static vehicles.planes.Plane$B_24J100 1 506796.39 341458.94 449.80 0.0 us 0 1.0 null 1
+  364_Static vehicles.planes.Plane$B_24J100 1 506849.22 341435.09 474.80 0.0 us 0 1.0 null 1
+  365_Static vehicles.planes.Plane$B_24J100 1 507128.45 340542.34 314.80 0.0 us 0 1.0 null 1
+  366_Static vehicles.planes.Plane$B_24J100 1 507154.67 340506.21 319.80 0.0 us 0 1.0 null 1
+  367_Static vehicles.planes.Plane$B_24J100 1 507187.08 340470.77 334.80 0.0 us 0 1.0 null 1
+  368_Static vehicles.planes.Plane$B_24J100 1 507212.37 340420.65 314.80 0.0 us 0 1.0 null 1
+  369_Static vehicles.planes.Plane$B_24J100 1 507163.39 340341.38 389.80 0.0 us 0 1.0 null 1
+  370_Static vehicles.planes.Plane$B_24J100 1 507542.99 340690.05 264.80 0.0 us 0 1.0 null 1
+  371_Static vehicles.planes.Plane$B_24J100 1 507432.14 340720.99 189.80 0.0 us 0 1.0 null 1
+  372_Static vehicles.planes.Plane$B_24J100 1 507684.87 340913.30 209.80 0.0 us 0 1.0 null 1
+  373_Static vehicles.planes.Plane$B_24J100 1 507649.42 340883.66 224.80 0.0 us 0 1.0 null 1
+  374_Static vehicles.planes.Plane$B_24J100 1 507512.79 340793.43 234.80 0.0 us 0 1.0 null 1
+  375_Static vehicles.planes.Plane$B_24J100 1 507550.82 340819.21 239.80 0.0 us 0 1.0 null 1
+  376_Static vehicles.planes.Plane$B_24J100 1 506468.27 341502.03 389.80 0.0 us 0 1.0 null 1
+  377_Static vehicles.planes.Plane$B_24J100 1 295828.38 457946.16 504.80 0.0 us 0 1.0 null 1
+  378_Static vehicles.planes.Plane$B_24J100 1 296073.51 458005.95 439.80 0.0 us 0 1.0 null 1
+  379_Static vehicles.planes.Plane$B_24J100 1 295804.60 457605.86 214.80 0.0 us 0 1.0 null 1
+  380_Static vehicles.planes.Plane$B_24J100 1 296159.67 457997.94 429.80 0.0 us 0 1.0 null 1
+  381_Static vehicles.planes.Plane$B_24J100 1 296184.99 457777.22 214.80 0.0 us 0 1.0 null 1
+  382_Static vehicles.planes.Plane$B_24J100 1 295527.81 458158.74 499.80 0.0 us 0 1.0 null 1
+  383_Static vehicles.planes.Plane$B_24J100 1 295498.61 458186.11 494.80 0.0 us 0 1.0 null 1
+  384_Static vehicles.planes.Plane$B_24J100 1 295811.77 457986.65 534.80 0.0 us 0 1.0 null 1
+  385_Static vehicles.planes.Plane$B_24J100 1 296024.66 457914.89 409.80 0.0 us 0 1.0 null 1
+  386_Static vehicles.planes.Plane$B_24J100 1 295967.61 457870.33 454.80 0.0 us 0 1.0 null 1
+  387_Static vehicles.planes.Plane$B_24J100 1 296067.80 457940.87 394.80 0.0 us 0 1.0 null 1
+  388_Static vehicles.planes.Plane$B_24J100 1 296107.49 457975.28 409.80 0.0 us 0 1.0 null 1
+  389_Static vehicles.planes.Plane$B_24J100 1 296026.53 457977.39 409.80 0.0 us 0 1.0 null 1
+  390_Static vehicles.planes.Plane$B_24J100 1 295587.43 458334.65 454.80 0.0 us 0 1.0 null 1
+  391_Static vehicles.planes.Plane$B_24J100 1 295504.30 458348.89 469.80 0.0 us 0 1.0 null 1
+  392_Static vehicles.planes.Plane$B_24J100 1 295435.38 458374.74 484.80 0.0 us 0 1.0 null 1
+  393_Static vehicles.planes.Plane$B_24J100 1 295642.21 458327.50 469.80 0.0 us 0 1.0 null 1
+  394_Static vehicles.planes.Plane$B_24J100 1 296047.50 457987.98 445.80 0.0 us 0 1.0 null 1
+  395_Static vehicles.planes.Plane$B_24J100 1 295396.10 458409.58 459.80 0.0 us 0 1.0 null 1
+  396_Static vehicles.planes.Plane$B_24J100 1 295249.01 458487.80 414.80 0.0 us 0 1.0 null 1
+  397_Static vehicles.planes.Plane$B_24J100 1 295290.90 458464.56 449.80 0.0 us 0 1.0 null 1
+  398_Static vehicles.planes.Plane$B_24J100 1 295343.71 458440.66 474.80 0.0 us 0 1.0 null 1
+  399_Static vehicles.planes.Plane$B_24J100 1 295622.11 457547.65 314.80 0.0 us 0 1.0 null 1
+  400_Static vehicles.planes.Plane$B_24J100 1 295648.29 457511.50 319.80 0.0 us 0 1.0 null 1
+  401_Static vehicles.planes.Plane$B_24J100 1 295680.67 457476.03 334.80 0.0 us 0 1.0 null 1
+  402_Static vehicles.planes.Plane$B_24J100 1 295705.91 457425.89 314.80 0.0 us 0 1.0 null 1
+  403_Static vehicles.planes.Plane$B_24J100 1 295656.86 457346.66 389.80 0.0 us 0 1.0 null 1
+  404_Static vehicles.planes.Plane$B_24J100 1 296036.78 457694.98 264.80 0.0 us 0 1.0 null 1
+  405_Static vehicles.planes.Plane$B_24J100 1 295925.96 457726.02 189.80 0.0 us 0 1.0 null 1
+  406_Static vehicles.planes.Plane$B_24J100 1 296178.87 457918.10 209.80 0.0 us 0 1.0 null 1
+  407_Static vehicles.planes.Plane$B_24J100 1 296143.39 457888.49 224.80 0.0 us 0 1.0 null 1
+  408_Static vehicles.planes.Plane$B_24J100 1 296006.68 457798.39 234.80 0.0 us 0 1.0 null 1
+  409_Static vehicles.planes.Plane$B_24J100 1 296044.73 457824.13 239.80 0.0 us 0 1.0 null 1
+  410_Static vehicles.planes.Plane$B_24J100 1 294962.82 458507.96 389.80 0.0 us 0 1.0 null 1
+  411_Static vehicles.planes.Plane$B_24J100 1 387184.37 432582.95 449.10 0.0 us 0 1.0 null 1
+  412_Static vehicles.planes.Plane$B_24J100 1 387140.69 432582.01 420.00 0.0 us 0 1.0 null 1
+  413_Static vehicles.planes.Plane$B_24J100 1 387231.87 432584.36 444.10 0.0 us 0 1.0 null 1
+  414_Static vehicles.planes.Plane$B_24J100 1 387390.29 432484.28 519.10 0.0 us 0 1.0 null 1
+  415_Static vehicles.planes.Plane$B_24J100 1 387431.58 432449.41 504.10 0.0 us 0 1.0 null 1
+  416_Static vehicles.planes.Plane$B_24J100 1 387454.70 432397.61 534.10 0.0 us 0 1.0 null 1
+  417_Static vehicles.planes.Plane$B_24J100 1 387462.56 432345.81 539.10 0.0 us 0 1.0 null 1
+  418_Static vehicles.planes.Plane$B_24J100 1 386801.38 432212.75 390.00 0.0 us 0 1.0 null 1
+  419_Static vehicles.planes.Plane$B_24J100 1 386794.68 432156.65 420.00 0.0 us 0 1.0 null 1
+  420_Static vehicles.planes.Plane$B_24J100 1 386875.94 432325.19 405.00 0.0 us 0 1.0 null 1
+  421_Static vehicles.planes.Plane$B_24J100 1 386896.74 432362.33 375.00 0.0 us 0 1.0 null 1
+  422_Static vehicles.planes.Plane$B_24J100 1 386718.98 431687.51 345.00 0.0 us 0 1.0 null 1
+  423_Static vehicles.planes.Plane$B_24J100 1 386713.33 431729.71 375.00 0.0 us 0 1.0 null 1
+  424_Static vehicles.planes.Plane$B_24J100 1 386815.27 431562.79 315.00 0.0 us 0 1.0 null 1
+  425_Static vehicles.planes.Plane$B_24J100 1 386866.89 431533.80 285.00 0.0 us 0 1.0 null 1
+  426_Static vehicles.planes.Plane$B_24J100 1 387340.79 432084.18 210.00 0.0 us 0 1.0 null 1
+  427_Static vehicles.planes.Plane$B_24J100 1 387318.73 432033.18 540.00 0.0 us 0 1.0 null 1
+  428_Static vehicles.planes.Plane$B_24J100 1 387301.07 431970.86 210.00 0.0 us 0 1.0 null 1
+  429_Static vehicles.planes.Plane$B_24J100 1 387290.35 431924.89 205.00 0.0 us 0 1.0 null 1
+  430_Static vehicles.planes.Plane$B_24J100 1 387268.91 431849.34 210.00 0.0 us 0 1.0 null 1
+  431_Static vehicles.planes.Plane$B_24J100 1 386800.73 432099.65 375.00 0.0 us 0 1.0 null 1
+  432_Static vehicles.planes.Plane$B_24J100 1 386791.27 432049.91 390.00 0.0 us 0 1.0 null 1
+  433_Static vehicles.planes.Plane$B_24J100 1 386917.97 432390.52 385.00 0.0 us 0 1.0 null 1
+  434_Static vehicles.planes.Plane$B_24J100 1 386686.14 431766.18 380.00 0.0 us 0 1.0 null 1
+  435_Static vehicles.planes.Plane$B_24J100 1 360079.44 275876.36 480.10 0.0 us 0 1.0 null 1
+  436_Static vehicles.planes.Plane$B_24J100 1 359996.26 275870.65 405.10 0.0 us 0 1.0 null 1
+  437_Static vehicles.planes.Plane$B_24J100 1 360436.03 276162.05 444.20 0.0 us 0 1.0 null 1
+  438_Static vehicles.planes.Plane$B_24J100 1 360372.31 276166.15 490.10 0.0 us 0 1.0 null 1
+  439_Static vehicles.planes.Plane$B_24J100 1 510883.44 195808.43 400.40 0.0 us 0 1.0 null 1
+  440_Static vehicles.planes.Plane$B_24J100 1 510917.25 195846.15 395.40 0.0 us 0 1.0 null 1
+  441_Static vehicles.planes.Plane$B_24J100 1 511246.78 195165.80 230.40 0.0 us 0 1.0 null 1
+  442_Static vehicles.planes.Plane$B_24J100 1 511334.33 195258.53 200.40 0.0 us 0 1.0 null 1
+  443_Static vehicles.planes.Plane$B_24J100 1 511184.77 195095.80 210.40 0.0 us 0 1.0 null 1
+  444_Static vehicles.planes.Plane$B_24J100 1 511214.55 195128.50 230.40 0.0 us 0 1.0 null 1
+  445_Static vehicles.planes.Plane$B_24J100 1 511316.87 195221.44 205.40 0.0 us 0 1.0 null 1
+  446_Static vehicles.planes.Plane$B_24J100 1 512184.77 195856.21 184.50 0.0 us 0 1.0 null 1
+  447_Static vehicles.planes.Plane$B_24J100 1 512179.44 195920.13 529.50 0.0 us 0 1.0 null 1
+  448_Static vehicles.planes.Plane$B_24J100 1 512173.75 195974.57 534.50 0.0 us 0 1.0 null 1
+  449_Static vehicles.planes.Plane$B_24J100 1 511488.54 196492.74 400.40 0.0 us 0 1.0 null 1
+  450_Static vehicles.planes.Plane$B_24J100 1 511531.33 196531.90 425.40 0.0 us 0 1.0 null 1
+  451_Static vehicles.planes.Plane$B_24J100 1 511597.01 195515.34 454.50 0.0 us 0 1.0 null 1
+  452_Static vehicles.planes.Plane$B_24J100 1 511540.10 195502.44 444.50 0.0 us 0 1.0 null 1
+  453_Static vehicles.planes.Plane$B_24J100 1 511483.17 195486.88 439.50 0.0 us 0 1.0 null 1
+  454_Static vehicles.planes.Plane$B_24J100 1 512213.72 195598.39 519.50 0.0 us 0 1.0 null 1
+  455_Static vehicles.planes.Plane$B_24J100 1 512210.82 195645.93 529.50 0.0 us 0 1.0 null 1
+  456_Static vehicles.planes.Plane$B_24J100 1 512209.13 195691.83 534.50 0.0 us 0 1.0 null 1
+  457_Static vehicles.planes.Plane$B_24J100 1 512219.50 195555.72 529.50 0.0 us 0 1.0 null 1
+  458_Static vehicles.planes.Plane$B_24J100 1 511070.45 196011.46 395.40 0.0 us 0 1.0 null 1
+  459_Static vehicles.planes.Plane$B_24J100 1 511096.27 196042.94 405.40 0.0 us 0 1.0 null 1
+  460_Static vehicles.planes.Plane$B_24J100 1 511137.64 196091.36 405.40 0.0 us 0 1.0 null 1
+  461_Static vehicles.planes.Plane$B_24J100 1 511163.03 196120.40 400.40 0.0 us 0 1.0 null 1
+  462_Static vehicles.planes.Plane$B_24J100 1 511188.46 196155.95 395.40 0.0 us 0 1.0 null 1
+  463_Static vehicles.planes.Plane$B_24J100 1 511007.48 195936.05 400.40 0.0 us 0 1.0 null 1
+  464_Static vehicles.planes.Plane$B_24J100 1 510758.86 195654.68 394.50 0.0 us 0 1.0 null 1
+  465_Static vehicles.planes.Plane$B_24J100 1 511352.98 195295.13 225.40 0.0 us 0 1.0 null 1
+  466_Static vehicles.planes.Plane$B_24J100 1 512189.08 195791.63 180.40 0.0 us 0 1.0 null 1
+  467_Static vehicles.planes.Plane$B_24J100 1 511403.81 196401.87 405.40 0.0 us 0 1.0 null 1
+  468_Static vehicles.planes.Plane$B_24J100 1 511364.12 196361.96 400.40 0.0 us 0 1.0 null 1
+  469_Static vehicles.planes.Plane$B_24J100 1 511332.19 196326.46 405.40 0.0 us 0 1.0 null 1
+  470_Static vehicles.planes.Plane$B_24J100 1 511280.88 196252.54 395.40 0.0 us 0 1.0 null 1
+  471_Static vehicles.planes.Plane$B_24J100 1 511253.43 196219.03 405.40 0.0 us 0 1.0 null 1
+  472_Static vehicles.planes.Plane$B_24J100 1 510604.68 195354.51 345.40 0.0 us 0 1.0 null 1
+  473_Static vehicles.planes.Plane$B_24J100 1 510636.66 195309.91 320.40 0.0 us 0 1.0 null 1
+  474_Static vehicles.planes.Plane$B_24J100 1 511737.18 196540.15 469.50 0.0 us 0 1.0 null 1
+  475_Static vehicles.planes.Plane$B_24J100 1 511800.37 196496.47 514.50 0.0 us 0 1.0 null 1
+  476_Static vehicles.planes.Plane$B_24J100 1 510723.51 195620.96 409.50 0.0 us 0 1.0 null 1
+  477_Static vehicles.planes.Plane$B_24J100 1 510692.74 195584.41 394.50 0.0 us 0 1.0 null 1
+  478_Static vehicles.planes.Plane$B_24J100 1 512054.15 195563.36 509.50 0.0 us 0 1.0 null 1
+  479_Static vehicles.planes.Plane$B_24J100 1 512045.88 195617.03 519.50 0.0 us 0 1.0 null 1
+  480_Static vehicles.planes.Plane$B_24J100 1 511936.38 195579.24 385.40 0.0 us 0 1.0 null 1
+  481_Static vehicles.planes.Plane$B_24J100 1 511926.81 195623.85 380.40 0.0 us 0 1.0 null 1
+  482_Static vehicles.planes.Plane$B_24J100 1 510614.44 195522.45 420.40 0.0 us 0 1.0 null 1
+  483_Static vehicles.planes.Plane$B_24J100 1 510571.96 195421.55 360.40 0.0 us 0 1.0 null 1
+  484_Static vehicles.planes.Plane$B_24J100 1 296622.43 44948.64 330.00 0.0 us 0 1.0 null 1
+  485_Static vehicles.planes.Plane$B_24J100 1 296656.86 44917.78 300.00 0.0 us 0 1.0 null 1
+  486_Static vehicles.planes.Plane$B_24J100 1 296898.20 44829.37 255.00 0.0 us 0 1.0 null 1
+  487_Static vehicles.planes.Plane$B_24J100 1 296958.67 44855.25 195.00 0.0 us 0 1.0 null 1
+  488_Static vehicles.planes.Plane$B_24J100 1 296981.82 44897.48 225.00 0.0 us 0 1.0 null 1
+  489_Static vehicles.planes.Plane$B_24J100 1 297037.85 44965.70 195.00 0.0 us 0 1.0 null 1
+  490_Static vehicles.planes.Plane$B_24J100 1 297003.34 45056.65 540.00 0.0 us 0 1.0 null 1
+  491_Static vehicles.planes.Plane$B_24J100 1 297041.51 45186.10 195.00 0.0 us 0 1.0 null 1
+  492_Static vehicles.planes.Plane$B_24J100 1 297053.28 45240.19 205.00 0.0 us 0 1.0 null 1
+  493_Static vehicles.planes.Plane$B_24J100 1 297077.24 45363.63 534.10 0.0 us 0 1.0 null 1
+  494_Static vehicles.planes.Plane$B_24J100 1 297141.80 45419.26 220.00 0.0 us 0 1.0 null 1
+  495_Static vehicles.planes.Plane$B_24J100 1 297177.13 45457.43 205.00 0.0 us 0 1.0 null 1
+  496_Static vehicles.planes.Plane$B_24J100 1 296789.04 45728.12 350.00 0.0 us 0 1.0 null 1
+  497_Static vehicles.planes.Plane$B_24J100 1 296764.68 45674.93 385.00 0.0 us 0 1.0 null 1
+  498_Static vehicles.planes.Plane$B_24J100 1 297052.34 45911.01 460.00 0.0 us 0 1.0 null 1
+  499_Static vehicles.planes.Plane$B_24J100 1 297001.61 45886.73 420.00 0.0 us 0 1.0 null 1
+  500_Static vehicles.planes.Plane$B_24J100 1 296941.53 45866.22 405.00 0.0 us 0 1.0 null 1
+  501_Static vehicles.planes.Plane$B_24J100 1 296605.69 44871.25 360.00 0.0 us 0 1.0 null 1
+  502_Static vehicles.planes.Plane$B_24J100 1 511048.75 99968.29 509.10 0.0 us 0 1.0 null 1
+  503_Static vehicles.planes.Plane$B_24J100 1 511031.21 100003.92 509.10 0.0 us 0 1.0 null 1
+  504_Static vehicles.planes.Plane$B_24J100 1 510669.04 99800.34 339.10 0.0 us 0 1.0 null 1
+  505_Static vehicles.planes.Plane$B_24J100 1 511332.69 99323.64 460.00 0.0 us 0 1.0 null 1
+  506_Static vehicles.planes.Plane$B_24J100 1 511224.99 99387.66 205.00 0.0 us 0 1.0 null 1
+  507_Static vehicles.planes.Plane$B_24J100 1 511678.99 100239.19 509.10 0.0 us 0 1.0 null 1
+  508_Static vehicles.planes.Plane$B_24J100 1 511723.78 100324.57 320.00 0.0 us 0 1.0 null 1
+  509_Static vehicles.planes.Plane$B_24J100 1 511949.93 99814.56 524.10 0.0 us 0 1.0 null 1
+  510_Static vehicles.planes.Plane$B_24J100 1 511701.12 99416.94 195.00 0.0 us 0 1.0 null 1
+  511_Static vehicles.planes.Plane$B_24J100 1 511666.67 99280.59 190.00 0.0 us 0 1.0 null 1
+  512_Static vehicles.planes.Plane$B_24J100 1 511079.50 99929.34 524.10 0.0 us 0 1.0 null 1
+  513_Static vehicles.planes.Plane$B_24J100 1 511690.36 99374.57 194.10 0.0 us 0 1.0 null 1
+  514_Static vehicles.planes.Plane$B_24J100 1 511672.45 99318.35 195.00 0.0 us 0 1.0 null 1
+  515_Static vehicles.planes.Plane$B_24J100 1 511381.64 99312.64 460.00 0.0 us 0 1.0 null 1
+  516_Static vehicles.planes.Plane$B_24J100 1 511429.58 99290.82 460.00 0.0 us 0 1.0 null 1
+  517_Static vehicles.planes.Plane$B_24J100 1 511159.90 99402.09 475.00 0.0 us 0 1.0 null 1
+  518_Static vehicles.planes.Plane$B_24J100 1 511622.08 99719.96 460.00 0.0 us 0 1.0 null 1
+  519_Static vehicles.planes.Plane$B_24J100 1 511656.88 99007.97 195.00 0.0 us 0 1.0 null 1
+  520_Static vehicles.planes.Plane$B_24J100 1 511275.51 99348.25 439.10 0.0 us 0 1.0 null 1
+  521_Static vehicles.planes.Plane$B_24J100 1 510727.10 99687.06 334.10 0.0 us 0 1.0 null 1
+  522_Static vehicles.planes.Plane$B_24J100 1 510681.17 99760.70 345.00 0.0 us 0 1.0 null 1
+  523_Static vehicles.planes.Plane$B_24J100 1 511668.15 100344.89 315.00 0.0 us 0 1.0 null 1
+  524_Static vehicles.planes.Plane$B_24J100 1 511865.04 100377.79 464.10 0.0 us 0 1.0 null 1
+  525_Static vehicles.planes.Plane$B_24J100 1 511809.07 100394.84 449.10 0.0 us 0 1.0 null 1
+  526_Static vehicles.planes.Plane$B_24J100 1 511750.65 100410.77 464.10 0.0 us 0 1.0 null 1
+  527_Static vehicles.planes.Plane$B_24J100 1 511703.77 100421.10 449.10 0.0 us 0 1.0 null 1
+  528_Static vehicles.planes.Plane$B_24J100 1 510933.11 99290.46 269.10 0.0 us 0 1.0 null 1
+  529_Static vehicles.planes.Plane$B_24J100 1 510991.13 99278.13 284.10 0.0 us 0 1.0 null 1
+  530_Static vehicles.planes.Plane$B_24J100 1 511045.58 99261.80 274.10 0.0 us 0 1.0 null 1
+  531_Static vehicles.planes.Plane$B_24J100 1 511102.39 99243.92 279.10 0.0 us 0 1.0 null 1
+  532_Static vehicles.planes.Plane$B_24J100 1 511534.03 99626.46 279.10 0.0 us 0 1.0 null 1
+  533_Static vehicles.planes.Plane$B_24J100 1 511581.32 99615.72 284.10 0.0 us 0 1.0 null 1
+  534_Static vehicles.planes.Plane$B_24J100 1 511629.40 99603.38 279.10 0.0 us 0 1.0 null 1
+  535_Static vehicles.planes.Plane$B_24J100 1 511677.49 99589.07 279.10 0.0 us 0 1.0 null 1
+  536_Static vehicles.planes.Plane$B_24J100 1 511338.78 100437.84 419.10 0.0 us 0 1.0 null 1
+  537_Static vehicles.planes.Plane$B_24J100 1 511378.52 100460.89 409.10 0.0 us 0 1.0 null 1
+  538_Static vehicles.planes.Plane$B_24J100 1 511420.26 100485.13 419.10 0.0 us 0 1.0 null 1
+  539_Static vehicles.planes.Plane$B_24J100 1 511462.79 100507.77 414.10 0.0 us 0 1.0 null 1
+  540_Static vehicles.planes.Plane$B_24J100 1 511722.60 99454.18 264.10 0.0 us 0 1.0 null 1
+  541_Static vehicles.planes.Plane$B_24J100 1 511768.13 99448.40 279.10 0.0 us 0 1.0 null 1
+  542_Static vehicles.planes.Plane$B_24J100 1 511812.01 99438.14 269.10 0.0 us 0 1.0 null 1
+  543_Static vehicles.planes.Plane$B_24J100 1 511920.14 99850.17 509.10 0.0 us 0 1.0 null 1
+  544_Static vehicles.planes.Plane$B_24J100 1 511868.08 99864.10 494.10 0.0 us 0 1.0 null 1
+  545_Static vehicles.planes.Plane$B_24J100 1 511670.56 99053.69 224.10 0.0 us 0 1.0 null 1
+  546_Static vehicles.planes.Plane$B_24J100 1 511683.68 99096.62 214.10 0.0 us 0 1.0 null 1
+  547_Static vehicles.planes.Plane$B_24J100 1 511695.22 99140.33 209.10 0.0 us 0 1.0 null 1
+  548_Static vehicles.planes.Plane$B_24J100 1 511709.54 99179.27 204.10 0.0 us 0 1.0 null 1
+  549_Static vehicles.planes.Plane$B_24J100 1 510705.96 99728.59 330.00 0.0 us 0 1.0 null 1
+  550_Static vehicles.planes.Plane$B_24J100 1 511700.20 99745.07 425.00 0.0 us 0 1.0 null 1
+  551_Static vehicles.planes.Plane$B_24J100 1 511679.05 99705.37 434.10 0.0 us 0 1.0 null 1
+  552_Static vehicles.planes.Plane$B_24J100 1 511181.44 100077.81 390.00 0.0 us 0 1.0 null 1
+  553_Static vehicles.planes.Plane$B_24J100 1 511339.67 100130.95 434.10 0.0 us 0 1.0 null 1
+  554_Static vehicles.planes.Plane$B_24J100 1 511291.63 100138.65 480.00 0.0 us 0 1.0 null 1
+  555_Static vehicles.planes.Plane$B_24J100 1 511208.45 100132.89 405.00 0.0 us 0 1.0 null 1
+  556_Static vehicles.planes.Plane$B_24J100 1 511648.02 100424.59 444.10 0.0 us 0 1.0 null 1
+  557_Static vehicles.planes.Plane$B_24J100 1 511584.30 100428.64 490.00 0.0 us 0 1.0 null 1
+  558_Static vehicles.planes.Plane$B_24J100 1 498257.68 52827.49 400.40 0.0 us 0 1.0 null 1
+  559_Static vehicles.planes.Plane$B_24J100 1 498291.49 52865.22 395.40 0.0 us 0 1.0 null 1
+  560_Static vehicles.planes.Plane$B_24J100 1 498621.12 52184.92 230.40 0.0 us 0 1.0 null 1
+  561_Static vehicles.planes.Plane$B_24J100 1 498708.65 52277.66 200.40 0.0 us 0 1.0 null 1
+  562_Static vehicles.planes.Plane$B_24J100 1 498559.12 52114.90 210.40 0.0 us 0 1.0 null 1
+  563_Static vehicles.planes.Plane$B_24J100 1 498588.90 52147.61 230.40 0.0 us 0 1.0 null 1
+  564_Static vehicles.planes.Plane$B_24J100 1 498691.20 52240.57 205.40 0.0 us 0 1.0 null 1
+  565_Static vehicles.planes.Plane$B_24J100 1 499559.00 52875.47 184.50 0.0 us 0 1.0 null 1
+  566_Static vehicles.planes.Plane$B_24J100 1 499553.67 52939.38 529.50 0.0 us 0 1.0 null 1
+  567_Static vehicles.planes.Plane$B_24J100 1 499547.97 52993.82 534.50 0.0 us 0 1.0 null 1
+  568_Static vehicles.planes.Plane$B_24J100 1 498862.68 53511.89 400.40 0.0 us 0 1.0 null 1
+  569_Static vehicles.planes.Plane$B_24J100 1 498905.47 53551.06 425.40 0.0 us 0 1.0 null 1
+  570_Static vehicles.planes.Plane$B_24J100 1 498971.30 52534.51 454.50 0.0 us 0 1.0 null 1
+  571_Static vehicles.planes.Plane$B_24J100 1 498914.39 52521.60 444.50 0.0 us 0 1.0 null 1
+  572_Static vehicles.planes.Plane$B_24J100 1 498857.46 52506.03 439.50 0.0 us 0 1.0 null 1
+  573_Static vehicles.planes.Plane$B_24J100 1 499588.00 52617.65 519.50 0.0 us 0 1.0 null 1
+  574_Static vehicles.planes.Plane$B_24J100 1 499585.09 52665.19 529.50 0.0 us 0 1.0 null 1
+  575_Static vehicles.planes.Plane$B_24J100 1 499583.39 52711.09 534.50 0.0 us 0 1.0 null 1
+  576_Static vehicles.planes.Plane$B_24J100 1 499593.78 52574.98 529.50 0.0 us 0 1.0 null 1
+  577_Static vehicles.planes.Plane$B_24J100 1 498444.67 53030.55 395.40 0.0 us 0 1.0 null 1
+  578_Static vehicles.planes.Plane$B_24J100 1 498470.48 53062.03 405.40 0.0 us 0 1.0 null 1
+  579_Static vehicles.planes.Plane$B_24J100 1 498511.84 53110.46 405.40 0.0 us 0 1.0 null 1
+  580_Static vehicles.planes.Plane$B_24J100 1 498537.23 53139.51 400.40 0.0 us 0 1.0 null 1
+  581_Static vehicles.planes.Plane$B_24J100 1 498562.66 53175.06 395.40 0.0 us 0 1.0 null 1
+  582_Static vehicles.planes.Plane$B_24J100 1 498381.71 52955.13 400.40 0.0 us 0 1.0 null 1
+  583_Static vehicles.planes.Plane$B_24J100 1 498133.12 52673.72 394.50 0.0 us 0 1.0 null 1
+  584_Static vehicles.planes.Plane$B_24J100 1 498727.30 52314.26 225.40 0.0 us 0 1.0 null 1
+  585_Static vehicles.planes.Plane$B_24J100 1 499563.32 52810.89 180.40 0.0 us 0 1.0 null 1
+  586_Static vehicles.planes.Plane$B_24J100 1 498777.96 53421.01 405.40 0.0 us 0 1.0 null 1
+  587_Static vehicles.planes.Plane$B_24J100 1 498738.28 53381.10 400.40 0.0 us 0 1.0 null 1
+  588_Static vehicles.planes.Plane$B_24J100 1 498706.36 53345.59 405.40 0.0 us 0 1.0 null 1
+  589_Static vehicles.planes.Plane$B_24J100 1 498655.06 53271.66 395.40 0.0 us 0 1.0 null 1
+  590_Static vehicles.planes.Plane$B_24J100 1 498627.61 53238.15 405.40 0.0 us 0 1.0 null 1
+  591_Static vehicles.planes.Plane$B_24J100 1 497978.99 52373.53 345.40 0.0 us 0 1.0 null 1
+  592_Static vehicles.planes.Plane$B_24J100 1 498010.97 52328.94 320.40 0.0 us 0 1.0 null 1
+  593_Static vehicles.planes.Plane$B_24J100 1 499111.31 53559.34 469.50 0.0 us 0 1.0 null 1
+  594_Static vehicles.planes.Plane$B_24J100 1 499174.51 53515.67 514.50 0.0 us 0 1.0 null 1
+  595_Static vehicles.planes.Plane$B_24J100 1 498097.78 52640.00 409.50 0.0 us 0 1.0 null 1
+  596_Static vehicles.planes.Plane$B_24J100 1 498067.01 52603.44 394.50 0.0 us 0 1.0 null 1
+  597_Static vehicles.planes.Plane$B_24J100 1 499428.43 52582.60 509.50 0.0 us 0 1.0 null 1
+  598_Static vehicles.planes.Plane$B_24J100 1 499420.16 52636.27 519.50 0.0 us 0 1.0 null 1
+  599_Static vehicles.planes.Plane$B_24J100 1 499310.66 52598.46 385.40 0.0 us 0 1.0 null 1
+  600_Static vehicles.planes.Plane$B_24J100 1 499301.08 52643.06 380.40 0.0 us 0 1.0 null 1
+  601_Static vehicles.planes.Plane$B_24J100 1 497988.72 52541.48 420.40 0.0 us 0 1.0 null 1
+  602_Static vehicles.planes.Plane$B_24J100 1 497946.26 52440.57 360.40 0.0 us 0 1.0 null 1
+  603_Static vehicles.planes.Plane$B_24J100 1 206328.55 242912.61 225.00 0.0 gb 0 1.0 null 1
+  604_Static vehicles.planes.Plane$B_24J100 1 206384.62 242980.79 195.00 0.0 gb 0 1.0 null 1
+  605_Static vehicles.planes.Plane$B_24J100 1 206350.17 243071.76 540.00 0.0 gb 0 1.0 null 1
+  606_Static vehicles.planes.Plane$B_24J100 1 206388.43 243201.19 195.00 0.0 gb 0 1.0 null 1
+  607_Static vehicles.planes.Plane$B_24J100 1 206400.23 243255.27 205.00 0.0 gb 0 1.0 null 1
+  608_Static vehicles.planes.Plane$B_24J100 1 206424.27 243378.69 534.10 0.0 gb 0 1.0 null 1
+  609_Static vehicles.planes.Plane$B_24J100 1 206488.87 243434.28 220.00 0.0 gb 0 1.0 null 1
+  610_Static vehicles.planes.Plane$B_24J100 1 206524.22 243472.43 205.00 0.0 gb 0 1.0 null 1
+  611_Static vehicles.planes.Plane$B_24J100 1 206136.31 243743.37 350.00 0.0 gb 0 1.0 null 1
+  612_Static vehicles.planes.Plane$B_24J100 1 206111.91 243690.20 385.00 0.0 gb 0 1.0 null 1
+  613_Static vehicles.planes.Plane$B_24J100 1 206399.73 243926.09 460.00 0.0 gb 0 1.0 null 1
+  614_Static vehicles.planes.Plane$B_24J100 1 206348.98 243901.84 420.00 0.0 gb 0 1.0 null 1
+  615_Static vehicles.planes.Plane$B_24J100 1 206288.89 243881.37 405.00 0.0 gb 0 1.0 null 1
+  616_Static vehicles.planes.Plane$B_24J100 1 205952.40 242886.62 360.00 0.0 gb 0 1.0 null 1
+  617_Static vehicles.planes.Plane$B_24J100 1 246517.15 503466.98 315.00 0.0 us 0 1.0 null 1
+  618_Static vehicles.planes.Plane$B_24J100 1 246593.63 503454.09 500.00 0.0 us 0 1.0 null 1
+  619_Static vehicles.planes.Plane$B_24J100 1 246667.87 503425.64 370.00 0.0 us 0 1.0 null 1
+  620_Static vehicles.planes.Plane$B_24J100 1 246653.16 503341.20 280.00 0.0 us 0 1.0 null 1
+  621_Static vehicles.planes.Plane$B_24J100 1 246748.36 503322.38 255.00 0.0 us 0 1.0 null 1
+  622_Static vehicles.planes.Plane$B_24J100 1 246781.47 503410.23 425.00 0.0 us 0 1.0 null 1
+  623_Static vehicles.planes.Plane$B_24J100 1 246839.66 503374.38 245.00 0.0 us 0 1.0 null 1
+  624_Static vehicles.planes.Plane$B_24J100 1 246682.77 503527.69 370.00 0.0 us 0 1.0 null 1
+  625_Static vehicles.planes.Plane$B_24J100 1 246914.23 503417.06 240.00 0.0 us 0 1.0 null 1
+  626_Static vehicles.planes.Plane$B_24J100 1 247021.23 503982.02 509.10 0.0 us 0 1.0 null 1
+  627_Static vehicles.planes.Plane$B_24J100 1 246430.05 503758.36 390.00 0.0 us 0 1.0 null 1
+  628_Static vehicles.planes.Plane$B_24J100 1 246402.24 503725.17 405.00 0.0 us 0 1.0 null 1
+  629_Static vehicles.planes.Plane$B_24J100 1 246358.29 503687.49 395.00 0.0 us 0 1.0 null 1
+  630_Static vehicles.planes.Plane$B_24J100 1 246327.79 503658.79 410.00 0.0 us 0 1.0 null 1
+  631_Static vehicles.planes.Plane$B_24J100 1 246618.42 503960.19 380.00 0.0 us 0 1.0 null 1
+  632_Static vehicles.planes.Plane$B_24J100 1 246644.43 503992.48 410.00 0.0 us 0 1.0 null 1
+  633_Static vehicles.planes.Plane$B_24J100 1 246682.11 504028.36 395.00 0.0 us 0 1.0 null 1
+  634_Static vehicles.planes.Plane$B_24J100 1 246717.09 504057.96 414.10 0.0 us 0 1.0 null 1
+  635_Static vehicles.planes.Plane$B_24J100 1 246831.01 504144.07 434.10 0.0 us 0 1.0 null 1
+  636_Static vehicles.planes.Plane$B_24J100 1 246796.03 504128.82 414.10 0.0 us 0 1.0 null 1
+  637_Static vehicles.planes.Plane$B_24J100 1 246478.34 503406.38 340.00 0.0 us 0 1.0 null 1
+  638_Static vehicles.planes.Plane$B_24J100 1 246550.38 503310.63 310.00 0.0 us 0 1.0 null 1
+  639_Static vehicles.planes.Plane$B_24J100 1 247040.74 503599.72 200.00 0.0 us 0 1.0 null 1
+  640_Static vehicles.planes.Plane$B_24J100 1 246796.53 503787.15 315.00 0.0 us 0 1.0 null 1
+  641_Static vehicles.planes.Plane$P_40E 1 142531.50 25628.66 509.10 0.0 us 0 1.0 null 1
+  642_Static vehicles.planes.Plane$P_40E 1 142513.95 25664.28 509.10 0.0 us 0 1.0 null 1
+  643_Static vehicles.planes.Plane$P_40E 1 142151.83 25460.62 339.10 0.0 us 0 1.0 null 1
+  644_Static vehicles.planes.Plane$P_40E 1 142815.60 24984.07 460.00 0.0 us 0 1.0 null 1
+  645_Static vehicles.planes.Plane$P_40E 1 142707.88 25048.07 205.00 0.0 us 0 1.0 null 1
+  646_Static vehicles.planes.Plane$P_40E 1 143161.68 25899.71 509.10 0.0 us 0 1.0 null 1
+  647_Static vehicles.planes.Plane$P_40E 1 143206.45 25985.10 320.00 0.0 us 0 1.0 null 1
+  648_Static vehicles.planes.Plane$P_40E 1 143432.72 25475.14 524.10 0.0 us 0 1.0 null 1
+  649_Static vehicles.planes.Plane$P_40E 1 143184.01 25077.46 195.00 0.0 us 0 1.0 null 1
+  650_Static vehicles.planes.Plane$P_40E 1 143149.59 24941.10 190.00 0.0 us 0 1.0 null 1
+  651_Static vehicles.planes.Plane$P_40E 1 142562.26 25589.71 524.10 0.0 us 0 1.0 null 1
+  652_Static vehicles.planes.Plane$P_40E 1 143173.26 25035.09 194.10 0.0 us 0 1.0 null 1
+  653_Static vehicles.planes.Plane$P_40E 1 143155.36 24978.87 195.00 0.0 us 0 1.0 null 1
+  654_Static vehicles.planes.Plane$P_40E 1 142864.55 24973.09 460.00 0.0 us 0 1.0 null 1
+  655_Static vehicles.planes.Plane$P_40E 1 142912.50 24951.28 460.00 0.0 us 0 1.0 null 1
+  656_Static vehicles.planes.Plane$P_40E 1 142642.79 25062.48 475.00 0.0 us 0 1.0 null 1
+  657_Static vehicles.planes.Plane$P_40E 1 143104.89 25380.46 460.00 0.0 us 0 1.0 null 1
+  658_Static vehicles.planes.Plane$P_40E 1 143139.86 24668.48 195.00 0.0 us 0 1.0 null 1
+  659_Static vehicles.planes.Plane$P_40E 1 142758.41 25008.67 439.10 0.0 us 0 1.0 null 1
+  660_Static vehicles.planes.Plane$P_40E 1 142209.92 25347.35 334.10 0.0 us 0 1.0 null 1
+  661_Static vehicles.planes.Plane$P_40E 1 142163.97 25420.98 345.00 0.0 us 0 1.0 null 1
+  662_Static vehicles.planes.Plane$P_40E 1 143150.81 26005.41 315.00 0.0 us 0 1.0 null 1
+  663_Static vehicles.planes.Plane$P_40E 1 143347.70 26038.35 464.10 0.0 us 0 1.0 null 1
+  664_Static vehicles.planes.Plane$P_40E 1 143291.72 26055.39 449.10 0.0 us 0 1.0 null 1
+  665_Static vehicles.planes.Plane$P_40E 1 143233.30 26071.30 464.10 0.0 us 0 1.0 null 1
+  666_Static vehicles.planes.Plane$P_40E 1 143186.41 26081.62 449.10 0.0 us 0 1.0 null 1
+  667_Static vehicles.planes.Plane$P_40E 1 142416.03 24950.80 269.10 0.0 us 0 1.0 null 1
+  668_Static vehicles.planes.Plane$P_40E 1 142474.05 24938.48 284.10 0.0 us 0 1.0 null 1
+  669_Static vehicles.planes.Plane$P_40E 1 142528.50 24922.17 274.10 0.0 us 0 1.0 null 1
+  670_Static vehicles.planes.Plane$P_40E 1 142585.32 24904.30 279.10 0.0 us 0 1.0 null 1
+  671_Static vehicles.planes.Plane$P_40E 1 143016.86 25286.94 279.10 0.0 us 0 1.0 null 1
+  672_Static vehicles.planes.Plane$P_40E 1 143064.16 25276.21 284.10 0.0 us 0 1.0 null 1
+  673_Static vehicles.planes.Plane$P_40E 1 143112.24 25263.89 279.10 0.0 us 0 1.0 null 1
+  674_Static vehicles.planes.Plane$P_40E 1 143160.33 25249.59 279.10 0.0 us 0 1.0 null 1
+  675_Static vehicles.planes.Plane$P_40E 1 142821.42 26098.28 419.10 0.0 us 0 1.0 null 1
+  676_Static vehicles.planes.Plane$P_40E 1 142861.16 26121.34 409.10 0.0 us 0 1.0 null 1
+  677_Static vehicles.planes.Plane$P_40E 1 142902.89 26145.59 419.10 0.0 us 0 1.0 null 1
+  678_Static vehicles.planes.Plane$P_40E 1 142945.41 26168.24 414.10 0.0 us 0 1.0 null 1
+  679_Static vehicles.planes.Plane$P_40E 1 143205.48 25114.71 264.10 0.0 us 0 1.0 null 1
+  680_Static vehicles.planes.Plane$P_40E 1 143251.01 25108.94 279.10 0.0 us 0 1.0 null 1
+  681_Static vehicles.planes.Plane$P_40E 1 143294.89 25098.69 269.10 0.0 us 0 1.0 null 1
+  682_Static vehicles.planes.Plane$P_40E 1 143402.92 25510.75 509.10 0.0 us 0 1.0 null 1
+  683_Static vehicles.planes.Plane$P_40E 1 143350.86 25524.66 494.10 0.0 us 0 1.0 null 1
+  684_Static vehicles.planes.Plane$P_40E 1 143153.53 24714.21 224.10 0.0 us 0 1.0 null 1
+  685_Static vehicles.planes.Plane$P_40E 1 143166.64 24757.14 214.10 0.0 us 0 1.0 null 1
+  686_Static vehicles.planes.Plane$P_40E 1 143178.17 24800.85 209.10 0.0 us 0 1.0 null 1
+  687_Static vehicles.planes.Plane$P_40E 1 143192.48 24839.80 204.10 0.0 us 0 1.0 null 1
+  688_Static vehicles.planes.Plane$B_24J100 1 267576.65 607778.20 484.80 0.0 us 0 1.0 null 1
+  689_Static vehicles.planes.Plane$B_24J100 1 267786.53 607918.26 419.80 0.0 us 0 1.0 null 1
+  690_Static vehicles.planes.Plane$B_24J100 1 267670.76 607450.31 194.80 0.0 us 0 1.0 null 1
+  691_Static vehicles.planes.Plane$B_24J100 1 267870.22 607940.22 409.80 0.0 us 0 1.0 null 1
+  692_Static vehicles.planes.Plane$B_24J100 1 267969.55 607741.49 194.80 0.0 us 0 1.0 null 1
+  693_Static vehicles.planes.Plane$B_24J100 1 267221.48 607875.08 479.80 0.0 us 0 1.0 null 1
+  694_Static vehicles.planes.Plane$B_24J100 1 267184.68 607890.81 474.80 0.0 us 0 1.0 null 1
+  695_Static vehicles.planes.Plane$B_24J100 1 267547.19 607810.55 514.80 0.0 us 0 1.0 null 1
+  696_Static vehicles.planes.Plane$B_24J100 1 267771.79 607815.98 389.80 0.0 us 0 1.0 null 1
+  697_Static vehicles.planes.Plane$B_24J100 1 267733.43 607754.59 434.80 0.0 us 0 1.0 null 1
+  698_Static vehicles.planes.Plane$B_24J100 1 267803.43 607855.15 374.80 0.0 us 0 1.0 null 1
+  699_Static vehicles.planes.Plane$B_24J100 1 267828.94 607901.07 389.80 0.0 us 0 1.0 null 1
+  700_Static vehicles.planes.Plane$B_24J100 1 267752.15 607875.34 389.80 0.0 us 0 1.0 null 1
+  701_Static vehicles.planes.Plane$B_24J100 1 267217.31 608060.77 434.80 0.0 us 0 1.0 null 1
+  702_Static vehicles.planes.Plane$B_24J100 1 267134.33 608045.71 449.80 0.0 us 0 1.0 null 1
+  703_Static vehicles.planes.Plane$B_24J100 1 267060.72 608046.41 464.80 0.0 us 0 1.0 null 1
+  704_Static vehicles.planes.Plane$B_24J100 1 267271.23 608072.81 449.80 0.0 us 0 1.0 null 1
+  705_Static vehicles.planes.Plane$B_24J100 1 267768.23 607892.47 425.80 0.0 us 0 1.0 null 1
+  706_Static vehicles.planes.Plane$B_24J100 1 267011.89 608065.71 439.80 0.0 us 0 1.0 null 1
+  707_Static vehicles.planes.Plane$B_24J100 1 266846.91 608088.87 394.80 0.0 us 0 1.0 null 1
+  708_Static vehicles.planes.Plane$B_24J100 1 266894.23 608081.37 429.80 0.0 us 0 1.0 null 1
+  709_Static vehicles.planes.Plane$B_24J100 1 266952.02 608076.99 454.80 0.0 us 0 1.0 null 1
+  710_Static vehicles.planes.Plane$B_24J100 1 267519.21 607333.16 294.80 0.0 us 0 1.0 null 1
+  711_Static vehicles.planes.Plane$B_24J100 1 267556.18 607308.15 299.80 0.0 us 0 1.0 null 1
+  712_Static vehicles.planes.Plane$B_24J100 1 267598.74 607285.90 314.80 0.0 us 0 1.0 null 1
+  713_Static vehicles.planes.Plane$B_24J100 1 267639.62 607247.42 294.80 0.0 us 0 1.0 null 1
+  714_Static vehicles.planes.Plane$B_24J100 1 267620.64 607156.19 369.80 0.0 us 0 1.0 null 1
+  715_Static vehicles.planes.Plane$B_24J100 1 267858.43 607613.49 244.80 0.0 us 0 1.0 null 1
+  716_Static vehicles.planes.Plane$B_24J100 1 267743.68 607604.74 529.80 0.0 us 0 1.0 null 1
+  717_Static vehicles.planes.Plane$B_24J100 1 267915.59 607871.76 189.80 0.0 us 0 1.0 null 1
+  718_Static vehicles.planes.Plane$B_24J100 1 267892.39 607831.80 204.80 0.0 us 0 1.0 null 1
+  719_Static vehicles.planes.Plane$B_24J100 1 267794.76 607700.36 214.80 0.0 us 0 1.0 null 1
+  720_Static vehicles.planes.Plane$B_24J100 1 267821.71 607737.57 219.80 0.0 us 0 1.0 null 1
+  721_Static vehicles.planes.Plane$B_24J100 1 266571.10 608009.88 369.80 0.0 us 0 1.0 null 1
+  722_Static vehicles.planes.Plane$B_24J100 1 309446.49 645697.36 449.10 0.0 us 0 1.0 null 1
+  723_Static vehicles.planes.Plane$B_24J100 1 309402.81 645696.40 420.00 0.0 us 0 1.0 null 1
+  724_Static vehicles.planes.Plane$B_24J100 1 309493.99 645698.80 444.10 0.0 us 0 1.0 null 1
+  725_Static vehicles.planes.Plane$B_24J100 1 309652.46 645598.80 519.10 0.0 us 0 1.0 null 1
+  726_Static vehicles.planes.Plane$B_24J100 1 309693.77 645563.96 504.10 0.0 us 0 1.0 null 1
+  727_Static vehicles.planes.Plane$B_24J100 1 309716.92 645512.17 534.10 0.0 us 0 1.0 null 1
+  728_Static vehicles.planes.Plane$B_24J100 1 309724.81 645460.37 539.10 0.0 us 0 1.0 null 1
+  729_Static vehicles.planes.Plane$B_24J100 1 309063.70 645326.95 390.00 0.0 us 0 1.0 null 1
+  730_Static vehicles.planes.Plane$B_24J100 1 309057.03 645270.85 420.00 0.0 us 0 1.0 null 1
+  731_Static vehicles.planes.Plane$B_24J100 1 309138.20 645439.43 405.00 0.0 us 0 1.0 null 1
+  732_Static vehicles.planes.Plane$B_24J100 1 309158.98 645476.58 375.00 0.0 us 0 1.0 null 1
+  733_Static vehicles.planes.Plane$B_24J100 1 308981.59 644801.67 345.00 0.0 us 0 1.0 null 1
+  734_Static vehicles.planes.Plane$B_24J100 1 308975.92 644843.86 375.00 0.0 us 0 1.0 null 1
+  735_Static vehicles.planes.Plane$B_24J100 1 309077.95 644677.00 315.00 0.0 us 0 1.0 null 1
+  736_Static vehicles.planes.Plane$B_24J100 1 309129.58 644648.04 285.00 0.0 us 0 1.0 null 1
+  737_Static vehicles.planes.Plane$B_24J100 1 309603.18 645198.67 210.00 0.0 us 0 1.0 null 1
+  738_Static vehicles.planes.Plane$B_24J100 1 309581.14 645147.66 540.00 0.0 us 0 1.0 null 1
+  739_Static vehicles.planes.Plane$B_24J100 1 309563.52 645085.33 210.00 0.0 us 0 1.0 null 1
+  740_Static vehicles.planes.Plane$B_24J100 1 309552.83 645039.36 205.00 0.0 us 0 1.0 null 1
+  741_Static vehicles.planes.Plane$B_24J100 1 309531.43 644963.79 210.00 0.0 us 0 1.0 null 1
+  742_Static vehicles.planes.Plane$B_24J100 1 309063.11 645213.85 375.00 0.0 us 0 1.0 null 1
+  743_Static vehicles.planes.Plane$B_24J100 1 309053.68 645164.11 390.00 0.0 us 0 1.0 null 1
+  744_Static vehicles.planes.Plane$B_24J100 1 309180.19 645504.79 385.00 0.0 us 0 1.0 null 1
+  745_Static vehicles.planes.Plane$B_24J100 1 308948.70 644880.31 380.00 0.0 us 0 1.0 null 1
+  746_Static vehicles.planes.Plane$B_24J100 1 364933.71 585125.98 449.20 0.0 us 0 1.0 null 1
+  747_Static vehicles.planes.Plane$B_24J100 1 364890.02 585125.07 420.10 0.0 us 0 1.0 null 1
+  748_Static vehicles.planes.Plane$B_24J100 1 364981.21 585127.35 444.20 0.0 us 0 1.0 null 1
+  749_Static vehicles.planes.Plane$B_24J100 1 365139.55 585027.15 519.20 0.0 us 0 1.0 null 1
+  750_Static vehicles.planes.Plane$B_24J100 1 365180.81 584992.25 504.20 0.0 us 0 1.0 null 1
+  751_Static vehicles.planes.Plane$B_24J100 1 365203.90 584940.44 534.20 0.0 us 0 1.0 null 1
+  752_Static vehicles.planes.Plane$B_24J100 1 365211.72 584888.63 539.20 0.0 us 0 1.0 null 1
+  753_Static vehicles.planes.Plane$B_24J100 1 364550.44 584756.06 390.10 0.0 us 0 1.0 null 1
+  754_Static vehicles.planes.Plane$B_24J100 1 364543.70 584699.96 420.10 0.0 us 0 1.0 null 1
+  755_Static vehicles.planes.Plane$B_24J100 1 364625.09 584868.44 405.10 0.0 us 0 1.0 null 1
+  756_Static vehicles.planes.Plane$B_24J100 1 364645.91 584905.57 375.10 0.0 us 0 1.0 null 1
+  757_Static vehicles.planes.Plane$B_24J100 1 364467.66 584230.88 345.10 0.0 us 0 1.0 null 1
+  758_Static vehicles.planes.Plane$B_24J100 1 364462.04 584273.08 375.10 0.0 us 0 1.0 null 1
+  759_Static vehicles.planes.Plane$B_24J100 1 364563.86 584106.09 315.10 0.0 us 0 1.0 null 1
+  760_Static vehicles.planes.Plane$B_24J100 1 364615.45 584077.06 285.10 0.0 us 0 1.0 null 1
+  761_Static vehicles.planes.Plane$B_24J100 1 365089.75 584627.09 210.10 0.0 us 0 1.0 null 1
+  762_Static vehicles.planes.Plane$B_24J100 1 365067.66 584576.10 180.10 0.0 us 0 1.0 null 1
+  763_Static vehicles.planes.Plane$B_24J100 1 365049.95 584513.79 210.10 0.0 us 0 1.0 null 1
+  764_Static vehicles.planes.Plane$B_24J100 1 365039.20 584467.84 205.10 0.0 us 0 1.0 null 1
+  765_Static vehicles.planes.Plane$B_24J100 1 365017.71 584392.30 210.10 0.0 us 0 1.0 null 1
+  766_Static vehicles.planes.Plane$B_24J100 1 364549.71 584642.96 375.10 0.0 us 0 1.0 null 1
+  767_Static vehicles.planes.Plane$B_24J100 1 364540.21 584593.23 390.10 0.0 us 0 1.0 null 1
+  768_Static vehicles.planes.Plane$B_24J100 1 364667.16 584933.74 385.10 0.0 us 0 1.0 null 1
+  769_Static vehicles.planes.Plane$B_24J100 1 364434.87 584309.57 380.10 0.0 us 0 1.0 null 1
+  770_Static vehicles.planes.Plane$P_40E 1 142188.77 25388.87 330.00 0.0 us 0 1.0 null 1
+  771_Static vehicles.planes.Plane$P_40E 1 143183.01 25405.59 425.00 0.0 us 0 1.0 null 1
+  772_Static vehicles.planes.Plane$P_40E 1 143161.87 25365.89 434.10 0.0 us 0 1.0 null 1
+  773_Static vehicles.planes.Plane$P_40E 1 142664.17 25738.21 390.00 0.0 us 0 1.0 null 1
+  774_Static vehicles.planes.Plane$P_40E 1 142822.38 25791.39 434.10 0.0 us 0 1.0 null 1
+  775_Static vehicles.planes.Plane$P_40E 1 142774.34 25799.08 480.00 0.0 us 0 1.0 null 1
+  776_Static vehicles.planes.Plane$P_40E 1 142691.16 25793.30 405.00 0.0 us 0 1.0 null 1
+  777_Static vehicles.planes.Plane$P_40E 1 143130.66 26085.10 444.10 0.0 us 0 1.0 null 1
+  778_Static vehicles.planes.Plane$P_40E 1 360342.83 276212.22 474.20 0.0 us 0 1.0 null 1
+  779_Static vehicles.planes.Plane$B_24J100 1 268510.90 475985.01 344.80 0.0 us 0 1.0 null 1
+  780_Static vehicles.planes.Plane$B_24J100 1 268527.28 475914.50 389.80 0.0 us 0 1.0 null 1
+  781_Static vehicles.planes.Plane$B_24J100 1 268505.51 476035.09 329.80 0.0 us 0 1.0 null 1
+  782_Static vehicles.planes.Plane$B_24J100 1 268491.02 476085.57 344.80 0.0 us 0 1.0 null 1
+  783_Static vehicles.planes.Plane$B_24J100 1 268455.00 476013.04 344.80 0.0 us 0 1.0 null 1
+  784_Static vehicles.planes.Plane$B_24J100 1 267946.02 475765.30 389.80 0.0 us 0 1.0 null 1
+  785_Static vehicles.planes.Plane$B_24J100 1 267898.08 475695.91 404.80 0.0 us 0 1.0 null 1
+  786_Static vehicles.planes.Plane$B_24J100 1 267845.60 475644.28 419.80 0.0 us 0 1.0 null 1
+  787_Static vehicles.planes.Plane$B_24J100 1 267975.57 475811.97 404.80 0.0 us 0 1.0 null 1
+  788_Static vehicles.planes.Plane$B_24J100 1 268454.23 476036.52 380.80 0.0 us 0 1.0 null 1
+  789_Static vehicles.planes.Plane$B_24J100 1 267797.45 475623.34 394.80 0.0 us 0 1.0 null 1
+  790_Static vehicles.planes.Plane$B_24J100 1 267664.56 475522.89 349.80 0.0 us 0 1.0 null 1
+  791_Static vehicles.planes.Plane$B_24J100 1 267703.28 475551.09 384.80 0.0 us 0 1.0 null 1
+  792_Static vehicles.planes.Plane$B_24J100 1 267747.20 475588.92 409.80 0.0 us 0 1.0 null 1
+  793_Static vehicles.planes.Plane$B_24J100 1 268674.38 475465.22 249.80 0.0 us 0 1.0 null 1
+  794_Static vehicles.planes.Plane$B_24J100 1 268718.20 475473.74 254.80 0.0 us 0 1.0 null 1
+  795_Static vehicles.planes.Plane$B_24J100 1 268764.01 475488.16 269.80 0.0 us 0 1.0 null 1
+  796_Static vehicles.planes.Plane$B_24J100 1 268820.12 475489.94 249.80 0.0 us 0 1.0 null 1
+  797_Static vehicles.planes.Plane$B_24J100 1 268871.31 475412.07 324.80 0.0 us 0 1.0 null 1
+  798_Static vehicles.planes.Plane$B_24J100 1 268715.45 475903.37 199.80 0.0 us 0 1.0 null 1
+  799_Static vehicles.planes.Plane$B_24J100 1 268640.62 475815.94 484.80 0.0 us 0 1.0 null 1
+  800_Static vehicles.planes.Plane$B_24J100 1 268572.95 476126.23 504.80 0.0 us 0 1.0 null 1
+  801_Static vehicles.planes.Plane$B_24J100 1 268584.86 476081.58 519.80 0.0 us 0 1.0 null 1
+  802_Static vehicles.planes.Plane$B_24J100 1 268608.99 475919.63 529.80 0.0 us 0 1.0 null 1
+  803_Static vehicles.planes.Plane$B_24J100 1 268601.67 475964.99 534.80 0.0 us 0 1.0 null 1
+  804_Static vehicles.planes.Plane$B_24J100 1 267525.72 475271.82 324.80 0.0 us 0 1.0 null 1
+  805_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  806_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  807_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  808_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  809_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  810_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  811_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  812_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  813_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  814_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  815_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  816_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  817_Static vehicles.planes.Plane$PBY 1 472952.90 168636.59 219.10 0.0 us 0 1.0 null 1
+  818_Static vehicles.planes.Plane$PBY 1 473138.42 169975.89 504.10 0.0 us 0 1.0 null 1
+  819_Static vehicles.planes.Plane$PBY 1 472885.44 170412.05 474.10 0.0 us 0 1.0 null 1
+  820_Static vehicles.planes.Plane$PBY 1 472844.47 170628.81 504.10 0.0 us 0 1.0 null 1
+  821_Static vehicles.planes.Plane$PBY 1 473333.59 169720.02 479.10 0.0 us 0 1.0 null 1
+  822_Static vehicles.planes.Plane$PBY 1 473267.92 169016.67 249.10 0.0 us 0 1.0 null 1
+  823_Static vehicles.planes.Plane$PBY 1 473236.54 169286.95 229.10 0.0 us 0 1.0 null 1
+  824_Static vehicles.planes.Plane$PBY 1 472840.32 170536.33 214.10 0.0 us 0 1.0 null 1
+  825_Static vehicles.planes.Plane$PBY 1 473228.73 169457.12 189.10 0.0 us 0 1.0 null 1
+  826_Static vehicles.planes.Plane$PBY 1 473139.28 169317.15 204.10 0.0 us 0 1.0 null 1
+  827_Static vehicles.planes.Plane$PBY 1 473267.78 169376.89 249.10 0.0 us 0 1.0 null 1
+  828_Static vehicles.planes.Plane$PBY 1 473282.31 169243.46 204.10 0.0 us 0 1.0 null 1
+  829_Static vehicles.planes.Plane$PBY 1 473060.48 168712.84 279.10 0.0 us 0 1.0 null 1
+  830_Static vehicles.planes.Plane$PBY 1 473254.59 169861.58 504.10 0.0 us 0 1.0 null 1
+  831_Static vehicles.planes.Plane$PBY 1 472221.27 168186.61 284.10 0.0 us 0 1.0 null 1
+  832_Static vehicles.planes.Plane$PBY 1 472810.50 169878.74 479.10 0.0 us 0 1.0 null 1
+  833_Static vehicles.planes.Plane$PBY 1 472769.78 169959.77 514.10 0.0 us 0 1.0 null 1
+  834_Static vehicles.planes.Plane$PBY 1 472736.96 169868.49 199.10 0.0 us 0 1.0 null 1
+  835_Static vehicles.planes.Plane$PBY 1 472866.61 169934.50 484.10 0.0 us 0 1.0 null 1
+  836_Static vehicles.planes.Plane$PBY 1 472978.47 170040.25 484.10 0.0 us 0 1.0 null 1
+  837_Static vehicles.planes.Plane$PBY 1 472928.91 170118.84 509.10 0.0 us 0 1.0 null 1
+  838_Static vehicles.planes.Plane$PBY 1 472850.44 168548.46 264.10 0.0 us 0 1.0 null 1
+  839_Static vehicles.planes.Plane$PBY 1 472936.40 170324.93 459.10 0.0 us 0 1.0 null 1
+  840_Static vehicles.planes.Plane$PBY 1 473186.35 168921.34 489.10 0.0 us 0 1.0 null 1
+  841_Static vehicles.planes.Plane$PBY 1 472845.87 170035.24 499.10 0.0 us 0 1.0 null 1
+  842_Static vehicles.planes.Plane$PBY 1 473386.97 169573.12 464.10 0.0 us 0 1.0 null 1
+  843_Static vehicles.planes.Plane$PBY 1 473146.69 169424.02 504.10 0.0 us 0 1.0 null 1
+  844_Static vehicles.planes.Plane$PBY 1 473326.38 169330.90 219.10 0.0 us 0 1.0 null 1
+  845_Static vehicles.planes.Plane$PBY 1 472736.27 168450.30 519.10 0.0 us 0 1.0 null 1
+  846_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  847_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  848_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  849_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  850_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  851_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  852_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  853_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  854_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  855_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  856_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  857_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  858_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  859_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  860_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  861_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  862_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  863_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  864_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  865_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  866_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  867_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  868_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  869_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  870_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  871_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  872_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  873_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  874_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  875_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  876_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  877_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  878_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  879_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  880_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  881_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  882_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  883_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  884_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  885_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  886_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  887_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  888_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  889_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  890_Static vehicles.planes.Plane$PBY 1 277769.01 446876.96 489.10 0.0 us 0 1.0 null 1
+  891_Static vehicles.planes.Plane$PBY 1 277756.46 446720.90 199.10 0.0 us 0 1.0 null 1
+  892_Static vehicles.planes.Plane$PBY 1 277817.20 446517.20 219.10 0.0 us 0 1.0 null 1
+  893_Static vehicles.planes.Plane$PBY 1 277487.58 445450.45 204.10 0.0 us 0 1.0 null 1
+  894_Static vehicles.planes.Plane$PBY 1 277717.79 446349.64 204.10 0.0 us 0 1.0 null 1
+  895_Static vehicles.planes.Plane$PBY 1 277815.54 446332.20 214.10 0.0 us 0 1.0 null 1
+  896_Static vehicles.planes.Plane$PBY 1 277828.96 446246.57 189.10 0.0 us 0 1.0 null 1
+  897_Static vehicles.planes.Plane$PBY 1 276236.07 445851.39 279.10 0.0 us 0 1.0 null 1
+  898_Static vehicles.planes.Plane$PBY 1 277720.32 445546.33 534.10 0.0 us 0 1.0 null 1
+  899_Static vehicles.planes.Plane$PBY 1 277738.30 446261.42 189.10 0.0 us 0 1.0 null 1
+  900_Static vehicles.planes.Plane$PBY 1 277630.32 446278.71 184.10 0.0 us 0 1.0 null 1
+  901_Static vehicles.planes.Plane$PBY 1 277522.51 446343.53 489.10 0.0 us 0 1.0 null 1
+  902_Static vehicles.planes.Plane$PBY 1 395941.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  903_Static vehicles.planes.Plane$PBY 1 395941.10 295960.08 360.00 0.0 us 0 1.0 null 1
+  904_Static vehicles.planes.Plane$PBY 1 395851.10 295780.08 360.00 0.0 us 0 1.0 null 1
+  905_Static vehicles.planes.Plane$PBY 1 396121.10 295870.08 360.00 0.0 us 0 1.0 null 1
+  906_Static vehicles.planes.Plane$PBY 1 277611.61 446372.34 219.10 0.0 us 0 1.0 null 1
+  907_Static vehicles.planes.Plane$PBY 1 277186.12 445580.36 269.10 0.0 us 0 1.0 null 1
+  908_Static vehicles.planes.Plane$PBY 1 277854.45 446048.21 209.10 0.0 us 0 1.0 null 1
+  909_Static vehicles.planes.Plane$PBY 1 277463.80 445709.56 244.10 0.0 us 0 1.0 null 1
+  910_Static vehicles.planes.Plane$PBY 1 277393.38 445748.41 199.10 0.0 us 0 1.0 null 1
+  911_Static vehicles.planes.Plane$PBY 1 277410.79 445540.31 274.10 0.0 us 0 1.0 null 1
+  912_Static vehicles.planes.Plane$PBY 1 277321.38 445554.36 259.10 0.0 us 0 1.0 null 1
+  913_Static vehicles.planes.Plane$PBY 1 277421.10 445636.55 304.10 0.0 us 0 1.0 null 1
+  914_Static vehicles.planes.Plane$PBY 1 277329.51 445621.79 284.10 0.0 us 0 1.0 null 1
+  915_Static vehicles.planes.Plane$PBY 1 277294.09 445710.67 259.10 0.0 us 0 1.0 null 1
+  916_Static vehicles.planes.Plane$PBY 1 277747.87 446614.42 204.10 0.0 us 0 1.0 null 1
+  917_Static vehicles.planes.Plane$PBY 1 277687.86 447124.92 489.10 0.0 us 0 1.0 null 1
+  918_Static vehicles.planes.Plane$PBY 1 277858.04 445761.65 249.10 0.0 us 0 1.0 null 1
+  919_Static vehicles.planes.Plane$PBY 1 277119.16 445775.58 219.10 0.0 us 0 1.0 null 1
+  920_Static vehicles.planes.Plane$PBY 1 276522.64 445730.57 294.10 0.0 us 0 1.0 null 1
+  921_Static vehicles.planes.Plane$PBY 1 276978.99 445744.17 249.10 0.0 us 0 1.0 null 1
+  922_Static vehicles.planes.Plane$PBY 1 276577.70 445603.99 239.10 0.0 us 0 1.0 null 1
+  923_Static vehicles.planes.Plane$PBY 1 277797.78 446134.71 504.10 0.0 us 0 1.0 null 1
+  924_Static vehicles.planes.Plane$PBY 1 276748.21 445443.80 234.10 0.0 us 0 1.0 null 1
+  925_Static vehicles.planes.Plane$PBY 1 277556.05 446294.87 184.10 0.0 us 0 1.0 null 1
+  926_Static vehicles.planes.Plane$PBY 1 276453.82 445890.19 204.10 0.0 us 0 1.0 null 1
+  927_Static vehicles.planes.Plane$PBY 1 276348.28 445908.93 209.10 0.0 us 0 1.0 null 1
+  928_Static vehicles.planes.Plane$PBY 1 517176.71 239963.88 459.10 0.0 us 0 1.0 null 1
+  929_Static vehicles.planes.Plane$PBY 1 516838.39 239308.92 399.10 0.0 us 0 1.0 null 1
+  930_Static vehicles.planes.Plane$PBY 1 516806.40 239182.17 369.10 0.0 us 0 1.0 null 1
+  931_Static vehicles.planes.Plane$PBY 1 517163.61 239521.11 459.10 0.0 us 0 1.0 null 1
+  932_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  933_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  934_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  935_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  936_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  937_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  938_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  939_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  940_Static vehicles.planes.Plane$PBY 1 516346.65 238736.75 389.10 0.0 us 0 1.0 null 1
+  941_Static vehicles.planes.Plane$PBY 1 517133.02 239663.71 429.10 0.0 us 0 1.0 null 1
+  942_Static vehicles.planes.Plane$PBY 1 517583.45 237360.92 324.10 0.0 us 0 1.0 null 1
+  943_Static vehicles.planes.Plane$PBY 1 516277.28 239022.33 384.10 0.0 us 0 1.0 null 1
+  944_Static vehicles.planes.Plane$PBY 1 516436.67 238580.31 309.10 0.0 us 0 1.0 null 1
+  945_Static vehicles.planes.Plane$PBY 1 516943.39 237914.59 309.10 0.0 us 0 1.0 null 1
+  946_Static vehicles.planes.Plane$PBY 1 517094.62 238079.52 299.10 0.0 us 0 1.0 null 1
+  947_Static vehicles.planes.Plane$PBY 1 516489.10 239126.94 369.10 0.0 us 0 1.0 null 1
+  948_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  949_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  950_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  951_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  952_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  953_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  954_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  955_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  956_Static vehicles.planes.Plane$PBY 1 516616.21 238542.02 369.10 0.0 us 0 1.0 null 1
+  957_Static vehicles.planes.Plane$PBY 1 517038.96 238224.12 414.10 0.0 us 0 1.0 null 1
+  958_Static vehicles.planes.Plane$PBY 1 516867.95 238475.53 339.10 0.0 us 0 1.0 null 1
+  959_Static vehicles.planes.Plane$PBY 1 517103.82 238536.00 389.10 0.0 us 0 1.0 null 1
+  960_Static vehicles.planes.Plane$PBY 1 516811.18 238428.02 314.10 0.0 us 0 1.0 null 1
+  961_Static vehicles.planes.Plane$PBY 1 516958.12 239336.61 359.10 0.0 us 0 1.0 null 1
+  962_Static vehicles.planes.Plane$PBY 1 517064.08 239434.96 384.10 0.0 us 0 1.0 null 1
+  963_Static vehicles.planes.Plane$PBY 1 516939.82 238502.41 314.10 0.0 us 0 1.0 null 1
+  964_Static vehicles.planes.Plane$PBY 1 304299.20 44999.40 240.00 0.0 us 0 1.0 null 1
+  965_Static vehicles.planes.Plane$PBY 1 304353.10 44957.70 390.00 0.0 us 0 1.0 null 1
+  966_Static vehicles.planes.Plane$PBY 1 304398.60 44905.90 420.00 0.0 us 0 1.0 null 1
+  967_Static vehicles.planes.Plane$PBY 1 304470.20 44841.50 420.00 0.0 us 0 1.0 null 1
+  968_Static vehicles.planes.Plane$PBY 1 304505.60 44937.90 405.00 0.0 us 0 1.0 null 1
+  969_Static vehicles.planes.Plane$PBY 1 304436.50 45001.10 405.00 0.0 us 0 1.0 null 1
+  970_Static vehicles.planes.Plane$PBY 1 304361.60 45073.50 400.00 0.0 us 0 1.0 null 1
+  971_Static vehicles.planes.Plane$PBY 1 304539.70 44831.00 490.00 0.0 us 0 1.0 null 1
+  972_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  973_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  974_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  975_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  976_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  977_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  978_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  979_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  980_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  981_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  982_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  983_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  984_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  985_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  986_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  987_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  988_Static vehicles.planes.Plane$PBY 1 305087.30 45289.80 485.00 0.0 us 0 1.0 null 1
+  989_Static vehicles.planes.Plane$PBY 1 305139.90 45359.30 475.00 0.0 us 0 1.0 null 1
+  990_Static vehicles.planes.Plane$PBY 1 305082.60 45411.10 509.10 0.0 us 0 1.0 null 1
+  991_Static vehicles.planes.Plane$PBY 1 304947.40 45292.30 449.10 0.0 us 0 1.0 null 1
+  992_Static vehicles.planes.Plane$PBY 1 304968.10 45341.60 495.00 0.0 us 0 1.0 null 1
+  993_Static vehicles.planes.Plane$PBY 1 304999.20 45245.10 434.10 0.0 us 0 1.0 null 1
+  994_Static vehicles.planes.Plane$PBY 1 305072.50 45216.50 480.00 0.0 us 0 1.0 null 1
+  995_Static vehicles.planes.Plane$PBY 1 304393.40 45293.80 480.00 0.0 us 0 1.0 null 1
+  996_Static vehicles.planes.Plane$PBY 1 304584.50 45551.40 405.00 0.0 us 0 1.0 null 1
+  997_Static vehicles.planes.Plane$PBY 1 304993.10 45579.60 449.10 0.0 us 0 1.0 null 1
+  998_Static vehicles.planes.Plane$PBY 1 305281.50 45451.30 460.00 0.0 us 0 1.0 null 1
+  999_Static vehicles.planes.Plane$PBY 1 305689.20 45135.50 190.00 0.0 us 0 1.0 null 1
+  1000_Static vehicles.planes.Plane$PBY 1 304165.90 44863.40 519.10 0.0 us 0 1.0 null 1
+  1001_Static vehicles.planes.Plane$PBY 1 304020.30 44902.60 400.00 0.0 us 0 1.0 null 1
+  1002_Static vehicles.planes.Plane$PBY 1 303789.20 45270.20 444.10 0.0 us 0 1.0 null 1
+  1003_Static vehicles.planes.Plane$PBY 1 305801.00 45228.50 444.10 0.0 us 0 1.0 null 1
+  1004_Static vehicles.planes.Plane$PBY 1 517038.84 238462.52 344.10 0.0 us 0 1.0 null 1
+  1005_Static vehicles.planes.Plane$PBY 1 517032.23 238549.83 309.10 0.0 us 0 1.0 null 1
+  1006_Static vehicles.planes.Plane$PBY 1 516929.21 238392.31 329.10 0.0 us 0 1.0 null 1
+  1007_Static vehicles.planes.Plane$PBY 1 516921.89 237783.16 369.10 0.0 us 0 1.0 null 1
+  1008_Static vehicles.planes.Plane$PBY 1 516689.28 239192.07 434.10 0.0 us 0 1.0 null 1
+  1009_Static vehicles.planes.Plane$PBY 1 516770.04 239227.86 429.10 0.0 us 0 1.0 null 1
+  1010_Static vehicles.planes.Plane$PBY 1 516820.11 239083.74 339.10 0.0 us 0 1.0 null 1
+  1011_Static vehicles.planes.Plane$PBY 1 516867.25 239158.90 429.10 0.0 us 0 1.0 null 1
+  1012_Static vehicles.planes.Plane$PBY 1 516724.83 239062.74 399.10 0.0 us 0 1.0 null 1
+  1013_Static vehicles.planes.Plane$PBY 1 189800.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  1014_Static vehicles.planes.Plane$PBY 1 189800.66 247326.29 360.00 0.0 us 0 1.0 null 1
+  1015_Static vehicles.planes.Plane$PBY 1 189710.66 247146.29 360.00 0.0 us 0 1.0 null 1
+  1016_Static vehicles.planes.Plane$PBY 1 189980.66 247236.29 360.00 0.0 us 0 1.0 null 1
+  1017_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1018_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1019_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1020_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1021_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1022_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1023_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1024_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1025_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1026_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1027_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1028_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1029_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1030_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1031_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1032_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1033_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1034_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1035_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1036_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1037_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1038_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1039_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1040_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1041_Static vehicles.planes.Plane$PBY 1 504480.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1042_Static vehicles.planes.Plane$PBY 1 504480.31 294274.22 360.00 0.0 us 0 1.0 null 1
+  1043_Static vehicles.planes.Plane$PBY 1 504390.31 294094.22 360.00 0.0 us 0 1.0 null 1
+  1044_Static vehicles.planes.Plane$PBY 1 504660.31 294184.22 360.00 0.0 us 0 1.0 null 1
+  1045_Static vehicles.stationary.Siren$SirenCity 1 206433.95 244004.02 360.00 0.0
+  1046_Static vehicles.stationary.Siren$SirenCity 1 206180.17 242747.62 360.00 0.0
+  1047_Static vehicles.stationary.Siren$SirenCity 1 297086.52 45988.97 720.00 0.0
+  1048_Static vehicles.stationary.Siren$SirenCity 1 296833.54 44732.39 720.00 0.0
+  1049_Static vehicles.stationary.Siren$SirenCity 1 486260.30 300202.48 360.00 0.0
+  1050_Static vehicles.stationary.Siren$SirenCity 1 486245.80 301201.77 360.00 0.0
+  1051_Static vehicles.stationary.Siren$SirenCity 1 246975.31 504239.22 360.00 0.0
+  1052_Static vehicles.stationary.Siren$SirenCity 1 246323.29 503305.90 360.00 0.0
+  1053_Static vehicles.stationary.Siren$SirenCity 1 412997.53 278526.90 639.90 0.0
+  1054_Static vehicles.stationary.Siren$SirenCity 1 413804.41 277723.70 639.90 0.0
+  1055_Static vehicles.stationary.Siren$SirenCity 1 309264.31 644499.33 720.00 0.0
+  1056_Static vehicles.stationary.Siren$SirenCity 1 309520.76 645768.30 720.00 0.0
+  1057_Static vehicles.stationary.Siren$SirenCity 1 301503.04 404774.63 360.00 0.0
+  1058_Static vehicles.stationary.Siren$SirenCity 1 301759.84 406043.53 360.00 0.0
+  1059_Static vehicles.stationary.Siren$SirenCity 1 364749.99 583928.18 360.10 0.0
+  1060_Static vehicles.stationary.Siren$SirenCity 1 365008.07 585196.82 360.10 0.0
+  1061_Static vehicles.stationary.Siren$SirenCity 1 387001.54 431385.02 360.00 0.0
+  1062_Static vehicles.stationary.Siren$SirenCity 1 387258.68 432653.85 360.00 0.0
+  1063_Static vehicles.stationary.Siren$SirenCity 1 416499.50 420201.40 360.00 0.0
+  1064_Static vehicles.stationary.Siren$SirenCity 1 416756.12 421470.35 360.00 0.0
+  1065_Static vehicles.stationary.Siren$SirenCity 1 265801.91 535879.00 360.00 0.0
+  1066_Static vehicles.stationary.Siren$SirenCity 1 264691.47 535152.25 360.00 0.0
+  1067_Static vehicles.stationary.Siren$SirenCity 1 295131.05 458567.37 360.10 0.0
+  1068_Static vehicles.stationary.Siren$SirenCity 1 295862.74 457167.75 360.10 0.0
+  1069_Static vehicles.stationary.Siren$SirenCity 1 267542.70 475449.43 655.00 0.0
+  1070_Static vehicles.stationary.Siren$SirenCity 1 269120.30 475523.42 655.00 0.0
+  1071_Static vehicles.stationary.Siren$SirenCity 1 266708.85 608123.28 700.00 0.0
+  1072_Static vehicles.stationary.Siren$SirenCity 1 267875.31 607058.53 700.00 0.0
+  1073_Static vehicles.stationary.Siren$SirenCity 1 506636.44 341561.60 360.00 0.0
+  1074_Static vehicles.stationary.Siren$SirenCity 1 507369.43 340162.65 360.00 0.0
+  1075_Static vehicles.stationary.Siren$SirenCity 1 297582.54 356973.09 720.00 0.0
+  1076_Static vehicles.stationary.Siren$SirenCity 1 298316.40 355574.60 720.00 0.0
+  1077_Static vehicles.stationary.Siren$SirenCity 1 272912.25 482108.01 720.00 0.0
+  1078_Static vehicles.stationary.Siren$SirenCity 1 273406.82 484747.74 720.00 0.0
+  1079_Static vehicles.stationary.Siren$SirenCity 1 143664.10 26161.73 720.00 0.0
+  1080_Static vehicles.stationary.Siren$SirenCity 1 142093.57 24870.84 720.00 0.0
+  1081_Static vehicles.stationary.Siren$SirenCity 1 481570.64 289532.44 360.10 0.0
+  1082_Static vehicles.stationary.Siren$SirenCity 1 479997.08 288245.22 360.10 0.0
+  1083_Static vehicles.stationary.Siren$SirenCity 1 360969.55 276238.20 360.10 0.0
+  1084_Static vehicles.stationary.Siren$SirenCity 1 359397.82 274948.74 360.10 0.0
+  1085_Static vehicles.stationary.Siren$SirenCity 1 512181.48 100501.10 360.00 0.0
+  1086_Static vehicles.stationary.Siren$SirenCity 1 510610.64 99210.58 360.00 0.0
+  1087_Static vehicles.stationary.Siren$SirenCity 1 389159.43 276769.37 360.10 0.0
+  1088_Static vehicles.stationary.Siren$SirenCity 1 390420.58 278169.79 360.10 0.0
+  1089_Static vehicles.stationary.Siren$SirenCity 1 510835.41 195099.32 360.40 0.0
+  1090_Static vehicles.stationary.Siren$SirenCity 1 512104.97 196492.15 360.40 0.0
+  1091_Static vehicles.stationary.Siren$SirenCity 1 498209.76 52118.38 360.40 0.0
+  1092_Static vehicles.stationary.Siren$SirenCity 1 499479.11 53511.39 360.40 0.0
+  1093_Static vehicles.stationary.Siren$SirenCity 1 189854.09 247365.70 540.00 0.0
+  1094_Static vehicles.stationary.Siren$SirenCity 1 191697.00 242414.84 540.00 0.0
+  1095_Static vehicles.stationary.Siren$SirenCity 1 504382.81 294284.70 360.00 0.0
+  1096_Static vehicles.stationary.Siren$SirenCity 1 509152.45 294014.82 360.00 0.0
+  1097_Static vehicles.stationary.Siren$SirenCity 1 307279.22 44350.23 360.00 0.0
+  1098_Static vehicles.stationary.Siren$SirenCity 1 303122.78 44580.77 360.00 0.0
+  1099_Static vehicles.stationary.Siren$SirenCity 1 472176.96 167636.73 360.00 0.0
+  1100_Static vehicles.stationary.Siren$SirenCity 1 472914.21 171427.96 360.00 0.0
+  1101_Static vehicles.stationary.Siren$SirenCity 1 276405.42 445510.78 360.00 0.0
+  1102_Static vehicles.stationary.Siren$SirenCity 1 278019.46 447846.74 360.00 0.0
+  1103_Static vehicles.stationary.Siren$SirenCity 1 396039.28 295770.26 360.00 0.0
+  1104_Static vehicles.stationary.Siren$SirenCity 1 390706.03 296012.51 360.00 0.0
+  1105_Static vehicles.stationary.Siren$SirenCity 1 516719.11 239820.75 720.00 0.0
+  1106_Static vehicles.stationary.Siren$SirenCity 1 517699.11 237011.39 720.00 0.0
+  1107_Static vehicles.stationary.Stationary$ExpNapalm 2 337814.99 675449.83 360.00 0.0
+  1108_Static vehicles.stationary.Stationary$ExpNapalm 2 336884.50 675430.09 360.00 0.0
+  1109_Static vehicles.stationary.Stationary$ExpNapalm 2 337804.40 675434.09 360.00 0.0
+  1110_Static vehicles.stationary.Stationary$ExpNapalm 2 338478.98 676400.90 360.00 0.0
+  1111_Static vehicles.stationary.Stationary$ExpNapalm 2 338467.58 676404.86 360.00 0.0
+  1112_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460460.00 450.00 0.0
+  1113_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460590.00 450.00 0.0
+  1114_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460730.00 450.00 0.0
+  1115_Static vehicles.stationary.Stationary$ExpNapalm 1 294770.00 461130.00 450.00 0.0
+  1116_Static vehicles.stationary.Stationary$ExpNapalm 1 294770.00 461270.00 450.00 0.0
+  1117_Static vehicles.stationary.Stationary$ExpNapalm 0 294910.00 461580.00 450.00 0.0
+  1118_Static vehicles.stationary.Stationary$ExpNapalm 0 294690.00 461670.00 450.00 0.0
+  1119_Static vehicles.stationary.Stationary$ExpNapalm 0 295080.00 461720.00 450.00 0.0
+  1120_Static vehicles.stationary.Stationary$ExpNapalm 0 294990.00 462430.00 450.00 0.0
+  1121_Static vehicles.stationary.Stationary$ExpNapalm 0 294950.00 462470.00 450.00 0.0
+  1122_Static vehicles.stationary.Stationary$ExpNapalm 0 294900.00 462520.00 450.00 0.0
+  1123_Static vehicles.stationary.Stationary$ExpNapalm 1 294742.38 460059.59 450.00 0.0
+  1124_Static vehicles.stationary.Stationary$ExpNapalm 1 294704.21 460103.95 450.00 0.0
+  1125_Static vehicles.stationary.Stationary$ExpNapalm 1 294740.00 460800.00 450.00 0.0
+  1126_Static vehicles.stationary.Stationary$ExpNapalm 1 294780.00 460800.00 450.00 0.0
+  1127_Static vehicles.stationary.Stationary$ExpNapalm 1 294700.00 460840.00 450.00 0.0
+  1128_Static vehicles.stationary.Stationary$ExpNapalm 1 294740.00 460840.00 450.00 0.0
+  1129_Static vehicles.stationary.Stationary$ExpNapalm 1 294660.00 460880.00 450.00 0.0
+  1130_Static vehicles.stationary.Stationary$ExpNapalm 1 294700.00 460880.00 450.00 0.0
+  1131_Static vehicles.stationary.Stationary$ExpNapalm 0 294530.00 462860.00 450.00 0.0
+  1132_Static vehicles.stationary.Stationary$ExpNapalm 0 294485.10 462870.00 450.00 0.0
+  1133_Static vehicles.stationary.Stationary$ExpNapalm 0 294490.10 462904.82 450.00 0.0
+  1134_Static vehicles.stationary.Stationary$ExpNapalm 0 294449.90 462914.88 450.00 0.0
+  1135_Static vehicles.stationary.Stationary$ExpNapalm 1 309077.98 644896.37 385.00 0.0
+  1136_Static vehicles.stationary.Stationary$ExpNapalm 1 309075.47 644889.73 385.00 0.0
+  1137_Static vehicles.stationary.Stationary$ExpNapalm 1 309080.90 644902.84 385.00 0.0
+  1138_Static vehicles.stationary.Stationary$ExpNapalm 1 267317.33 607775.64 395.00 0.0
+  1139_Static vehicles.stationary.Stationary$ExpNapalm 1 267322.02 607782.63 395.00 0.0
+  1140_Static vehicles.stationary.Stationary$ExpNapalm 1 267326.75 607789.78 395.00 0.0
+  1141_Static vehicles.stationary.Stationary$ExpNapalm 1 364567.60 584334.67 380.00 0.0
+  1142_Static vehicles.stationary.Stationary$ExpNapalm 1 364564.89 584328.00 380.00 0.0
+  1143_Static vehicles.stationary.Stationary$ExpNapalm 1 364562.81 584321.05 380.00 0.0
+  1144_Static vehicles.stationary.Stationary$ExpNapalm 1 265641.83 535464.25 425.00 0.0
+  1145_Static vehicles.stationary.Stationary$ExpNapalm 1 265635.35 535461.12 425.00 0.0
+  1146_Static vehicles.stationary.Stationary$ExpNapalm 1 265628.77 535458.07 425.00 0.0
+  1147_Static vehicles.stationary.Stationary$ExpNapalm 1 268218.25 475650.78 710.00 0.0
+  1148_Static vehicles.stationary.Stationary$ExpNapalm 1 268220.11 475642.37 710.00 0.0
+  1149_Static vehicles.stationary.Stationary$ExpNapalm 1 268221.56 475633.10 710.00 0.0
+  1150_Static vehicles.stationary.Stationary$ExpNapalm 1 295596.45 458043.46 415.00 0.0
+  1151_Static vehicles.stationary.Stationary$ExpNapalm 1 295589.53 458038.25 415.00 0.0
+  1152_Static vehicles.stationary.Stationary$ExpNapalm 1 295582.76 458033.34 415.00 0.0
+  1153_Static vehicles.stationary.Stationary$ExpNapalm 1 386744.12 431843.73 380.00 0.0
+  1154_Static vehicles.stationary.Stationary$ExpNapalm 1 386741.51 431836.10 380.00 0.0
+  1155_Static vehicles.stationary.Stationary$ExpNapalm 1 386739.36 431830.00 380.00 0.0
+  1156_Static vehicles.stationary.Stationary$ExpNapalm 1 416257.36 420645.69 380.00 0.0
+  1157_Static vehicles.stationary.Stationary$ExpNapalm 1 416254.79 420639.14 380.00 0.0
+  1158_Static vehicles.stationary.Stationary$ExpNapalm 1 416252.71 420632.37 380.00 0.0
+  1159_Static vehicles.stationary.Stationary$ExpNapalm 1 301265.81 405201.58 380.00 0.0
+  1160_Static vehicles.stationary.Stationary$ExpNapalm 1 301263.40 405194.96 380.00 0.0
+  1161_Static vehicles.stationary.Stationary$ExpNapalm 1 301261.42 405188.07 380.00 0.0
+  1162_Static vehicles.stationary.Stationary$ExpNapalm 1 298034.49 356443.68 415.00 0.0
+  1163_Static vehicles.stationary.Stationary$ExpNapalm 1 298041.48 356448.74 415.00 0.0
+  1164_Static vehicles.stationary.Stationary$ExpNapalm 1 298048.40 356453.88 415.00 0.0
+  1165_Static vehicles.stationary.Stationary$ExpNapalm 1 507106.53 341031.87 415.00 0.0
+  1166_Static vehicles.stationary.Stationary$ExpNapalm 1 507099.53 341026.77 415.00 0.0
+  1167_Static vehicles.stationary.Stationary$ExpNapalm 1 507092.88 341021.78 415.00 0.0
+  1168_Static vehicles.stationary.Stationary$ExpNapalm 1 296647.80 45134.56 380.00 0.0
+  1169_Static vehicles.stationary.Stationary$ExpNapalm 1 296644.86 45128.01 380.00 0.0
+  1170_Static vehicles.stationary.Stationary$ExpNapalm 1 296642.96 45121.01 380.00 0.0
+  1171_Static vehicles.stationary.Stationary$ExpNapalm 1 205986.07 243124.78 380.00 0.0
+  1172_Static vehicles.stationary.Stationary$ExpNapalm 1 205988.48 243131.67 380.00 0.0
+  1173_Static vehicles.stationary.Stationary$ExpNapalm 1 205991.05 243138.33 380.00 0.0
+  1174_Static vehicles.stationary.Stationary$ExpNapalm 1 272108.58 484101.46 360.00 0.0
+  1175_Static vehicles.stationary.Stationary$ExpNapalm 1 272124.08 484075.31 360.00 0.0
+  1176_Static vehicles.stationary.Stationary$ExpNapalm 1 272094.86 484074.98 360.00 0.0
+  1177_Static vehicles.stationary.Stationary$ExpNapalm 1 272109.61 484047.83 360.00 0.0
+  1178_Static vehicles.stationary.Stationary$ExpNapalm 1 272081.40 484044.96 360.00 0.0
+  1179_Static vehicles.stationary.Stationary$ExpNapalm 1 272094.77 484020.03 360.00 0.0
+  1180_Static vehicles.stationary.Stationary$ExpNapalm 1 272063.27 484014.95 360.00 0.0
+  1181_Static vehicles.stationary.Stationary$ExpNapalm 1 272078.58 483990.93 360.00 0.0
+  1182_Static vehicles.stationary.Stationary$ExpNapalm 1 247112.39 504058.50 675.00 0.0
+  1183_Static vehicles.stationary.Stationary$ExpNapalm 1 247120.99 504049.90 675.00 0.0
+  1184_Static vehicles.stationary.Stationary$ExpNapalm 1 247129.94 504041.49 675.00 0.0
+  1185_Static vehicles.stationary.Stationary$ExpNapalm 1 247160.20 504006.22 675.00 0.0
+  1186_Static vehicles.stationary.Stationary$ExpNapalm 1 247140.82 503989.23 675.00 0.0
+  1187_Static vehicles.stationary.Stationary$ExpNapalm 1 360905.70 275063.03 675.00 0.0
+  1188_Static vehicles.stationary.Stationary$ExpNapalm 1 360948.24 275103.40 675.00 0.0
+  1189_Static vehicles.stationary.Stationary$ExpNapalm 1 360993.87 275060.26 675.00 0.0
+  1190_Static vehicles.stationary.Stationary$ExpNapalm 1 360954.47 275019.19 675.00 0.0
+  1191_Static vehicles.stationary.Stationary$ExpNapalm 1 360861.55 275019.19 675.00 0.0
+  1192_Static vehicles.stationary.Stationary$ExpNapalm 1 360909.25 274972.32 675.00 0.0
+  1193_Static vehicles.stationary.Stationary$ExpNapalm 1 390728.62 277217.12 675.00 0.0
+  1194_Static vehicles.stationary.Stationary$ExpNapalm 1 390730.35 277273.71 675.00 0.0
+  1195_Static vehicles.stationary.Stationary$ExpNapalm 1 390731.10 277324.53 675.00 0.0
+  1196_Static vehicles.stationary.Stationary$ExpNapalm 1 390684.65 277324.12 675.00 0.0
+  1197_Static vehicles.stationary.Stationary$ExpNapalm 1 390684.65 277272.68 675.00 0.0
+  1198_Static vehicles.stationary.Stationary$ExpNapalm 1 390684.23 277217.51 675.00 0.0
+  1199_Static vehicles.stationary.Stationary$ExpNapalm 1 412875.24 278305.06 675.00 0.0
+  1200_Static vehicles.stationary.Stationary$ExpNapalm 1 412875.49 278335.14 675.00 0.0
+  1201_Static vehicles.stationary.Stationary$ExpNapalm 1 413245.54 278129.17 685.00 0.0
+  1202_Static vehicles.stationary.Stationary$ExpNapalm 1 413237.23 278140.77 685.00 0.0
+  1203_Static vehicles.stationary.Stationary$ExpNapalm 1 486434.35 301164.04 685.00 0.0
+  1204_Static vehicles.stationary.Stationary$ExpNapalm 1 486434.84 301135.32 685.00 0.0
+  1205_Static vehicles.stationary.Stationary$ExpNapalm 1 486434.35 301104.87 685.00 0.0
+  1206_Static vehicles.stationary.Stationary$ExpNapalm 1 480809.31 288636.31 685.00 0.0
+  1207_Static vehicles.stationary.Stationary$ExpNapalm 1 480837.48 288609.93 685.00 0.0
+  1208_Static vehicles.stationary.Stationary$ExpNapalm 1 480808.69 288580.21 685.00 0.0
+  1209_Static vehicles.stationary.Stationary$ExpNapalm 1 480779.95 288605.88 685.00 0.0
+  1210_Static vehicles.stationary.Stationary$ExpNapalm 1 480778.99 288549.99 685.00 0.0
+  1211_Static vehicles.stationary.Stationary$ExpNapalm 1 480748.64 288577.12 685.00 0.0
+  1212_Static vehicles.stationary.Stationary$ExpNapalm 1 512375.05 196374.92 685.00 0.0
+  1213_Static vehicles.stationary.Stationary$ExpNapalm 1 512415.15 196374.78 685.00 0.0
+  1214_Static vehicles.stationary.Stationary$ExpNapalm 1 512445.41 196374.56 685.00 0.0
+  1215_Static vehicles.stationary.Stationary$ExpNapalm 1 512445.41 196404.79 685.00 0.0
+  1216_Static vehicles.stationary.Stationary$ExpNapalm 1 512414.43 196405.04 685.00 0.0
+  1217_Static vehicles.stationary.Stationary$ExpNapalm 1 512375.27 196404.79 685.00 0.0
+  1218_Static vehicles.stationary.Stationary$ExpNapalm 1 510633.16 195218.72 640.00 0.0
+  1219_Static vehicles.stationary.Stationary$ExpNapalm 1 510651.98 195216.36 640.00 0.0
+  1220_Static vehicles.stationary.Stationary$ExpNapalm 1 510615.06 195221.56 640.00 0.0
+  1221_Static vehicles.stationary.Stationary$ExpNapalm 1 511374.61 99503.82 585.00 0.0
+  1222_Static vehicles.stationary.Stationary$ExpNapalm 1 511385.25 99514.21 585.00 0.0
+  1223_Static vehicles.stationary.Stationary$ExpNapalm 1 511394.89 99524.84 585.00 0.0
+  1224_Static vehicles.stationary.Stationary$ExpNapalm 1 511974.36 100665.44 540.00 0.0
+  1225_Static vehicles.stationary.Stationary$ExpNapalm 1 511974.19 100653.22 540.00 0.0
+  1226_Static vehicles.stationary.Stationary$ExpNapalm 1 511974.93 100678.75 540.00 0.0
+  1227_Static vehicles.stationary.Stationary$ExpNapalm 1 499145.41 52264.96 540.00 0.0
+  1228_Static vehicles.stationary.Stationary$ExpNapalm 1 499199.30 52264.48 540.00 0.0
+  1229_Static vehicles.stationary.Stationary$ExpNapalm 1 499145.24 52214.96 540.00 0.0
+  1230_Static vehicles.stationary.Stationary$ExpNapalm 1 499199.30 52214.91 540.00 0.0
+  1231_Static vehicles.stationary.Stationary$ExpNapalm 1 497825.52 52452.60 540.00 0.0
+  1232_Static vehicles.stationary.Stationary$ExpNapalm 1 497858.79 52499.27 540.00 0.0
+  1233_Static vehicles.stationary.Stationary$ExpNapalm 1 497908.58 52466.08 540.00 0.0
+  1234_Static vehicles.stationary.Stationary$ExpNapalm 1 497874.75 52418.84 540.00 0.0
+  1235_Static vehicles.stationary.Stationary$ExpNapalm 1 497775.67 52485.60 540.00 0.0
+  1236_Static vehicles.stationary.Stationary$ExpNapalm 1 497807.10 52532.73 540.00 0.0
+  1237_Static vehicles.stationary.Stationary$ExpNapalm 1 141687.98 25338.89 540.00 0.0
+  1238_Static vehicles.stationary.Stationary$ExpNapalm 1 141718.66 25289.47 540.00 0.0
+  1239_Static vehicles.stationary.Stationary$ExpNapalm 1 141741.33 25370.12 540.00 0.0
+  1240_Static vehicles.stationary.Stationary$ExpNapalm 1 141770.64 25319.02 540.00 0.0
+  1241_Static vehicles.stationary.Stationary$ExpNapalm 1 143509.23 25580.54 415.00 0.0
+  1242_Static vehicles.stationary.Stationary$ExpNapalm 1 143522.33 25588.81 415.00 0.0
+  1243_Static vehicles.stationary.Stationary$ExpNapalm 1 143536.46 25597.73 415.00 0.0
+  1244_Static vehicles.stationary.Stationary$ExpNapalm 1 141905.97 24786.58 360.00 0.0
+  1245_Static vehicles.stationary.Stationary$ExpNapalm 1 141905.72 24764.77 360.00 0.0
+  1246_Static vehicles.stationary.Stationary$ExpNapalm 1 141904.98 24741.97 360.00 0.0
+  1247_Static vehicles.stationary.Stationary$ExpNapalm 1 272249.27 482274.80 645.00 0.0
+  1248_Static vehicles.stationary.Stationary$ExpNapalm 1 272263.71 482270.71 645.00 0.0
+  1249_Static vehicles.stationary.Stationary$ExpNapalm 1 272278.83 482266.49 645.00 0.0
+  1250_Static vehicles.stationary.Stationary$ExpNapalm 1 272038.68 483381.58 665.00 0.0
+  1251_Static vehicles.stationary.Stationary$ExpNapalm 1 272052.56 483373.65 665.00 0.0
+  1252_Static vehicles.stationary.Stationary$ExpNapalm 1 272066.69 483365.48 665.00 0.0
+  1253_Static vehicles.stationary.Stationary$ExpNapalm 0 329133.00 643679.00 495.00 0.0
+  1254_Static vehicles.stationary.Stationary$ExpNapalm 0 514896.00 102111.00 675.00 0.0
+  1255_Static vehicles.stationary.Stationary$ExpNapalm 0 509300.00 192491.00 680.00 0.0
+  1256_Static vehicles.stationary.Stationary$ExpNapalm 0 425912.00 393079.00 680.00 0.0
+  1257_Static vehicles.stationary.Stationary$ExpNapalm 0 398506.00 416115.00 405.00 0.0
+  1258_Static vehicles.stationary.Stationary$ExpNapalm 0 326485.00 432308.00 450.00 0.0
+  1259_Static vehicles.stationary.Stationary$ExpNapalm 0 295292.00 462501.00 670.00 0.0
+  1260_Static vehicles.stationary.Stationary$ExpNapalm 0 294494.00 464625.00 360.00 0.0
+  1261_Static vehicles.stationary.Stationary$ExpNapalm 0 272877.00 484874.00 360.00 0.0
+  1262_Static vehicles.stationary.Stationary$ExpNapalm 0 268301.00 536289.00 360.00 0.0
+  1263_Static vehicles.stationary.Stationary$ExpNapalm 0 332547.00 594735.00 585.00 0.0
+  1264_Static vehicles.stationary.Stationary$ExpNapalm 0 329527.00 617659.00 675.00 0.0
+[Target]
+[Buildings]
+  0_bld House$socknone 1 206409.73 244056.70 487.00
+  1_bld House$socknone 1 206204.39 242694.94 487.00
+  2_bld House$socknone 1 297062.26 46041.63 487.00
+  3_bld House$socknone 1 296857.80 44679.73 487.00
+  4_bld House$socknone 1 486293.06 300154.64 487.00
+  5_bld House$socknone 1 486213.04 301249.61 487.00
+  6_bld House$socknone 1 246975.26 504297.20 487.00
+  7_bld House$socknone 1 246323.34 503247.92 487.00
+  8_bld House$socknone 1 412940.40 278536.85 487.00
+  9_bld House$socknone 1 413861.54 277713.75 487.00
+  10_bld House$socknone 1 309288.61 644446.68 487.00
+  11_bld House$socknone 1 309496.46 645820.95 487.00
+  12_bld House$socknone 1 301527.33 404721.98 487.00
+  13_bld House$socknone 1 301735.55 406096.18 487.00
+  14_bld House$socknone 1 364774.23 583875.50 487.00
+  15_bld House$socknone 1 364983.83 585249.50 487.00
+  16_bld House$socknone 1 387025.81 431332.36 487.00
+  17_bld House$socknone 1 387234.41 432706.51 487.00
+  18_bld House$socknone 1 416523.79 420148.76 487.00
+  19_bld House$socknone 1 416731.83 421522.99 487.00
+  20_bld House$socknone 1 265822.10 535933.35 487.00
+  21_bld House$socknone 1 264671.28 535097.90 487.00
+  22_bld House$socknone 1 295141.32 458624.44 487.00
+  23_bld House$socknone 1 295852.47 457110.68 487.00
+  24_bld House$socknone 1 267495.27 475482.78 487.00
+  25_bld House$socknone 1 269167.73 475490.07 487.00
+  26_bld House$socknone 1 266698.97 608180.41 487.00
+  27_bld House$socknone 1 267885.19 607001.40 487.00
+  28_bld House$socknone 1 506646.66 341618.67 487.00
+  29_bld House$socknone 1 507359.21 340105.58 487.00
+  30_bld House$socknone 1 297592.71 357030.17 487.00
+  31_bld House$socknone 1 298306.23 355517.52 487.00
+  32_bld House$socknone 1 272941.38 482057.87 487.00
+  33_bld House$socknone 1 273377.69 484797.88 487.00
+  34_bld House$socknone 1 143675.34 26218.62 487.00
+  35_bld House$socknone 1 142082.33 24813.95 487.00
+  36_bld House$socknone 1 481582.00 289589.30 487.00
+  37_bld House$socknone 1 479985.72 288188.36 487.00
+  38_bld House$socknone 1 360980.83 276295.07 487.00
+  39_bld House$socknone 1 359386.54 274891.87 487.00
+  40_bld House$socknone 1 512192.73 100557.98 487.00
+  41_bld House$socknone 1 510599.39 99153.70 487.00
+  42_bld House$socknone 1 389156.35 276711.46 487.00
+  43_bld House$socknone 1 390423.66 278227.70 487.00
+  44_bld House$socknone 1 510832.00 195041.44 487.00
+  45_bld House$socknone 1 512108.38 196550.03 487.00
+  46_bld House$socknone 1 498206.35 52060.50 487.00
+  47_bld House$socknone 1 499482.52 53569.27 487.00
+  48_bld House$AirdromeBarrelBlock1 1 337814.99 675449.83 360.00
+  49_bld House$AirdromeTank1 1 336884.50 675430.09 360.00
+  50_bld House$AirdromeBarrelBlock1 1 337804.40 675434.09 360.00
+  51_bld House$AirdromeTank1 1 338478.98 676400.90 360.00
+  52_bld House$AirdromeBarrelBlock2 1 338467.58 676404.86 360.00
+[StaticCamera]
+[Bridge]
+[House]
+[FrontMarker]
+  FrontMarker0 206307.06 243375.82 1
+  FrontMarker1 296960.03 45360.68 1
+  FrontMarker2 486253.05 300702.12 1
+  FrontMarker3 246649.30 503772.56 1
+  FrontMarker4 413400.97 278125.30 1
+  FrontMarker5 309392.53 645133.81 1
+  FrontMarker6 301631.44 405409.08 1
+  FrontMarker7 364879.03 584562.50 1
+  FrontMarker8 387130.11 432019.44 1
+  FrontMarker9 416627.81 420835.88 1
+  FrontMarker10 265246.69 535515.62 1
+  FrontMarker11 295496.90 457867.56 1
+  FrontMarker12 268331.50 475486.42 1
+  FrontMarker13 267292.08 607590.90 1
+  FrontMarker14 507002.94 340862.12 1
+  FrontMarker15 297949.47 356273.84 1
+  FrontMarker16 273159.53 483427.88 1
+  FrontMarker17 142878.84 25516.28 1
+  FrontMarker18 480783.86 288888.83 1
+  FrontMarker19 360183.69 275593.47 1
+  FrontMarker20 511396.06 99855.84 1
+  FrontMarker21 389790.00 277469.58 1
+  FrontMarker22 511470.19 195795.74 1
+  FrontMarker23 498844.44 52814.88 1
+  FrontMarker24 190775.54 244890.27 1
+  FrontMarker25 506767.63 294149.76 1
+  FrontMarker26 305201.00 44465.50 1
+  FrontMarker27 472545.58 169532.34 1
+  FrontMarker28 277212.44 446678.76 1
+  FrontMarker29 393372.66 295891.38 1
+  FrontMarker30 517209.11 238416.07 1
+  FrontMarker31 272877.00 484874.00 1
+  FrontMarker32 268301.00 536289.00 1
+  FrontMarker33 329300.00 643500.00 2
+  FrontMarker34 328500.00 643100.00 2
+  FrontMarker35 240000.00 710000.00 2
+  FrontMarker36 380000.00 710000.00 2
+  FrontMarker37 370000.00 710000.00 2
+  FrontMarker38 250000.00 710000.00 2
+  FrontMarker39 514900.00 102200.00 1
+  FrontMarker40 516600.00 110600.00 1
+  FrontMarker41 240000.00 30000.00 1
+  FrontMarker42 250000.00 30000.00 1
+  FrontMarker43 370000.00 10000.00 1
+  FrontMarker44 380000.00 10000.00 1

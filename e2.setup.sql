@@ -1015,7 +1015,7 @@ insert  into `airbases`(`Airbase_Name`,`Map`,`Airbase_Type`,`Radio_Lights`,`ATC_
 ('Bacolod Airbase','Philippines',339,0,'normal','Left Base',0,390401.38,278019.38,389178.63,276919.78,'','n',0),
 ('Butuan Airbase','Philippines',339,0,'normal','Left Base',0,512055.13,196315.44,510885.25,195276.03,'','n',0),
 ('Alabel Airbase','Philippines',339,0,'normal','Left Base',0,499432.53,53337.55,498256.34,52292.22,'','n',0),
-('Ulugan Seaplane Airbase','Philippines',20051,0,'landingpoint','Left Base',0,189650.75,246366.53,191940.19,242463.37,'','n',0),
+('Ulugan Seaplane Airbase','Philippines',20051,0,'landingpoint','Left Base',0,191750.43,242544.25,189800.66,247236.29,'','n',0),
 ('Leyte Seaplane Airbase','Philippines',20053,0,'landingpoint','Left Base',0,509054.95,294115.3,504480.31,294184.22,'','n',0),
 ('Balanguingui Seaplane Airbase','Philippines',20052,0,'landingpoint','Left Base',0,303221,44481,307181,44450,'','n',0),
 ('Cagayan de Oro Seaplane Airbase','Philippines',20056,0,'landingpoint','Left Base',0,472986.44,171308.02,472104.73,167756.67,'','n',0),

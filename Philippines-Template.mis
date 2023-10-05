@@ -140,6 +140,19 @@
   USA_RS_017z22
   USA_RS_017z23
   USN_VP_10210
+  IJN_AG_265z00
+  IJN_AG_265z01
+  IJN_AG_265z02
+  IJN_AG_265z20
+  IJN_AG_265z21
+  IJN_AG_653_VT03
+  IJN_AG_653_VT00
+  IJN_AG_653_VB01
+  IJN_AG_653_VB02
+  IJN_AG_653_VB03
+  IJN_AG_653_VT01
+  IJN_AG_653_VB00
+  IJN_AG_265z03
 [USA_FG_024_FS_003z10]
   Planes 4
   Skill 1
@@ -499,8 +512,8 @@
   Fuel 100
   weapons default
 [USN_VP_10101_Way]
-  NORMFLY 304585.22 43888.52 500.00 300.00 &0
-  LANDING 305961.06 44294.73 0 0 &0
+  NORMFLY 189953.82 244327.65 500.00 300.00 &0
+  LANDING 190532.78 245157.08 0 0 &0
 [USN_VP_10102]
   Planes 4
   Skill 1
@@ -508,8 +521,8 @@
   Fuel 100
   weapons default
 [USN_VP_10102_Way]
-  NORMFLY 304019.94 44162.05 500.00 300.00 &0
-  LANDING 305961.06 44294.73 0 0 &0
+  NORMFLY 189514.85 244543.60 500.00 300.00 &0
+  LANDING 190496.89 245185.37 0 0 &0
 [USN_VP_10103]
   Planes 4
   Skill 1
@@ -699,8 +712,8 @@
   Fuel 100
   weapons default
 [IJN_AG_204z02_Way]
-  NORMFLY 190913.22 244629.10 500.00 300.00 &0
-  LANDING 190547.66 245264.02 0 0 &0
+  NORMFLY 314852.31 38248.47 500.00 300.00 &0
+  LANDING 305908.61 44283.54 0 0 &0
 [IJN_AG_204z03]
   Planes 4
   Skill 1
@@ -708,8 +721,8 @@
   Fuel 100
   weapons default
 [IJN_AG_204z03_Way]
-  NORMFLY 191176.94 244786.71 500.00 300.00 &0
-  LANDING 190547.66 245264.02 0 0 &0
+  NORMFLY 315367.69 39675.62 500.00 300.00 &0
+  LANDING 305947.99 44259.06 0 0 &0
 [IJN_AG_1001z20]
   Planes 2
   Skill 1
@@ -907,8 +920,8 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z00_Way]
-  NORMFLY 142385.41 24543.92 500.00 300.00 &0
-  LANDING 142120.69 25008.19 0 0 &0
+  NORMFLY 510739.83 197177.22 500.00 300.00 &0
+  LANDING 511010.39 195234.08 0 0 &0
 [USA_FG_035_FS_039z01]
   Planes 4
   Skill 1
@@ -916,8 +929,8 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z01_Way]
-  NORMFLY 142650.45 24514.69 500.00 300.00 &0
-  LANDING 142120.69 25008.19 0 0 &0
+  NORMFLY 509573.92 196640.72 500.00 300.00 &0
+  LANDING 510720.73 195203.63 0 0 &0
 [USA_FG_035_FS_039z02]
   Planes 1
   Skill 1
@@ -925,8 +938,8 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z02_Way]
-  NORMFLY 144292.06 24783.17 500.00 300.00 &0
-  LANDING 143636.98 26024.38 0 0 &0
+  NORMFLY 508808.31 194562.37 500.00 300.00 &0
+  LANDING 510898.46 195077.68 0 0 &0
 [12AF_52TCW_316TCG10]
   Planes 2
   Skill 1
@@ -952,8 +965,8 @@
   Fuel 100
   weapons default
 [12AF_52TCW_316TCG20_Way]
-  NORMFLY 143649.11 24551.54 500.00 300.00 &0
-  LANDING 143636.98 26024.38 0 0 &0
+  NORMFLY 508916.21 193931.13 500.00 300.00 &0
+  LANDING 510867.88 194956.60 0 0 &0
 [IJA_F_TS21]
   Planes 3
   Skill 1
@@ -999,6 +1012,123 @@
 [USN_VP_10210_Way]
   NORMFLY 392873.82 295241.16 500.00 300.00 &0
   LANDING 392289.28 295912.69 0 0 &0
+[IJN_AG_265z00]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_265z00_Way]
+  NORMFLY 509872.48 466014.78 500.00 300.00 &0
+  LANDING 508253.19 467142.58 0 0 149_Static 0 &0
+[IJN_AG_265z01]
+  Planes 4
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_265z01_Way]
+  NORMFLY 510185.77 466214.07 500.00 300.00 &0
+  LANDING 508658.68 467248.10 0 0 149_Static 0 &0
+[IJN_AG_265z02]
+  Planes 3
+  Skill 1
+  Class air.A6M2
+  Fuel 100
+  weapons default
+[IJN_AG_265z02_Way]
+  NORMFLY 509523.84 465851.91 500.00 300.00 &0
+  LANDING 508013.82 466984.42 0 0 149_Static 0 &0
+[IJN_AG_265z20]
+  Planes 3
+  Skill 1
+  Class air.A5M4
+  Fuel 100
+  weapons default
+[IJN_AG_265z20_Way]
+  NORMFLY 510125.32 466766.42 500.00 300.00 &0
+  LANDING 509061.96 467441.92 0 0 149_Static 0 &0
+[IJN_AG_265z21]
+  Planes 3
+  Skill 1
+  Class air.A5M4
+  Fuel 100
+  weapons default
+[IJN_AG_265z21_Way]
+  NORMFLY 510167.38 467065.37 500.00 300.00 &0
+  LANDING 509366.53 467570.81 0 0 149_Static 0 &0
+[IJN_AG_653_VT03]
+  Planes 4
+  Skill 1
+  Class air.B5N2
+  Fuel 100
+  weapons default
+[IJN_AG_653_VT03_Way]
+  NORMFLY 509327.30 468589.78 500.00 300.00 &0
+  LANDING 508545.33 467915.34 0 0 149_Static 0 &0
+[IJN_AG_653_VT00]
+  Planes 4
+  Skill 1
+  Class air.B5N2
+  Fuel 100
+  weapons default
+[IJN_AG_653_VT00_Way]
+  NORMFLY 508850.63 468688.89 500.00 300.00 &0
+  LANDING 508200.81 468094.68 0 0 149_Static 0 &0
+[IJN_AG_653_VB01]
+  Planes 4
+  Skill 1
+  Class air.D3A1
+  Fuel 100
+  weapons default
+[IJN_AG_653_VB01_Way]
+  NORMFLY 507359.25 468518.99 500.00 300.00 &0
+  LANDING 507398.48 467665.21 0 0 149_Static 0 &0
+[IJN_AG_653_VB02]
+  Planes 4
+  Skill 1
+  Class air.D3A1
+  Fuel 100
+  weapons default
+[IJN_AG_653_VB02_Way]
+  NORMFLY 507614.11 468537.87 500.00 300.00 &0
+  LANDING 507625.02 467792.63 0 0 149_Static 0 &0
+[IJN_AG_653_VB03]
+  Planes 4
+  Skill 1
+  Class air.D3A1
+  Fuel 100
+  weapons default
+[IJN_AG_653_VB03_Way]
+  NORMFLY 507005.29 468533.15 500.00 300.00 &0
+  LANDING 507039.80 467438.67 0 0 149_Static 0 &0
+[IJN_AG_653_VT01]
+  Planes 4
+  Skill 1
+  Class air.B5N2
+  Fuel 100
+  weapons default
+[IJN_AG_653_VT01_Way]
+  NORMFLY 509953.43 468473.28 500.00 300.00 &0
+  LANDING 509094.04 467799.30 0 0 149_Static 0 &0
+[IJN_AG_653_VB00]
+  Planes 3
+  Skill 1
+  Class air.D3A1
+  Fuel 100
+  weapons default
+[IJN_AG_653_VB00_Way]
+  NORMFLY 506626.84 468528.52 500.00 300.00 &0
+  LANDING 506675.82 467167.13 0 0 149_Static 0 &0
+[IJN_AG_265z03]
+  Planes 4
+  Skill 1
+  Class air.A6M2_21
+  Fuel 100
+  weapons default
+[IJN_AG_265z03_Way]
+  NORMFLY 509579.03 465514.94 500.00 300.00 &0
+  LANDING 507700.80 466823.42 0 0 149_Static 0 &0
 [Chiefs]
   0_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
   1_Chief Ships.USSMcKean 1 0 2 1.0
@@ -1060,9 +1190,6 @@
   57_Chief Vehicles.JapanCarsColumnA 2
   58_Chief Vehicles.JapanCarsColumnC 2
   59_Chief Vehicles.JapanCarsColumnE 2
-  60_Chief Ships.Transport3 2 0 2 1.0
-  61_Chief Ships.Transport3 2 0 2 1.0
-  63_Chief Ships.Transport3 2 0 2 1.0
   64_Chief Vehicles.JapanCarsColumnA 2
   65_Chief Infantry.4-JapInfantry 2
   66_Chief Infantry.4-JapInfantry 2
@@ -1296,17 +1423,6 @@
 [59_Chief_Road]
   329109.47 618464.75 120.00 0 2 1.6666667461395264
   329339.53 618160.94 120.00
-[60_Chief_Road]
-  328125.16 645426.13 120.00 0 4 5.0
-  328700.00 645300.00 120.00
-  329002.00 644998.00 120.00
-  329169.88 644804.06 120.00
-[61_Chief_Road]
-  328952.25 645517.38 120.00 0 2 5.0
-  329775.59 645105.75 120.00
-[63_Chief_Road]
-  264317.00 609957.75 120.00 0 2 5.0
-  264138.25 608701.06 120.00
 [64_Chief_Road]
   267320.06 608779.06 120.00 0 2 2.5
   267696.38 608652.25 120.00
@@ -1564,9 +1680,77 @@
   143_Static vehicles.artillery.Artillery$_50calMG_water_US 1 412768.96 278984.56 425.00 0.0 0 1 1
   144_Static vehicles.artillery.Artillery$_50calMG_water_US 1 473148.40 170633.12 380.00 0.0 0 1 1
   145_Static vehicles.artillery.Artillery$Bofors_40mm_US 1 473793.92 169525.39 380.00 0.0 0 1 1
-  146_Static vehicles.artillery.Artillery$JapInfantryE 2 191681.39 242393.76 440.00 0.0 0 1 1
-  147_Static vehicles.artillery.Artillery$JapInfantryE 2 206629.01 243004.55 440.00 0.0 0 1 1
-  148_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 206389.12 242907.26 440.00 0.0 0 1 1
+  146_Static vehicles.artillery.Artillery$JapInfantryE 2 303471.76 45512.68 440.00 0.0 0 1 1
+  147_Static vehicles.artillery.Artillery$JapInfantryE 2 306381.75 45276.34 440.00 0.0 0 1 1
+  148_Static vehicles.artillery.Artillery$Type98_20mm_JA 2 306160.93 45224.33 440.00 0.0 0 1 1
+  149_Static ships.Ship$IJNCVLGeneric 2 508228.72 467584.57 495.00 0.0 0 2 1.0
+  151_Static ships.Ship$IJNKumaCL 2 506309.78 467299.14 680.00 0.0 0 2 1.0
+  152_Static ships.Ship$Italia0 2 509626.87 467594.23 680.00 0.0 0 2 1.0
+  153_Static ships.Ship$Italia0 2 508235.80 468537.16 680.00 0.0 0 2 1.0
+  150_Static ships.Ship$IJNAkizukiDD42 2 504771.06 467789.90 680.00 0.0 0 2 1.0
+  155_Static ships.Ship$IJNAmatsukazeDD41 2 507830.65 465825.77 680.00 0.0 0 2 1.0
+  157_Static ships.Ship$IJNAmatsukazeDD41 2 511409.76 468625.71 680.00 0.0 0 2 1.0
+  158_Static ships.Ship$IJNArashiDD41 2 504728.20 466677.97 680.00 0.0 0 2 1.0
+  159_Static ships.Ship$IJNKageroDD41 2 508261.48 469694.22 680.00 0.0 0 2 1.0
+  161_Static ships.Ship$Destroyer2 2 506164.76 468917.95 680.00 0.0 0 2 1.0
+  154_Static ships.Ship$Destroyer2 2 510917.70 466575.11 680.00 0.0 0 2 1.0
+  156_Static ships.Ship$IJNKumaCL 2 235507.30 662521.04 680.00 0.0 0 2 1.0
+  162_Static ships.Ship$Italia1 2 236087.54 661522.35 680.00 0.0 0 2 1.0
+  160_Static ships.Ship$Italia0 2 234217.27 663398.72 680.00 0.0 0 2 1.0
+  163_Static ships.Ship$MBoat 2 235681.94 663712.45 680.00 0.0 0 2 1.0
+  164_Static ships.Ship$MBoat 2 237790.98 662799.41 680.00 0.0 0 2 1.0
+  165_Static ships.Ship$IJNKumaCL 2 327155.58 648934.55 590.00 0.0 0 2 1.0
+  166_Static ships.Ship$IJNAkizukiDD42 2 328266.34 648442.21 590.00 0.0 0 2 1.0
+  167_Static ships.Ship$IJNAmatsukazeDD41 2 328620.95 646182.49 590.00 0.0 0 2 1.0
+  168_Static ships.Ship$IJNArashiDD41 2 330670.69 648795.91 590.00 0.0 0 2 1.0
+  169_Static ships.Ship$IJNNowakiDD41 2 328210.99 649701.16 590.00 0.0 0 2 1.0
+  170_Static ships.Ship$IJNYukikazeDD41 2 327087.30 647472.52 590.00 0.0 0 2 1.0
+  171_Static ships.Ship$IJNKageroDD41 2 326272.05 647584.09 590.00 0.0 0 2 1.0
+  172_Static ships.Ship$MBoat 2 327553.60 646964.14 575.00 0.0 0 2 1.0
+  173_Static ships.Ship$MBoat 2 326057.65 649112.97 575.00 0.0 0 2 1.0
+  174_Static ships.Ship$MBoat 2 329575.11 648954.43 575.00 0.0 0 2 1.0
+  175_Static ships.Ship$Transport3 2 328422.08 649171.97 575.00 0.0 0 2 1.0
+  176_Static ships.Ship$Transport3 2 329057.22 648654.71 575.00 0.0 0 2 1.0
+  177_Static ships.Ship$Transport3 2 327465.30 648031.75 575.00 0.0 0 2 1.0
+  178_Static ships.Ship$Transport3 2 328407.78 647220.99 575.00 0.0 0 2 1.0
+  179_Static ships.Ship$Transport3 2 329893.78 648159.59 575.00 0.0 0 2 1.0
+  180_Static ships.Ship$Transport3 2 329387.65 646682.02 575.00 0.0 0 2 1.0
+  181_Static ships.Ship$IJNKumaCL 2 257933.92 613997.93 665.00 0.0 0 2 1.0
+  182_Static ships.Ship$IJNAkizukiDD42 2 258388.27 612071.38 665.00 0.0 0 2 1.0
+  183_Static ships.Ship$IJNAkizukiDD42 2 259390.93 613643.79 665.00 0.0 0 2 1.0
+  184_Static ships.Ship$IJNAkizukiDD42 2 257215.05 611912.20 665.00 0.0 0 2 1.0
+  185_Static ships.Ship$IJNAmatsukazeDD41 2 256092.42 613968.62 665.00 0.0 0 2 1.0
+  186_Static ships.Ship$IJNArashiDD41 2 260109.41 614872.86 665.00 0.0 0 2 1.0
+  187_Static ships.Ship$IJNKageroDD41 2 258082.44 615963.03 665.00 0.0 0 2 1.0
+  188_Static ships.Ship$IJNNowakiDD41 2 256647.43 612931.93 665.00 0.0 0 2 1.0
+  189_Static ships.Ship$MBoat 2 254092.62 612763.94 485.00 0.0 0 2 1.0
+  190_Static ships.Ship$MBoat 2 258092.65 610378.36 485.00 0.0 0 2 1.0
+  191_Static ships.Ship$MBoat 2 259997.16 612310.08 485.00 0.0 0 2 1.0
+  192_Static ships.Ship$MBoat 2 261221.49 613956.12 485.00 0.0 0 2 1.0
+  193_Static ships.Ship$MBoat 2 254650.93 614445.85 485.00 0.0 0 2 1.0
+  194_Static ships.Ship$MBoat 2 256392.20 616608.83 485.00 0.0 0 2 1.0
+  195_Static ships.Ship$IJNYukikazeDD41 2 336559.91 676646.94 500.00 0.0 0 2 1.0
+  196_Static ships.Ship$Transport3 2 336965.100 676886.31 510.00 0.0 0 2 1.0
+  197_Static ships.Ship$Transport3 2 337466.85 677012.30 520.00 0.0 0 2 1.0
+  198_Static ships.Ship$IJNKumaCL 2 471107.32 428280.28 670.00 0.0 0 2 1.0
+  199_Static ships.Ship$IJNAkizukiDD42 2 478509.17 427259.28 490.00 0.0 0 2 1.0
+  201_Static ships.Ship$IJNAkizukiDD42 2 473062.59 422988.03 490.00 0.0 0 2 1.0
+  202_Static ships.Ship$IJNAkizukiDD42 2 475298.71 427813.03 490.00 0.0 0 2 1.0
+  203_Static ships.Ship$IJNAkizukiDD42 2 474919.75 422731.05 490.00 0.0 0 2 1.0
+  204_Static ships.Ship$IJNAmatsukazeDD41 2 476395.53 423501.49 490.00 0.0 0 2 1.0
+  200_Static ships.Ship$IJNArashiDD41 2 472626.61 425391.78 490.00 0.0 0 2 1.0
+  205_Static ships.Ship$SeaPlaneTender 2 473659.70 429889.78 490.00 0.0 0 2 1.0
+  207_Static ships.Ship$MBoat 2 470393.49 426811.88 485.00 0.0 0 2 1.0
+  208_Static ships.Ship$MBoat 2 470300.62 425567.52 485.00 0.0 0 2 1.0
+  209_Static ships.Ship$MO4 2 471047.34 423614.69 485.00 0.0 0 2 1.0
+  210_Static ships.Ship$MO4 2 477168.37 425720.53 485.00 0.0 0 2 1.0
+  211_Static ships.Ship$Transport3 2 474251.33 424486.40 485.00 0.0 0 2 1.0
+  212_Static ships.Ship$Transport3 2 475336.69 425449.58 485.00 0.0 0 2 1.0
+  213_Static ships.Ship$Transport3 2 471220.66 425858.41 485.00 0.0 0 2 1.0
+  214_Static ships.Ship$Transport3 2 472551.10 427722.40 485.00 0.0 0 2 1.0
+  215_Static ships.Ship$Transport3 2 473915.99 429046.99 485.00 0.0 0 2 1.0
+  216_Static ships.Ship$Transport3 2 476606.16 426730.48 485.00 0.0 0 2 1.0
+  217_Static ships.Ship$Transport3 2 474155.01 426657.63 485.00 0.0 0 2 1.0
 [Buildings]
   0_bld House$Crater500 1 296008.90 457870.29 494.79
   1_bld House$Hangar_Med2 1 295977.25 457756.45 415.00

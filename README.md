@@ -9,18 +9,13 @@ An alternate history campaign following the invasion of the Philippines that cou
 
 Using IL-2 Sturmovik 1946 with the mod HSFX 7.0.3
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ### Changes
 
 ### The Through Ticket
 After the sudden strike on Pearl Harbor, the Philippines, and Guam, the United States is organizing a defense for the mainland and its territories under plan Rainbow-2. There is no greater threat to the United States than the prospect of a Japanese invasion of its territories. The Philippines are the first line of defense and The Pacific Bridgehead for any and all operations moving forward into the war.
 
 The "Through Ticket To Manila"is the grand strategy of War Plan Orange that entails advancing the US fleet to the Philippines as early as possible in order to curtail Japans time for conquests and its ability to brace for battle. The possession of the Philippines will ease the logistical risk of projecting power and significantly shorten the war by giving the United States a ladder to Japan.
+
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1925_Through_Ticket_Manila.png?raw=true)
 
 ###  Dai-ichi dan (第一段)
@@ -43,6 +38,12 @@ United States ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readm
  + [ ] Hold Manila or Mindanao until relief force arrives (at least 1 control point)
  + [ ] Sink Japanese Transport Fleet (80% of ships)
 
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
 
 Scenery:
 + Added Intramuros "old city" to Manilla

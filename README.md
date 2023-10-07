@@ -5,6 +5,8 @@ Philippines 1941 (Eschate 2)
 
 An alternate history campaign following the invasion of the Philippines that could have become more complicated or problematic under different, but nevertheless historically possible conditions if the United States had not abandoned them.
 
+![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readme/SEOW.E2.POSTER1a.png?raw=true)
+
 Using IL-2 Sturmovik 1946 with the mod HSFX 7.0.3
 
 

@@ -9,8 +9,6 @@ An alternate history campaign following the invasion of the Philippines that cou
 
 Using IL-2 Sturmovik 1946 with the mod HSFX 7.0.3
 
-### Changes
-
 ### The Through Ticket
 After the sudden strike on Pearl Harbor, the Philippines, and Guam, the United States is organizing a defense for the mainland and its territories under plan Rainbow-2. There is no greater threat to the United States than the prospect of a Japanese invasion of its territories. The Philippines are the first line of defense and The Pacific Bridgehead for any and all operations moving forward into the war.
 
@@ -39,11 +37,7 @@ United States ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readm
  + [ ] Sink Japanese Transport Fleet (80% of ships)
 
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
+### Changes
 
 Scenery:
 + Added Intramuros "old city" to Manilla

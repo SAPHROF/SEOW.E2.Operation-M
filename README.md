@@ -113,7 +113,7 @@ Additional non-1941 Airfield:
 		Kuma CL (Japanese)				All Light 
 		Zara & 									All Heavy
 
-######Wake Island Relief Force:
+#####Wake Island Relief Force:
 + Task Force 11, 14, 16 will reinforce the Philippines instead of Wake Island
 
 

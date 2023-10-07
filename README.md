@@ -3,23 +3,30 @@
 Scoreched Earth Online War 
 Philippines 1941 (Eschate 2) 
 
-An alternate history campaign following the invasion of the Philippines that could have become more complicated or problematic under different, but nevertheless historically possible conditions if the United States had not abandoned them.
+An alternate history campaign following the invasion of the Philippines that could have become more complicated or problematic under different, but nevertheless historically possible conditions if the United States had not abandoned the United States Army Forces in the Far East (USAFFE).
 
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readme/SEOW.E2.POSTER1a.png?raw=true)
 
 Using IL-2 Sturmovik 1946 with the mod HSFX 7.0.3
 
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+### Changes
 
 ### The Through Ticket
 After the sudden strike on Pearl Harbor, the Philippines, and Guam, the United States is organizing a defense for the mainland and its territories under plan Rainbow-2. There is no greater threat to the United States than the prospect of a Japanese invasion of its territories. The Philippines are the first line of defense and The Pacific Bridgehead for any and all operations moving forward into the war.
 
-The "Through Ticket To Manilla"is the grand strategy of War Plan Orange that entails advancing the US fleet to the Philippines as early as possible in order to curtail Japans time for conquests and its ability to brace for battle. The possession of the Philippines will ease the logistical risk of projecting power and significantly shorten the war by giving the United States a ladder to Japan.
+The "Through Ticket To Manila"is the grand strategy of War Plan Orange that entails advancing the US fleet to the Philippines as early as possible in order to curtail Japans time for conquests and its ability to brace for battle. The possession of the Philippines will ease the logistical risk of projecting power and significantly shorten the war by giving the United States a ladder to Japan.
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1925_Through_Ticket_Manila.png?raw=true)
 
 ###  Dai-ichi dan (第一段)
 The war in the Pacific will be a long one, and Japans needs mastery of both the Western and South Pacific to stockpile natural resources after its foreign sources of supply were cut. Eviction of the American, British, and Dutch air and sea power is a must for Japan to create an outer defensive perimeter, one favorable to striking a decisive blow with both a strong combined fleet and capable land-based air force.
 
-Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain will be the first phase of operations. The Attack on Pearl Harbour while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan can continue on succesfully.
+Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain will be the first phase of operations. The Attack on Pearl Harbour while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan can continue on successfully.
 
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1940_Japanese_Operations.png?raw=true)
 
@@ -33,19 +40,8 @@ Imperial Japan  ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Rea
 
 United States ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readme/Europe-USA.png?raw=true)
 + War Plan Orange (Phase II)
- + [ ] Hold Manilla or Mindanao until relief force arrives (at least 1 control point)
+ + [ ] Hold Manila or Mindanao until relief force arrives (at least 1 control point)
  + [ ] Sink Japanese Transport Fleet (80% of ships)
-
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-### Changes
-
-
 
 
 Scenery:

@@ -1340,6 +1340,7 @@
   75_Chief Vehicles.Bicycle 2
   91_Chief Vehicles.USACarsColumnC 1
   92_Chief Vehicles.USACarsColumnB 1
+  93_Chief Vehicles.US_Supply_Cpy 1
   94_Chief Vehicles.JapanCarsColumnC 2
   95_Chief Vehicles.3-HART_T94_37_ch2 2
 [0_Chief_Road]
@@ -1640,6 +1641,9 @@
   327500.00 564700.00 20.00
   327900.00 565100.00 20.00
   328140.47 565141.81 120.00
+[93_Chief_Road]
+  296082.34 464830.31 120.00 0 2 2.6388890743255615
+  295870.22 465394.66 120.00
 [94_Chief_Road]
   328319.13 643306.00 120.00 0 2 2.5
   328420.75 642975.25 120.00

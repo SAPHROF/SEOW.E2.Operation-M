@@ -1,0 +1,125 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 13.000002
+  CloudType 0
+  CloudHeight 1000.0
+  army 1
+  playerNum 0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 14
+[WEATHER]
+  WindDirection 0.0
+  WindSpeed 0.0
+  Gust 0
+  Turbulence 0
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 0
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 100
+  MDS_Radar_ShipRadar_MinHeight 100
+  MDS_Radar_ShipRadar_MaxHeight 5000
+  MDS_Radar_ShipSmallRadar_MaxRange 25
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 2000
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 1500
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 0
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 0
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 0
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 1.0
+[RespawnTime]
+  Bigship 1800
+  Ship 1800
+  Aeroanchored 1800
+  Artillery 1800
+  Searchlight 1800
+[Chiefs]
+  0_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
+  1_Chief Ships.USSMcKean 1 0 2 1.0
+  2_Chief Ships.USSIndianapolisCA35 1 0 2 1.0
+  3_Chief Ships.Transport2 1 0 2 1.0
+  4_Chief Ships.USSWardDD139 1 0 2 1.0
+  17_Chief Ships.MAS501UNP 1 0 2 1.0
+  18_Chief Ships.MAS501UNP 1 0 2 1.0
+  19_Chief Ships.MAS501UNP 1 0 2 1.0
+  29_Chief Ships.Transport2 1 0 2 1.0
+  50_Chief Vehicles.USACarsColumnE 1
+  51_Chief Vehicles.USACarsColumnE 1
+  53_Chief Vehicles.USACarsColumnB 1
+  79_Chief Infantry.4-USInfantry 1
+  82_Chief Vehicles.4-DiamondT_US 1
+  83_Chief Vehicles.Bulldozer_US 1
+  67_Chief Trains.Germany_EquipmentCTrain/AA 1
+  72_Chief Armor.3-M3Lee 1
+  93_Chief Vehicles.US_Supply_Cpy 1
+[0_Chief_Road]
+  258880.95 439095.84 120.00 0 2 5.555555820465088
+  258748.58 440158.09 120.00
+[1_Chief_Road]
+  258463.09 438709.91 120.00 0 2 9.260000228881836
+  258360.91 440022.63 120.00
+[2_Chief_Road]
+  259420.36 438287.19 120.00 0 2 5.555555820465088
+  259243.67 440009.75 120.00
+[3_Chief_Road]
+  361468.13 477428.06 120.00 0 2 1.7899999618530273
+  360456.88 478131.06 120.00
+[4_Chief_Road]
+  362907.09 477364.16 120.00 0 2 5.555555820465088
+  360268.53 479092.50 120.00
+[17_Chief_Road]
+  293474.91 462693.56 120.00 0 2 8.333333969116211
+  293782.69 462790.03 120.00
+[18_Chief_Road]
+  292667.38 464244.06 120.00 0 2 8.333333969116211
+  292419.75 463957.75 120.00
+[19_Chief_Road]
+  292574.13 458747.94 120.00 0 2 8.333333969116211
+  292757.59 459599.66 120.00
+[29_Chief_Road]
+  272843.97 440956.03 120.00 0 2 2.777777910232544
+  272497.63 443726.66 120.00
+[50_Chief_Road]
+  296319.34 458340.06 120.00 0 2 2.6388890743255615
+  296107.94 458439.75 120.00
+[51_Chief_Road]
+  295494.19 464431.53 120.00 0 2 2.6388890743255615
+  295499.09 464768.81 120.00
+[53_Chief_Road]
+  247289.42 503694.03 120.00 0 2 2.6388890743255615
+  247205.64 503973.34 120.00
+[79_Chief_Road]
+  267785.41 475984.94 120.00 0 2 1.0
+  267934.66 476145.88 120.00
+[82_Chief_Road]
+  295693.50 462104.75 120.00 0 2 2.6388890743255615
+  295508.69 462192.81 120.00
+[83_Chief_Road]
+  295317.34 457766.25 120.00 0 2 1.6666667461395264
+  295186.25 457776.03 120.00
+[67_Chief_Road]
+  296100.00 460100.00 20.00 0 3 5.555555820465088
+  295900.00 460300.00 20.00
+  295900.00 461100.00 20.00
+[72_Chief_Road]
+  296988.97 466441.41 120.00 0 2 1.9444445371627808
+  296864.25 466787.88 120.00
+[93_Chief_Road]
+  296082.34 464830.31 120.00 0 2 2.6388890743255615
+  295870.22 465394.66 120.00
+[NStationary]
+[Buildings]
+[Bridge]
+[House]
+  MmwZ8 2

@@ -1,0 +1,699 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 7.0
+  WEAPONSCONSTANT 1
+  CloudType 4
+  CloudHeight 1032.0
+[SEASON]
+  Year 1941
+  Month 12
+  Day 17
+[WEATHER]
+  WindDirection 132.0
+  WindSpeed 6.0
+  Gust 0
+  Turbulence 0
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 30
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 0
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 1
+  MDS_Radar_ShipRadar_MinHeight 1
+  MDS_Radar_ShipRadar_MaxHeight 1
+  MDS_Radar_ShipSmallRadar_MaxRange 1
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 0
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 100
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 1
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 1
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 1
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 12.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 12.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 12.0
+[RespawnTime]
+  Bigship 14800
+  Ship 14800
+  Aeroanchored 14800
+  Artillery 14800
+  Searchlight 14800
+[Wing]
+[Chiefs]
+  0_Chief Trains.Germany_CargoTrain/AA 1
+  1_Chief Trains.Germany_EquipmentCTrain/AA 1
+[0_Chief_Road]
+  285900.00 483100.00 20.00 0 2 5.55555582
+  285700.00 483100.00 20.00
+[1_Chief_Road]
+  297500.00 458700.00 0.00 0 2 5.55555582
+  297300.00 458900.00 20.00
+[NStationary]
+  0_Static vehicles.artillery.Artillery$M3A1Stuart 1 279470.38 484871.66 360.00 0.0 56 0 1
+  1_Static vehicles.artillery.Artillery$M3A1Stuart 1 279470.38 484961.66 360.00 0.0 56 0 1
+  2_Static vehicles.artillery.Artillery$M3A1Stuart 1 279380.38 484781.66 360.00 0.0 56 0 1
+  3_Static vehicles.artillery.Artillery$M3A1Stuart 1 279650.38 484871.66 360.00 0.0 56 0 1
+  4_Static vehicles.artillery.Artillery$M3A1Stuart 1 335825.09 580379.00 360.00 0.0 56 0 1
+  5_Static vehicles.artillery.Artillery$M3A1Stuart 1 335825.09 580469.00 360.00 0.0 56 0 1
+  6_Static vehicles.artillery.Artillery$M3A1Stuart 1 335735.09 580289.00 360.00 0.0 56 0 1
+  7_Static vehicles.artillery.Artillery$M3A1Stuart 1 336005.09 580379.00 360.00 0.0 56 0 1
+  8_Static vehicles.artillery.Artillery$M3A1Stuart 1 515405.88 102671.39 360.00 0.0 91 0 1
+  9_Static vehicles.artillery.Artillery$M3A1Stuart 1 515405.88 102761.39 360.00 0.0 91 0 1
+  10_Static vehicles.artillery.Artillery$M3A1Stuart 1 515315.88 102581.39 360.00 0.0 91 0 1
+  11_Static vehicles.artillery.Artillery$M3A1Stuart 1 515585.88 102671.39 360.00 0.0 91 0 1
+  12_Static vehicles.artillery.Artillery$M3Lee 1 514828.31 102615.58 360.00 0.0 228 0 1
+  13_Static vehicles.artillery.Artillery$M3Lee 1 514828.31 102705.58 360.00 0.0 228 0 1
+  14_Static vehicles.artillery.Artillery$M3Lee 1 514738.31 102525.58 360.00 0.0 228 0 1
+  15_Static vehicles.artillery.Artillery$M3Lee 1 296988.97 466441.41 360.00 0.0 228 0 1
+  16_Static vehicles.artillery.Artillery$M3Lee 1 296988.97 466531.41 360.00 0.0 228 0 1
+  17_Static vehicles.artillery.Artillery$M3Lee 1 296898.97 466351.41 360.00 0.0 228 0 1
+  18_Static vehicles.artillery.Artillery$HaGoRadio 2 329109.47 618554.75 360.00 0.0 0 0 1
+  19_Static vehicles.stationary.Stationary$HoHa 2 329019.47 618374.75 360.00 0.0
+  20_Static vehicles.stationary.Stationary$Truck_Type94 2 329289.47 618464.75 360.00 0.0
+  21_Static vehicles.stationary.Stationary$Truck_Type94 2 329123.00 618556.00 360.00 0.0
+  22_Static vehicles.stationary.Stationary$Truck_Type94 2 329123.00 618417.00 360.00 0.0
+  23_Static vehicles.stationary.Stationary$Kurogane 2 329073.00 618419.00 360.00 0.0
+  24_Static vehicles.stationary.Stationary$Kurogane 2 308520.72 644728.88 360.00 0.0
+  25_Static vehicles.stationary.Stationary$Truck_Type94 2 308430.72 644548.88 360.00 0.0
+  26_Static vehicles.stationary.Stationary$HoHa 2 308700.72 644638.88 360.00 0.0
+  27_Static vehicles.stationary.Stationary$Truck_Type94 2 308464.00 644690.00 360.00 0.0
+  28_Static vehicles.stationary.Stationary$Truck_Type94 2 308488.00 644609.00 360.00 0.0
+  29_Static vehicles.stationary.Stationary$Kurogane 2 329860.72 618127.88 360.00 0.0
+  30_Static vehicles.stationary.Stationary$Truck_Type94 2 329770.72 617947.88 360.00 0.0
+  31_Static vehicles.stationary.Stationary$HoHa 2 330040.72 618037.88 360.00 0.0
+  32_Static vehicles.stationary.Stationary$Truck_Type94 2 329866.00 618065.00 360.00 0.0
+  33_Static vehicles.stationary.Stationary$Truck_Type94 2 329798.00 618070.00 360.00 0.0
+  34_Static vehicles.stationary.Stationary$Kurogane 2 329518.88 643494.50 360.00 0.0
+  35_Static vehicles.stationary.Stationary$HoHa 2 329428.88 643314.50 360.00 0.0
+  36_Static vehicles.stationary.Stationary$HoHa 2 329698.88 643404.50 360.00 0.0
+  37_Static vehicles.stationary.Stationary$Truck_Type94 2 329471.00 643321.00 360.00 0.0
+  38_Static vehicles.stationary.Stationary$Truck_Type94 2 329549.00 643439.00 360.00 0.0
+  39_Static vehicles.stationary.Stationary$Truck_Type94 2 329516.00 643439.00 360.00 0.0
+  40_Static vehicles.stationary.Stationary$Truck_Type94 2 329535.00 643390.00 360.00 0.0
+  41_Static vehicles.stationary.Stationary$Truck_Type94 2 329515.00 643418.00 360.00 0.0
+  42_Static vehicles.stationary.Stationary$Kurogane 2 267320.06 608869.06 360.00 0.0
+  43_Static vehicles.stationary.Stationary$Truck_Type94 2 267230.06 608689.06 360.00 0.0
+  44_Static vehicles.stationary.Stationary$HoHa 2 267500.06 608779.06 360.00 0.0
+  45_Static vehicles.stationary.Stationary$Truck_Type94 2 267236.00 608837.00 360.00 0.0
+  46_Static vehicles.stationary.Stationary$Truck_Type94 2 267432.00 608761.00 360.00 0.0
+  47_Static vehicles.artillery.Artillery$JapBazookaE 2 267041.91 608533.69 360.00 0.0 125 0 1
+  48_Static vehicles.artillery.Artillery$JapInfantryE 2 267041.91 608623.69 360.00 0.0 125 0 1
+  49_Static vehicles.artillery.Artillery$JapInfantryE 2 266951.91 608443.69 360.00 0.0 125 0 1
+  50_Static vehicles.artillery.Artillery$JapInfantryE 2 267221.91 608533.69 360.00 0.0 125 0 1
+  51_Static vehicles.artillery.Artillery$JapBazookaE 2 268915.28 607630.56 360.00 0.0 125 0 1
+  52_Static vehicles.artillery.Artillery$JapInfantryE 2 268915.28 607720.56 360.00 0.0 125 0 1
+  53_Static vehicles.artillery.Artillery$JapInfantryE 2 268825.28 607540.56 360.00 0.0 125 0 1
+  54_Static vehicles.artillery.Artillery$JapInfantryE 2 269095.28 607630.56 360.00 0.0 125 0 1
+  55_Static vehicles.stationary.Stationary$HART_DE_2 2 325474.47 632120.44 360.00 0.0
+  56_Static vehicles.stationary.Stationary$Motorcycle 0 294288.50 487284.72 360.00 0.0
+  57_Static vehicles.stationary.Stationary$Motorcycle 0 473818.81 336163.50 360.00 0.0
+  58_Static vehicles.stationary.Stationary$Chariot 2 331884.44 641571.31 360.00 0.0
+  59_Static vehicles.stationary.Stationary$Chariot 2 331884.44 641661.31 360.00 0.0
+  60_Static vehicles.stationary.Stationary$Chariot 2 331794.44 641481.31 360.00 0.0
+  61_Static vehicles.stationary.Stationary$Chariot 2 332064.44 641571.31 360.00 0.0
+  62_Static vehicles.stationary.Stationary$KitchenDE_H 2 308821.88 645332.88 360.00 0.0
+  63_Static vehicles.stationary.Stationary$KitchenDE_H 2 338460.34 676371.63 360.00 0.0
+  64_Static vehicles.stationary.Stationary$HART_DE_2 2 328336.72 618321.38 360.00 0.0
+  65_Static vehicles.stationary.Stationary$HART_DE_2 2 364357.22 585148.75 360.00 0.0
+  66_Static vehicles.stationary.Stationary$HART_DE_2 2 333812.72 592431.00 360.00 0.0
+  67_Static vehicles.stationary.Stationary$Motorcycle 0 407680.59 425668.97 360.00 0.0
+  68_Static vehicles.stationary.Stationary$Kurogane 2 328319.13 643396.00 360.00 0.0
+  69_Static vehicles.stationary.Stationary$HoHa 2 328229.13 643216.00 360.00 0.0
+  70_Static vehicles.stationary.Stationary$HoHa 2 328499.13 643306.00 360.00 0.0
+  71_Static vehicles.stationary.Stationary$Truck_Type94 2 328266.00 643230.00 360.00 0.0
+  72_Static vehicles.stationary.Stationary$Truck_Type94 2 328361.00 643346.00 360.00 0.0
+  73_Static vehicles.stationary.Stationary$Truck_Type94 2 328265.00 643417.00 360.00 0.0
+  74_Static vehicles.stationary.Stationary$Truck_Type94 2 328312.00 643301.00 360.00 0.0
+  75_Static vehicles.stationary.Stationary$Truck_Type94 2 328391.00 643254.00 360.00 0.0
+  76_Static vehicles.stationary.Stationary$HART_DE_2 2 325975.97 622572.00 360.00 0.0
+  77_Static vehicles.artillery.Artillery$HaGo 2 329234.72 643237.56 360.00 0.0 100 0 1
+  78_Static vehicles.artillery.Artillery$HaGo 2 329234.72 643327.56 360.00 0.0 100 0 1
+  79_Static vehicles.artillery.Artillery$HaGo 2 329144.72 643147.56 360.00 0.0 100 0 1
+  80_Static vehicles.artillery.Artillery$HaGo 2 329414.72 643237.56 360.00 0.0 100 0 1
+  81_Static vehicles.stationary.Stationary$WillisMBtc_US 1 290484.22 457878.13 360.00 0.0
+  82_Static vehicles.stationary.Stationary$DiamondT_US 1 290394.22 457698.13 360.00 0.0
+  83_Static vehicles.stationary.Stationary$DiamondT_US 1 290664.22 457788.13 360.00 0.0
+  84_Static vehicles.stationary.Stationary$DiamondT_US 1 290535.00 457762.00 360.00 0.0
+  85_Static vehicles.stationary.Stationary$DiamondT_US 1 290595.00 457882.00 360.00 0.0
+  86_Static vehicles.stationary.Stationary$DiamondT_US 1 290419.00 457811.00 360.00 0.0
+  87_Static vehicles.stationary.Stationary$DiamondT_US 1 290562.00 457743.00 360.00 0.0
+  88_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 290595.00 457764.00 360.00 0.0
+  89_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 290472.00 457735.00 360.00 0.0
+  90_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 290463.00 457701.00 360.00 0.0
+  91_Static vehicles.stationary.Stationary$WillisMBtc_US 1 247289.42 503784.03 360.00 0.0
+  92_Static vehicles.stationary.Stationary$DiamondT_US 1 247199.42 503604.03 360.00 0.0
+  93_Static vehicles.stationary.Stationary$DiamondT_US 1 247469.42 503694.03 360.00 0.0
+  94_Static vehicles.stationary.Stationary$DiamondT_US 1 247264.00 503609.00 360.00 0.0
+  95_Static vehicles.stationary.Stationary$DiamondT_US 1 247318.00 503761.00 360.00 0.0
+  96_Static vehicles.stationary.Stationary$DiamondT_US 1 247268.00 503764.00 360.00 0.0
+  97_Static vehicles.stationary.Stationary$DiamondT_US 1 247406.00 503727.00 360.00 0.0
+  98_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 247303.00 503737.00 360.00 0.0
+  99_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 247327.00 503656.00 360.00 0.0
+  100_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 247388.00 503611.00 360.00 0.0
+  101_Static vehicles.stationary.Stationary$WillisMBtc_US 1 514914.78 102441.47 360.00 0.0
+  102_Static vehicles.stationary.Stationary$DiamondT_US 1 514824.78 102261.47 360.00 0.0
+  103_Static vehicles.stationary.Stationary$DiamondT_US 1 515094.78 102351.47 360.00 0.0
+  104_Static vehicles.stationary.Stationary$DiamondT_US 1 514977.00 102460.00 360.00 0.0
+  105_Static vehicles.stationary.Stationary$DiamondT_US 1 514917.00 102269.00 360.00 0.0
+  106_Static vehicles.stationary.Stationary$DiamondT_US 1 514937.00 102468.00 360.00 0.0
+  107_Static vehicles.stationary.Stationary$DiamondT_US 1 515015.00 102378.00 360.00 0.0
+  108_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 514830.00 102463.00 360.00 0.0
+  109_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 515001.00 102329.00 360.00 0.0
+  110_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 515030.00 102274.00 360.00 0.0
+  111_Static vehicles.stationary.Stationary$Bulldozer_US 1 295317.34 457766.25 360.00 0.0
+  112_Static vehicles.stationary.Stationary$Bulldozer_US 1 295317.34 457856.25 360.00 0.0
+  113_Static vehicles.stationary.Stationary$Bulldozer_US 1 295227.34 457676.25 360.00 0.0
+  114_Static vehicles.stationary.Stationary$Bulldozer_US 1 295497.34 457766.25 360.00 0.0
+  115_Static vehicles.stationary.Stationary$WillisMBtc_US 1 326174.13 564840.69 360.00 0.0
+  116_Static vehicles.stationary.Stationary$DiamondT_US 1 326084.13 564660.69 360.00 0.0
+  117_Static vehicles.stationary.Stationary$DiamondT_US 1 326354.13 564750.69 360.00 0.0
+  118_Static vehicles.stationary.Stationary$DiamondT_US 1 326271.00 564833.00 360.00 0.0
+  119_Static vehicles.stationary.Stationary$DiamondT_US 1 326273.00 564786.00 360.00 0.0
+  120_Static vehicles.stationary.Stationary$DiamondT_US 1 326164.00 564828.00 360.00 0.0
+  121_Static vehicles.stationary.Stationary$DiamondT_US 1 326259.00 564736.00 360.00 0.0
+  122_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 326260.00 564846.00 360.00 0.0
+  123_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 326156.00 564814.00 360.00 0.0
+  124_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 326290.00 564851.00 360.00 0.0
+  125_Static vehicles.stationary.Stationary$WillisMBt_US 1 290654.09 458139.38 360.00 0.0
+  126_Static vehicles.stationary.Stationary$WillisMBt_US 1 290564.09 457959.38 360.00 0.0
+  127_Static vehicles.artillery.Artillery$M16_US 1 290834.09 458049.38 360.00 0.0 0 0 1
+  128_Static vehicles.stationary.Stationary$DiamondT_US 1 290588.00 457971.00 360.00 0.0
+  129_Static vehicles.stationary.Stationary$DiamondT_US 1 290736.00 458079.00 360.00 0.0
+  130_Static vehicles.stationary.Stationary$Chevrolet_radio_US 1 290699.00 458110.00 360.00 0.0
+  131_Static vehicles.stationary.Stationary$WillisMBt_US 1 271038.19 481954.44 360.00 0.0
+  132_Static vehicles.stationary.Stationary$WillisMBt_US 1 270948.19 481774.44 360.00 0.0
+  133_Static vehicles.artillery.Artillery$M16_US 1 271218.19 481864.44 360.00 0.0 0 0 1
+  134_Static vehicles.stationary.Stationary$DiamondT_US 1 271092.00 481841.00 360.00 0.0
+  135_Static vehicles.stationary.Stationary$DiamondT_US 1 271135.00 481964.00 360.00 0.0
+  136_Static vehicles.stationary.Stationary$Chevrolet_radio_US 1 271132.00 481783.00 360.00 0.0
+  137_Static vehicles.stationary.Stationary$WillisMBt_US 1 271700.94 483459.44 360.00 0.0
+  138_Static vehicles.stationary.Stationary$DiamondT_US 1 271610.94 483279.44 360.00 0.0
+  139_Static vehicles.stationary.Stationary$DiamondT_US 1 271880.94 483369.44 360.00 0.0
+  140_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 271679.00 483338.00 360.00 0.0
+  141_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 271615.00 483477.00 360.00 0.0
+  142_Static vehicles.stationary.Stationary$WillisMBt_US 1 296319.34 458430.06 360.00 0.0
+  143_Static vehicles.stationary.Stationary$DiamondT_US 1 296229.34 458250.06 360.00 0.0
+  144_Static vehicles.stationary.Stationary$DiamondT_US 1 296499.34 458340.06 360.00 0.0
+  145_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 296393.00 458394.00 360.00 0.0
+  146_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 296232.00 458444.00 360.00 0.0
+  147_Static vehicles.stationary.Stationary$WillisMBt_US 1 295494.19 464521.53 360.00 0.0
+  148_Static vehicles.stationary.Stationary$DiamondT_US 1 295404.19 464341.53 360.00 0.0
+  149_Static vehicles.stationary.Stationary$DiamondT_US 1 295674.19 464431.53 360.00 0.0
+  150_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 295457.00 464415.00 360.00 0.0
+  151_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 295456.00 464483.00 360.00 0.0
+  152_Static vehicles.stationary.Stationary$WillisMBt_US 1 509891.13 193152.36 360.00 0.0
+  153_Static vehicles.stationary.Stationary$DiamondT_US 1 509801.13 192972.36 360.00 0.0
+  154_Static vehicles.stationary.Stationary$DiamondT_US 1 510071.13 193062.36 360.00 0.0
+  155_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 509831.00 193118.00 360.00 0.0
+  156_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 509990.00 193006.00 360.00 0.0
+  157_Static vehicles.artillery.Artillery$USBazookaE 1 512583.44 195483.25 360.00 0.0 114 0 1
+  158_Static vehicles.artillery.Artillery$USInfantryE 1 512583.44 195573.25 360.00 0.0 114 0 1
+  159_Static vehicles.artillery.Artillery$USInfantryE 1 512493.44 195393.25 360.00 0.0 114 0 1
+  160_Static vehicles.artillery.Artillery$USInfantryE 1 512763.44 195483.25 360.00 0.0 114 0 1
+  161_Static vehicles.artillery.Artillery$USBazookaE 1 267785.41 475984.94 360.00 0.0 114 0 1
+  162_Static vehicles.artillery.Artillery$USInfantryE 1 267785.41 476074.94 360.00 0.0 114 0 1
+  163_Static vehicles.artillery.Artillery$USInfantryE 1 267695.41 475894.94 360.00 0.0 114 0 1
+  164_Static vehicles.artillery.Artillery$USInfantryE 1 267965.41 475984.94 360.00 0.0 114 0 1
+  165_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 361242.03 433382.72 360.00 0.0
+  166_Static vehicles.stationary.Stationary$DiamondT_US 1 295693.50 462104.75 360.00 0.0
+  167_Static vehicles.stationary.Stationary$KitchenRU_H 1 272031.78 484197.16 360.00 0.0
+  168_Static vehicles.stationary.Stationary$HART_RU_2 1 271827.84 484190.44 360.00 0.0
+  169_Static vehicles.stationary.Stationary$WillisMBt_US 1 324132.28 564316.88 360.00 0.0
+  170_Static vehicles.stationary.Stationary$WillisMBt_US 1 324042.28 564136.88 360.00 0.0
+  171_Static vehicles.artillery.Artillery$M16_US 1 324312.28 564226.88 360.00 0.0 0 0 1
+  172_Static vehicles.stationary.Stationary$DiamondT_US 1 324150.00 564164.00 360.00 0.0
+  173_Static vehicles.stationary.Stationary$DiamondT_US 1 324096.00 564240.00 360.00 0.0
+  174_Static vehicles.stationary.Stationary$Chevrolet_radio_US 1 324195.00 564282.00 360.00 0.0
+  175_Static vehicles.stationary.Stationary$WillisMBtc_US 1 296082.34 464920.31 360.00 0.0
+  176_Static vehicles.stationary.Stationary$Chevrolet_flatbed_US 1 295992.34 464740.31 360.00 0.0
+  177_Static vehicles.stationary.Stationary$DiamondT_US 1 296262.34 464830.31 360.00 0.0
+  178_Static vehicles.stationary.Stationary$DiamondT_US 1 296144.00 464864.00 360.00 0.0
+  179_Static vehicles.stationary.Stationary$DiamondT_US 1 296192.00 464749.00 360.00 0.0
+  180_Static vehicles.stationary.Stationary$DiamondT_US 1 296119.00 464786.00 360.00 0.0
+  181_Static vehicles.stationary.Stationary$DiamondT_US 1 296184.00 464875.00 360.00 0.0
+  182_Static vehicles.stationary.Stationary$DiamondT_US 1 296199.00 464898.00 360.00 0.0
+  183_Static vehicles.stationary.Stationary$DiamondT_US 1 296140.00 464799.00 360.00 0.0
+  184_Static vehicles.stationary.Stationary$DiamondT_US 1 296103.00 464830.00 360.00 0.0
+  185_Static vehicles.stationary.Stationary$DiamondT_US 1 296192.00 464770.00 360.00 0.0
+  186_Static vehicles.stationary.Stationary$DiamondT_US 1 296112.00 464746.00 360.00 0.0
+  187_Static vehicles.stationary.Stationary$DiamondT_US 1 296154.00 464869.00 360.00 0.0
+  188_Static vehicles.stationary.Stationary$DiamondT_US 1 296152.00 464895.00 360.00 0.0
+  189_Static vehicles.stationary.Stationary$DiamondT_US 1 296005.00 464809.00 360.00 0.0
+  190_Static vehicles.stationary.Stationary$DiamondT_US 1 296036.00 464945.00 360.00 0.0
+  191_Static vehicles.stationary.Stationary$DiamondT_US 1 296179.00 464877.00 360.00 0.0
+  192_Static vehicles.stationary.Stationary$DiamondT_US 1 296005.00 464898.00 360.00 0.0
+  193_Static vehicles.stationary.Stationary$DiamondT_US 1 296090.00 464869.00 360.00 0.0
+  194_Static vehicles.stationary.Stationary$DiamondT_US 1 296135.00 464919.00 360.00 0.0
+  195_Static vehicles.stationary.Stationary$DiamondT_US 1 296117.00 464782.00 360.00 0.0
+  196_Static vehicles.stationary.Stationary$DiamondT_US 1 296185.00 464798.00 360.00 0.0
+  197_Static vehicles.stationary.Stationary$DiamondT_US 1 296033.00 464743.00 360.00 0.0
+  198_Static vehicles.stationary.Stationary$DiamondT_US 1 296190.00 464746.00 360.00 0.0
+  199_Static vehicles.stationary.Stationary$DiamondT_US 1 296066.00 464832.00 360.00 0.0
+  200_Static vehicles.stationary.Stationary$DiamondT_US 1 296169.00 464842.00 360.00 0.0
+  201_Static vehicles.stationary.Stationary$DiamondT_US 1 296194.00 464761.00 360.00 0.0
+  202_Static vehicles.stationary.Stationary$DiamondT_US 1 296103.00 464801.00 360.00 0.0
+  203_Static vehicles.stationary.Stationary$DiamondT_US 1 296080.00 464903.00 360.00 0.0
+  204_Static vehicles.stationary.Stationary$DiamondT_US 1 296067.00 464785.00 360.00 0.0
+  205_Static vehicles.stationary.Stationary$DiamondT_US 1 296061.00 464884.00 360.00 0.0
+  175_Static ships.Ship$USSIndianapolisCA35 1 258880.95 439095.84 360.00 0.0 0 0 1.0
+  176_Static ships.Ship$USSMcKean 1 258463.09 438709.91 360.00 0.0 0 1 1.0
+  177_Static ships.Ship$USSIndianapolisCA35 1 259420.36 438287.19 360.00 0.0 0 2 1.0
+  178_Static ships.Ship$Transport2 1 361468.13 477428.06 360.00 0.0 0 0 1.0
+  179_Static ships.Ship$USSWardDD139 1 362907.09 477364.16 360.00 0.0 0 0 1.0
+  180_Static ships.Ship$USSWardDD139 1 246832.86 415789.09 360.00 0.0 0 0 1.0
+  181_Static ships.Ship$USSDentDD116 1 248014.33 415536.66 360.00 0.0 0 1 1.0
+  182_Static ships.Ship$USSMcKean 1 248707.28 415543.59 360.00 0.0 0 2 1.0
+  183_Static ships.Ship$Destroyer1 1 246746.23 415162.47 360.00 0.0 0 2 1.0
+  184_Static ships.Ship$USSWardDD139 1 535956.00 282758.66 360.00 0.0 0 1 1.0
+  185_Static ships.Ship$USSDentDD116 1 535371.25 282655.41 360.00 0.0 0 1 1.0
+  186_Static ships.Ship$USSDentDD116 1 536523.56 282449.06 360.00 0.0 0 3 1.0
+  187_Static ships.Ship$USSWardDD139 1 535379.88 282010.50 360.00 0.0 0 0 1.0
+  188_Static ships.Ship$USSWardDD139 1 256950.64 372128.13 360.00 0.0 0 1 1.0
+  189_Static ships.Ship$USSDentDD116 1 257093.88 371597.13 360.00 0.0 0 1 1.0
+  190_Static ships.Ship$USSWardDD139 1 257541.06 371736.84 360.00 0.0 0 1 1.0
+  191_Static ships.Ship$USSDentDD116 1 257051.95 373029.47 360.00 0.0 0 3 1.0
+  192_Static ships.Ship$MAS501UNP 1 293474.91 462693.56 360.00 0.0 0 3 1.0
+  193_Static ships.Ship$MAS501UNP 1 292667.38 464244.06 360.00 0.0 0 3 1.0
+  194_Static ships.Ship$MAS501UNP 1 292574.13 458747.94 360.00 0.0 0 2 1.0
+  195_Static ships.Ship$MAS501UNP 1 367152.09 532034.69 360.00 0.0 0 1 1.0
+  196_Static ships.Ship$MAS501UNP 1 362768.75 530024.81 360.00 0.0 0 1 1.0
+  197_Static ships.Ship$MAS501UNP 1 362627.84 531535.00 360.00 0.0 0 1 1.0
+  198_Static ships.Ship$MAS501UNP 1 163669.36 512538.50 360.00 0.0 0 1 1.0
+  199_Static ships.Ship$MAS501UNP 1 163998.66 512425.59 360.00 0.0 0 2 1.0
+  200_Static ships.Ship$MAS501UNP 1 164299.72 512769.00 360.00 0.0 0 1 1.0
+  201_Static ships.Ship$Transport2 1 467407.44 378416.09 360.00 0.0 0 1 1.0
+  202_Static ships.Ship$Transport2 1 253972.52 371516.75 360.00 0.0 0 2 1.0
+  203_Static ships.Ship$Transport2 1 693038.06 318696.28 360.00 0.0 0 1 1.0
+  204_Static ships.Ship$Transport2 1 272843.97 440956.03 360.00 0.0 0 1 1.0
+  205_Static ships.Ship$USSGatoSS212_Srf 1 508826.75 518849.06 360.00 0.0 0 1 1.0
+  206_Static ships.Ship$USSGreenlingSS213_Srf 1 503909.63 522403.91 360.00 0.0 0 2 1.0
+  207_Static ships.Ship$USSGreenlingSS213_Srf 1 162252.13 413774.53 360.00 0.0 0 1 1.0
+  208_Static ships.Ship$USSGreenlingSS213_Srf 1 160312.86 424763.72 360.00 0.0 0 3 1.0
+  209_Static ships.Ship$USSGreenlingSS213_Srf 1 286931.19 165412.20 360.00 0.0 0 3 1.0
+  210_Static ships.Ship$USSGreenlingSS213_Srf 1 291593.91 169677.73 360.00 0.0 0 2 1.0
+  211_Static ships.Ship$USSGatoSS212_Srf 1 278086.00 166378.22 360.00 0.0 0 1 1.0
+  212_Static ships.Ship$USSGatoSS212_Srf 1 222119.23 394371.09 360.00 0.0 0 2 1.0
+  213_Static ships.Ship$USSGreenlingSS213_Srf 1 221035.67 391120.41 360.00 0.0 0 1 1.0
+  214_Static ships.Ship$USSGatoSS212_Srf 1 223877.56 397126.56 360.00 0.0 0 1 1.0
+  215_Static ships.Ship$USSGreenlingSS213_Srf 1 203450.63 336734.78 360.00 0.0 0 0 1.0
+  216_Static ships.Ship$USSGatoSS212_Srf 1 189353.38 278362.34 360.00 0.0 0 1 1.0
+  217_Static ships.Ship$USSGatoSS212_Srf 1 203474.16 539809.13 360.00 0.0 0 2 1.0
+  218_Static ships.Ship$USSGatoSS212_Sub 1 115073.26 639977.25 360.00 0.0 0 2 1.0
+  219_Static ships.Ship$USSGreenlingSS213_Srf 1 459105.56 656482.44 360.00 0.0 0 2 1.0
+  220_Static ships.Ship$USSGatoSS212_Srf 1 574327.88 643221.50 360.00 0.0 0 2 1.0
+  221_Static ships.Ship$MAS501UNP 1 290561.00 459295.72 360.00 0.0 0 1 1.0
+  222_Static vehicles.stationary.Siren$SirenCity 1 246975.31 504239.22 360.00 0.0
+  223_Static vehicles.stationary.Siren$SirenCity 1 246323.29 503305.90 360.00 0.0
+  224_Static vehicles.stationary.Siren$SirenCity 2 309264.31 644499.33 720.00 0.0
+  225_Static vehicles.stationary.Siren$SirenCity 2 309520.76 645768.30 720.00 0.0
+  226_Static vehicles.stationary.Siren$SirenCity 2 364749.99 583928.18 360.10 0.0
+  227_Static vehicles.stationary.Siren$SirenCity 2 365008.07 585196.82 360.10 0.0
+  228_Static vehicles.stationary.Siren$SirenCity 1 295131.05 458567.37 360.10 0.0
+  229_Static vehicles.stationary.Siren$SirenCity 1 295862.74 457167.75 360.10 0.0
+  230_Static vehicles.stationary.Siren$SirenCity 1 267542.70 475449.43 655.00 0.0
+  231_Static vehicles.stationary.Siren$SirenCity 1 269120.30 475523.42 655.00 0.0
+  232_Static vehicles.stationary.Siren$SirenCity 2 266708.85 608123.28 700.00 0.0
+  233_Static vehicles.stationary.Siren$SirenCity 2 267875.31 607058.53 700.00 0.0
+  234_Static vehicles.stationary.Siren$SirenCity 1 272912.25 482108.01 720.00 0.0
+  235_Static vehicles.stationary.Siren$SirenCity 1 273406.82 484747.74 720.00 0.0
+  236_Static vehicles.stationary.Siren$SirenCity 1 510835.41 195099.32 360.40 0.0
+  237_Static vehicles.stationary.Siren$SirenCity 1 512104.97 196492.15 360.40 0.0
+  238_Static ships.Ship$RwyTransp 2 337656.70 675910.23 675.40 0.0 0 2 1.0
+  239_Static vehicles.stationary.Siren$SirenCity 2 338216.09 676602.58 360.40 0.0
+  240_Static vehicles.stationary.Siren$SirenCity 2 337097.44 675217.99 360.40 0.0
+  241_Static vehicles.stationary.Stationary$ExpNapalm 2 337814.99 675449.83 360.00 0.0
+  242_Static vehicles.stationary.Stationary$ExpNapalm 2 336884.50 675430.09 360.00 0.0
+  243_Static vehicles.stationary.Stationary$ExpNapalm 2 337804.40 675434.09 360.00 0.0
+  244_Static vehicles.stationary.Stationary$ExpNapalm 2 338478.98 676400.90 360.00 0.0
+  245_Static vehicles.stationary.Stationary$ExpNapalm 2 338467.58 676404.86 360.00 0.0
+  246_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460460.00 450.00 0.0
+  247_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460590.00 450.00 0.0
+  248_Static vehicles.stationary.Stationary$ExpNapalm 1 294680.00 460730.00 450.00 0.0
+  249_Static vehicles.stationary.Stationary$ExpNapalm 1 294770.00 461130.00 450.00 0.0
+  250_Static vehicles.stationary.Stationary$ExpNapalm 1 294770.00 461270.00 450.00 0.0
+  251_Static vehicles.stationary.Stationary$ExpNapalm 1 294910.00 461580.00 450.00 0.0
+  252_Static vehicles.stationary.Stationary$ExpNapalm 1 294690.00 461670.00 450.00 0.0
+  253_Static vehicles.stationary.Stationary$ExpNapalm 1 295080.00 461720.00 450.00 0.0
+  254_Static vehicles.stationary.Stationary$ExpNapalm 1 294990.00 462430.00 450.00 0.0
+  255_Static vehicles.stationary.Stationary$ExpNapalm 1 294950.00 462470.00 450.00 0.0
+  256_Static vehicles.stationary.Stationary$ExpNapalm 1 294900.00 462520.00 450.00 0.0
+  257_Static vehicles.stationary.Stationary$ExpNapalm 1 294742.38 460059.59 450.00 0.0
+  258_Static vehicles.stationary.Stationary$ExpNapalm 1 294704.21 460103.95 450.00 0.0
+  259_Static vehicles.stationary.Stationary$ExpNapalm 1 294740.00 460800.00 450.00 0.0
+  260_Static vehicles.stationary.Stationary$ExpNapalm 1 294780.00 460800.00 450.00 0.0
+  261_Static vehicles.stationary.Stationary$ExpNapalm 1 294700.00 460840.00 450.00 0.0
+  262_Static vehicles.stationary.Stationary$ExpNapalm 1 294740.00 460840.00 450.00 0.0
+  263_Static vehicles.stationary.Stationary$ExpNapalm 1 294660.00 460880.00 450.00 0.0
+  264_Static vehicles.stationary.Stationary$ExpNapalm 1 294700.00 460880.00 450.00 0.0
+  265_Static vehicles.stationary.Stationary$ExpNapalm 1 294530.00 462860.00 450.00 0.0
+  266_Static vehicles.stationary.Stationary$ExpNapalm 1 294485.10 462870.00 450.00 0.0
+  267_Static vehicles.stationary.Stationary$ExpNapalm 1 294490.10 462904.82 450.00 0.0
+  268_Static vehicles.stationary.Stationary$ExpNapalm 1 294449.90 462914.88 450.00 0.0
+  269_Static vehicles.stationary.Stationary$ExpNapalm 2 309077.98 644896.37 385.00 0.0
+  270_Static vehicles.stationary.Stationary$ExpNapalm 2 309075.47 644889.73 385.00 0.0
+  271_Static vehicles.stationary.Stationary$ExpNapalm 2 309080.90 644902.84 385.00 0.0
+  272_Static vehicles.stationary.Stationary$ExpNapalm 2 267317.33 607775.64 395.00 0.0
+  273_Static vehicles.stationary.Stationary$ExpNapalm 2 267322.02 607782.63 395.00 0.0
+  274_Static vehicles.stationary.Stationary$ExpNapalm 2 267326.75 607789.78 395.00 0.0
+  275_Static vehicles.stationary.Stationary$ExpNapalm 2 364567.60 584334.67 380.00 0.0
+  276_Static vehicles.stationary.Stationary$ExpNapalm 2 364564.89 584328.00 380.00 0.0
+  277_Static vehicles.stationary.Stationary$ExpNapalm 2 364562.81 584321.05 380.00 0.0
+  278_Static vehicles.stationary.Stationary$ExpNapalm 0 265641.83 535464.25 425.00 0.0
+  279_Static vehicles.stationary.Stationary$ExpNapalm 0 265635.35 535461.12 425.00 0.0
+  280_Static vehicles.stationary.Stationary$ExpNapalm 0 265628.77 535458.07 425.00 0.0
+  281_Static vehicles.stationary.Stationary$ExpNapalm 1 268218.25 475650.78 710.00 0.0
+  282_Static vehicles.stationary.Stationary$ExpNapalm 1 268220.11 475642.37 710.00 0.0
+  283_Static vehicles.stationary.Stationary$ExpNapalm 1 268221.56 475633.10 710.00 0.0
+  284_Static vehicles.stationary.Stationary$ExpNapalm 1 295596.45 458043.46 415.00 0.0
+  285_Static vehicles.stationary.Stationary$ExpNapalm 1 295589.53 458038.25 415.00 0.0
+  286_Static vehicles.stationary.Stationary$ExpNapalm 1 295582.76 458033.34 415.00 0.0
+  287_Static vehicles.stationary.Stationary$ExpNapalm 0 386744.12 431843.73 380.00 0.0
+  288_Static vehicles.stationary.Stationary$ExpNapalm 0 386741.51 431836.10 380.00 0.0
+  289_Static vehicles.stationary.Stationary$ExpNapalm 0 386739.36 431830.00 380.00 0.0
+  290_Static vehicles.stationary.Stationary$ExpNapalm 0 416257.36 420645.69 380.00 0.0
+  291_Static vehicles.stationary.Stationary$ExpNapalm 0 416254.79 420639.14 380.00 0.0
+  292_Static vehicles.stationary.Stationary$ExpNapalm 0 416252.71 420632.37 380.00 0.0
+  293_Static vehicles.stationary.Stationary$ExpNapalm 0 301265.81 405201.58 380.00 0.0
+  294_Static vehicles.stationary.Stationary$ExpNapalm 0 301263.40 405194.96 380.00 0.0
+  295_Static vehicles.stationary.Stationary$ExpNapalm 0 301261.42 405188.07 380.00 0.0
+  296_Static vehicles.stationary.Stationary$ExpNapalm 0 298034.49 356443.68 415.00 0.0
+  297_Static vehicles.stationary.Stationary$ExpNapalm 0 298041.48 356448.74 415.00 0.0
+  298_Static vehicles.stationary.Stationary$ExpNapalm 0 298048.40 356453.88 415.00 0.0
+  299_Static vehicles.stationary.Stationary$ExpNapalm 0 507106.53 341031.87 415.00 0.0
+  300_Static vehicles.stationary.Stationary$ExpNapalm 0 507099.53 341026.77 415.00 0.0
+  301_Static vehicles.stationary.Stationary$ExpNapalm 0 507092.88 341021.78 415.00 0.0
+  302_Static vehicles.stationary.Stationary$ExpNapalm 0 296647.80 45134.56 380.00 0.0
+  303_Static vehicles.stationary.Stationary$ExpNapalm 0 296644.86 45128.01 380.00 0.0
+  304_Static vehicles.stationary.Stationary$ExpNapalm 0 296642.96 45121.01 380.00 0.0
+  305_Static vehicles.stationary.Stationary$ExpNapalm 0 205986.07 243124.78 380.00 0.0
+  306_Static vehicles.stationary.Stationary$ExpNapalm 0 205988.48 243131.67 380.00 0.0
+  307_Static vehicles.stationary.Stationary$ExpNapalm 0 205991.05 243138.33 380.00 0.0
+  308_Static vehicles.stationary.Stationary$ExpNapalm 1 272108.58 484101.46 360.00 0.0
+  309_Static vehicles.stationary.Stationary$ExpNapalm 1 272124.08 484075.31 360.00 0.0
+  310_Static vehicles.stationary.Stationary$ExpNapalm 1 272094.86 484074.98 360.00 0.0
+  311_Static vehicles.stationary.Stationary$ExpNapalm 1 272109.61 484047.83 360.00 0.0
+  312_Static vehicles.stationary.Stationary$ExpNapalm 1 272081.40 484044.96 360.00 0.0
+  313_Static vehicles.stationary.Stationary$ExpNapalm 1 272094.77 484020.03 360.00 0.0
+  314_Static vehicles.stationary.Stationary$ExpNapalm 1 272063.27 484014.95 360.00 0.0
+  315_Static vehicles.stationary.Stationary$ExpNapalm 1 272078.58 483990.93 360.00 0.0
+  316_Static vehicles.stationary.Stationary$ExpNapalm 1 247112.39 504058.50 675.00 0.0
+  317_Static vehicles.stationary.Stationary$ExpNapalm 1 247120.99 504049.90 675.00 0.0
+  318_Static vehicles.stationary.Stationary$ExpNapalm 1 247129.94 504041.49 675.00 0.0
+  319_Static vehicles.stationary.Stationary$ExpNapalm 1 247160.20 504006.22 675.00 0.0
+  320_Static vehicles.stationary.Stationary$ExpNapalm 1 247140.82 503989.23 675.00 0.0
+  321_Static vehicles.stationary.Stationary$ExpNapalm 0 360905.70 275063.03 675.00 0.0
+  322_Static vehicles.stationary.Stationary$ExpNapalm 0 360948.24 275103.40 675.00 0.0
+  323_Static vehicles.stationary.Stationary$ExpNapalm 0 360993.87 275060.26 675.00 0.0
+  324_Static vehicles.stationary.Stationary$ExpNapalm 0 360954.47 275019.19 675.00 0.0
+  325_Static vehicles.stationary.Stationary$ExpNapalm 0 360861.55 275019.19 675.00 0.0
+  326_Static vehicles.stationary.Stationary$ExpNapalm 0 360909.25 274972.32 675.00 0.0
+  327_Static vehicles.stationary.Stationary$ExpNapalm 0 390728.62 277217.12 675.00 0.0
+  328_Static vehicles.stationary.Stationary$ExpNapalm 0 390730.35 277273.71 675.00 0.0
+  329_Static vehicles.stationary.Stationary$ExpNapalm 0 390731.10 277324.53 675.00 0.0
+  330_Static vehicles.stationary.Stationary$ExpNapalm 0 390684.65 277324.12 675.00 0.0
+  331_Static vehicles.stationary.Stationary$ExpNapalm 0 390684.65 277272.68 675.00 0.0
+  332_Static vehicles.stationary.Stationary$ExpNapalm 0 390684.23 277217.51 675.00 0.0
+  333_Static vehicles.stationary.Stationary$ExpNapalm 0 412875.24 278305.06 675.00 0.0
+  334_Static vehicles.stationary.Stationary$ExpNapalm 0 412875.49 278335.14 675.00 0.0
+  335_Static vehicles.stationary.Stationary$ExpNapalm 0 413245.54 278129.17 685.00 0.0
+  336_Static vehicles.stationary.Stationary$ExpNapalm 0 413237.23 278140.77 685.00 0.0
+  337_Static vehicles.stationary.Stationary$ExpNapalm 0 486434.35 301164.04 685.00 0.0
+  338_Static vehicles.stationary.Stationary$ExpNapalm 0 486434.84 301135.32 685.00 0.0
+  339_Static vehicles.stationary.Stationary$ExpNapalm 0 486434.35 301104.87 685.00 0.0
+  340_Static vehicles.stationary.Stationary$ExpNapalm 0 480809.31 288636.31 685.00 0.0
+  341_Static vehicles.stationary.Stationary$ExpNapalm 0 480837.48 288609.93 685.00 0.0
+  342_Static vehicles.stationary.Stationary$ExpNapalm 0 480808.69 288580.21 685.00 0.0
+  343_Static vehicles.stationary.Stationary$ExpNapalm 0 480779.95 288605.88 685.00 0.0
+  344_Static vehicles.stationary.Stationary$ExpNapalm 0 480778.99 288549.99 685.00 0.0
+  345_Static vehicles.stationary.Stationary$ExpNapalm 0 480748.64 288577.12 685.00 0.0
+  346_Static vehicles.stationary.Stationary$ExpNapalm 1 512375.05 196374.92 685.00 0.0
+  347_Static vehicles.stationary.Stationary$ExpNapalm 1 512415.15 196374.78 685.00 0.0
+  348_Static vehicles.stationary.Stationary$ExpNapalm 1 512445.41 196374.56 685.00 0.0
+  349_Static vehicles.stationary.Stationary$ExpNapalm 1 512445.41 196404.79 685.00 0.0
+  350_Static vehicles.stationary.Stationary$ExpNapalm 1 512414.43 196405.04 685.00 0.0
+  351_Static vehicles.stationary.Stationary$ExpNapalm 1 512375.27 196404.79 685.00 0.0
+  352_Static vehicles.stationary.Stationary$ExpNapalm 1 510633.16 195218.72 640.00 0.0
+  353_Static vehicles.stationary.Stationary$ExpNapalm 1 510651.98 195216.36 640.00 0.0
+  354_Static vehicles.stationary.Stationary$ExpNapalm 1 510615.06 195221.56 640.00 0.0
+  355_Static vehicles.stationary.Stationary$ExpNapalm 0 511374.61 99503.82 585.00 0.0
+  356_Static vehicles.stationary.Stationary$ExpNapalm 0 511385.25 99514.21 585.00 0.0
+  357_Static vehicles.stationary.Stationary$ExpNapalm 0 511394.89 99524.84 585.00 0.0
+  358_Static vehicles.stationary.Stationary$ExpNapalm 0 511974.36 100665.44 540.00 0.0
+  359_Static vehicles.stationary.Stationary$ExpNapalm 0 511974.19 100653.22 540.00 0.0
+  360_Static vehicles.stationary.Stationary$ExpNapalm 0 511974.93 100678.75 540.00 0.0
+  361_Static vehicles.stationary.Stationary$ExpNapalm 0 499145.41 52264.96 540.00 0.0
+  362_Static vehicles.stationary.Stationary$ExpNapalm 0 499199.30 52264.48 540.00 0.0
+  363_Static vehicles.stationary.Stationary$ExpNapalm 0 499145.24 52214.96 540.00 0.0
+  364_Static vehicles.stationary.Stationary$ExpNapalm 0 499199.30 52214.91 540.00 0.0
+  365_Static vehicles.stationary.Stationary$ExpNapalm 0 497825.52 52452.60 540.00 0.0
+  366_Static vehicles.stationary.Stationary$ExpNapalm 0 497858.79 52499.27 540.00 0.0
+  367_Static vehicles.stationary.Stationary$ExpNapalm 0 497908.58 52466.08 540.00 0.0
+  368_Static vehicles.stationary.Stationary$ExpNapalm 0 497874.75 52418.84 540.00 0.0
+  369_Static vehicles.stationary.Stationary$ExpNapalm 0 497775.67 52485.60 540.00 0.0
+  370_Static vehicles.stationary.Stationary$ExpNapalm 0 497807.10 52532.73 540.00 0.0
+  371_Static vehicles.stationary.Stationary$ExpNapalm 0 141687.98 25338.89 540.00 0.0
+  372_Static vehicles.stationary.Stationary$ExpNapalm 0 141718.66 25289.47 540.00 0.0
+  373_Static vehicles.stationary.Stationary$ExpNapalm 0 141741.33 25370.12 540.00 0.0
+  374_Static vehicles.stationary.Stationary$ExpNapalm 0 141770.64 25319.02 540.00 0.0
+  375_Static vehicles.stationary.Stationary$ExpNapalm 0 143509.23 25580.54 415.00 0.0
+  376_Static vehicles.stationary.Stationary$ExpNapalm 0 143522.33 25588.81 415.00 0.0
+  377_Static vehicles.stationary.Stationary$ExpNapalm 0 143536.46 25597.73 415.00 0.0
+  378_Static vehicles.stationary.Stationary$ExpNapalm 0 141905.97 24786.58 360.00 0.0
+  379_Static vehicles.stationary.Stationary$ExpNapalm 0 141905.72 24764.77 360.00 0.0
+  380_Static vehicles.stationary.Stationary$ExpNapalm 0 141904.98 24741.97 360.00 0.0
+  381_Static vehicles.stationary.Stationary$ExpNapalm 1 272249.27 482274.80 645.00 0.0
+  382_Static vehicles.stationary.Stationary$ExpNapalm 1 272263.71 482270.71 645.00 0.0
+  383_Static vehicles.stationary.Stationary$ExpNapalm 1 272278.83 482266.49 645.00 0.0
+  384_Static vehicles.stationary.Stationary$ExpNapalm 1 272038.68 483381.58 665.00 0.0
+  385_Static vehicles.stationary.Stationary$ExpNapalm 1 272052.56 483373.65 665.00 0.0
+  386_Static vehicles.stationary.Stationary$ExpNapalm 1 272066.69 483365.48 665.00 0.0
+  387_Static vehicles.stationary.Stationary$ExpNapalm 2 329133.00 643679.00 495.00 0.0
+  388_Static vehicles.stationary.Stationary$ExpNapalm 1 514896.00 102111.00 675.00 0.0
+  389_Static vehicles.stationary.Stationary$ExpNapalm 0 509300.00 192491.00 680.00 0.0
+  390_Static vehicles.stationary.Stationary$ExpNapalm 0 425912.00 393079.00 680.00 0.0
+  391_Static vehicles.stationary.Stationary$ExpNapalm 0 398506.00 416115.00 405.00 0.0
+  392_Static vehicles.stationary.Stationary$ExpNapalm 0 326485.00 432308.00 450.00 0.0
+  393_Static vehicles.stationary.Stationary$ExpNapalm 0 295292.00 462501.00 670.00 0.0
+  394_Static vehicles.stationary.Stationary$ExpNapalm 0 294494.00 464625.00 360.00 0.0
+  395_Static vehicles.stationary.Stationary$ExpNapalm 0 272877.00 484874.00 360.00 0.0
+  396_Static vehicles.stationary.Stationary$ExpNapalm 0 268301.00 536289.00 360.00 0.0
+  397_Static vehicles.stationary.Stationary$ExpNapalm 0 332547.00 594735.00 585.00 0.0
+  398_Static vehicles.stationary.Stationary$ExpNapalm 0 329527.00 617659.00 675.00 0.0
+[Target]
+[Buildings]
+  0_bld House$46TRBoxes 1 512761.94 195487.00 360.00
+  1_bld House$46TRBoxes 1 267783.91 475988.69 360.00
+  2_bld House$46TRBoxes 1 267693.91 475898.69 360.00
+  3_bld House$sockmiddle 1 246975.26 504297.20 492.00
+  4_bld House$sockmiddle 1 246323.34 503247.92 492.00
+  5_bld House$sockmiddle 1 309288.61 644446.68 492.00
+  6_bld House$sockmiddle 1 309496.46 645820.95 492.00
+  7_bld House$sockmiddle 1 364774.23 583875.50 492.00
+  8_bld House$sockmiddle 1 364983.83 585249.50 492.00
+  9_bld House$sockmiddle 1 295141.32 458624.44 492.00
+  10_bld House$sockmiddle 1 295852.47 457110.68 492.00
+  11_bld House$sockmiddle 1 267495.27 475482.78 492.00
+  12_bld House$sockmiddle 1 269167.73 475490.07 492.00
+  13_bld House$sockmiddle 1 266698.97 608180.41 492.00
+  14_bld House$sockmiddle 1 267885.19 607001.40 492.00
+  15_bld House$sockmiddle 1 272941.38 482057.87 492.00
+  16_bld House$sockmiddle 1 273377.69 484797.88 492.00
+  17_bld House$sockmiddle 1 510832.00 195041.44 492.00
+  18_bld House$sockmiddle 1 512108.38 196550.03 492.00
+  19_bld House$sockmiddle 1 338216.42 676660.56 492.00
+  20_bld House$sockmiddle 1 337097.11 675160.01 492.00
+  21_bld House$AirdromeBarrelBlock2 1 337814.99 675449.83 360.00
+  22_bld House$AirdromeTank1 1 336884.50 675430.09 360.00
+  23_bld House$AirdromeBarrelBlock2 1 337804.40 675434.09 360.00
+  24_bld House$AirdromeTank1 1 338478.98 676400.90 360.00
+  25_bld House$AirdromeBarrelBlock2 1 338467.58 676404.86 360.00
+[StaticCamera]
+[Bridge]
+[House]
+  MmwZ8 +
+[FrontMarker]
+  FrontMarker0 246649.30 503772.56 1
+  FrontMarker1 309392.53 645133.81 2
+  FrontMarker2 364879.03 584562.50 2
+  FrontMarker3 295496.90 457867.56 1
+  FrontMarker4 268331.50 475486.42 1
+  FrontMarker5 267292.08 607590.90 2
+  FrontMarker6 273159.53 483427.88 1
+  FrontMarker7 511470.19 195795.74 1
+  FrontMarker8 337656.76 675910.28 2
+  FrontMarker9 329133.00 643679.00 2
+  FrontMarker10 514896.00 102111.00 1
+  FrontMarker11 509300.00 192491.00 1
+  FrontMarker12 295292.00 462501.00 1
+  FrontMarker13 294494.00 464625.00 1
+  FrontMarker14 272877.00 484874.00 1
+  FrontMarker15 332547.00 594735.00 2
+  FrontMarker16 329527.00 617659.00 2
+  FrontMarker17 329300.00 643500.00 2
+  FrontMarker18 328500.00 643100.00 2
+  FrontMarker19 240000.00 710000.00 2
+  FrontMarker20 380000.00 710000.00 2
+  FrontMarker21 370000.00 710000.00 2
+  FrontMarker22 250000.00 710000.00 2
+  FrontMarker23 514900.00 102200.00 1
+  FrontMarker24 516600.00 110600.00 1
+  FrontMarker25 240000.00 30000.00 1
+  FrontMarker26 250000.00 30000.00 1
+  FrontMarker27 370000.00 10000.00 1
+  FrontMarker28 380000.00 10000.00 1
+  FrontMarker29 279470.38 484871.66 1
+  FrontMarker30 335825.09 580379.00 1
+  FrontMarker31 515405.88 102671.39 1
+  FrontMarker32 514828.31 102615.58 1
+  FrontMarker33 296988.97 466441.41 1
+  FrontMarker34 329109.47 618464.75 2
+  FrontMarker35 308520.72 644638.88 2
+  FrontMarker36 329860.72 618037.88 2
+  FrontMarker37 329518.88 643404.50 2
+  FrontMarker38 267320.06 608779.06 2
+  FrontMarker39 267041.91 608533.69 2
+  FrontMarker40 268915.28 607630.56 2
+  FrontMarker41 325474.47 632120.44 2
+  FrontMarker42 331884.44 641571.31 2
+  FrontMarker43 308821.88 645332.88 2
+  FrontMarker44 338460.34 676371.63 2
+  FrontMarker45 328336.72 618321.38 2
+  FrontMarker46 364357.22 585148.75 2
+  FrontMarker47 333812.72 592431.00 2
+  FrontMarker48 328319.13 643306.00 2
+  FrontMarker49 325975.97 622572.00 2
+  FrontMarker50 329234.72 643237.56 2
+  FrontMarker51 290484.22 457788.13 1
+  FrontMarker52 247289.42 503694.03 1
+  FrontMarker53 514914.78 102351.47 1
+  FrontMarker54 295317.34 457766.25 1
+  FrontMarker55 326174.13 564750.69 1
+  FrontMarker56 290654.09 458049.38 1
+  FrontMarker57 271038.19 481864.44 1
+  FrontMarker58 271700.94 483369.44 1
+  FrontMarker59 296319.34 458340.06 1
+  FrontMarker60 295494.19 464431.53 1
+  FrontMarker61 509891.13 193062.36 1
+  FrontMarker62 512583.44 195483.25 1
+  FrontMarker63 267785.41 475984.94 1
+  FrontMarker64 361242.03 433382.72 1
+  FrontMarker65 295693.50 462104.75 1
+  FrontMarker66 272031.78 484197.16 1
+  FrontMarker67 271827.84 484190.44 1
+  FrontMarker68 324132.28 564226.88 1
+  FrontMarker69 296082.34 464830.31 1
+[Trigger]
+  Version 12
+  0_Trigger 3 2 0 0 294288 487285 1238 0 1532 6 0 1 79 1 56_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 2, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy armoured unit within 1.24 km.</ARMY>
+  1_Trigger 3 2 0 0 294288 487285 1238 0 1532 7 0 1 79 1 56_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 2, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy artillery unit within 1.24 km.</ARMY>
+  2_Trigger 3 2 0 0 294288 487285 309 0 1532 8 0 1 79 1 56_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 2, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy infantry unit within 0.31 km.</ARMY>
+  3_Trigger 3 2 0 0 294288 487285 1238 0 1532 10 0 1 79 1 56_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 2, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy train within 1.24 km.</ARMY>
+  4_Trigger 3 2 0 0 294288 487285 1238 0 1532 11 0 1 79 1 56_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 2, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy vehicle within 1.24 km.</ARMY>
+  5_Trigger 3 2 0 0 473819 336164 1238 0 1532 6 0 1 79 1 57_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 3, Sh\u014Dtai 1 (Low Rel) [%GRID%] reports an enemy armoured unit within 1.24 km.</ARMY>
+  6_Trigger 3 2 0 0 473819 336164 1238 0 1532 7 0 1 79 1 57_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 3, Sh\u014Dtai 1 (Low Rel) [%GRID%] reports an enemy artillery unit within 1.24 km.</ARMY>
+  7_Trigger 3 2 0 0 473819 336164 309 0 1532 8 0 1 79 1 57_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 3, Sh\u014Dtai 1 (Low Rel) [%GRID%] reports an enemy infantry unit within 0.31 km.</ARMY>
+  8_Trigger 3 2 0 0 473819 336164 1238 0 1532 10 0 1 79 1 57_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 3, Sh\u014Dtai 1 (Low Rel) [%GRID%] reports an enemy train within 1.24 km.</ARMY>
+  9_Trigger 3 2 0 0 473819 336164 1238 0 1532 11 0 1 79 1 57_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 3, Sh\u014Dtai 1 (Low Rel) [%GRID%] reports an enemy vehicle within 1.24 km.</ARMY>
+  10_Trigger 3 2 0 0 407681 425669 1238 0 1532 6 0 1 79 1 67_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 4, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy armoured unit within 1.24 km.</ARMY>
+  11_Trigger 3 2 0 0 407681 425669 1238 0 1532 7 0 1 79 1 67_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 4, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy artillery unit within 1.24 km.</ARMY>
+  12_Trigger 3 2 0 0 407681 425669 309 0 1532 8 0 1 79 1 67_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 4, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy infantry unit within 0.31 km.</ARMY>
+  13_Trigger 3 2 0 0 407681 425669 1238 0 1532 10 0 1 79 1 67_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 4, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy train within 1.24 km.</ARMY>
+  14_Trigger 3 2 0 0 407681 425669 1238 0 1532 11 0 1 79 1 67_Static 10 <ARMY BLUE>47 Inf Reg, Daitai 1, Ch\u016Btai 4, Sh\u014Dtai 4 (Low Rel) [%GRID%] reports an enemy vehicle within 1.24 km.</ARMY>
+  15_Trigger 3 1 0 0 258881 439096 29131 0 10000 4 0 1 75 1 175_Static 10 <ARMY RED>USN Fleet 5, Flotilla 8 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 29.13 km.</ARMY>
+  16_Trigger 3 1 0 0 258881 439096 29131 0 10000 9 0 1 75 1 175_Static 10 <ARMY RED>USN Fleet 5, Flotilla 8 (Low Rel) [%GRID%] reports an enemy ship within 29.13 km.</ARMY>
+  17_Trigger 3 1 0 0 258463 438710 14560 0 1532 4 0 1 77 1 176_Static 10 <ARMY RED>USN Fleet 5, Flotilla 9 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  18_Trigger 3 1 0 0 258463 438710 14560 0 1532 9 0 1 77 1 176_Static 10 <ARMY RED>USN Fleet 5, Flotilla 9 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  19_Trigger 3 1 0 0 259420 438287 29131 0 10000 4 0 1 82 1 177_Static 10 <ARMY RED>USN Fleet 5, Flotilla 10 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 29.13 km.</ARMY>
+  20_Trigger 3 1 0 0 259420 438287 29131 0 10000 9 0 1 82 1 177_Static 10 <ARMY RED>USN Fleet 5, Flotilla 10 (Low Rel) [%GRID%] reports an enemy ship within 29.13 km.</ARMY>
+  21_Trigger 3 1 0 0 361468 477428 5711 0 1532 4 0 1 75 1 178_Static 10 <ARMY RED>USN Fleet 6, Flotilla 1 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.71 km.</ARMY>
+  22_Trigger 3 1 0 0 361468 477428 11422 0 1532 9 0 1 75 1 178_Static 10 <ARMY RED>USN Fleet 6, Flotilla 1 (Low Rel) [%GRID%] reports an enemy ship within 11.42 km.</ARMY>
+  23_Trigger 3 1 0 0 362907 477364 17133 0 10000 4 0 1 75 1 179_Static 10 <ARMY RED>USN Fleet 6, Flotilla 2 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.13 km.</ARMY>
+  24_Trigger 3 1 0 0 362907 477364 14560 0 10000 9 0 1 75 1 179_Static 10 <ARMY RED>USN Fleet 6, Flotilla 2 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  25_Trigger 3 1 0 0 246833 415789 17133 0 10000 4 0 1 75 1 180_Static 10 <ARMY RED>USN Fleet 6, Flotilla 3 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.13 km.</ARMY>
+  26_Trigger 3 1 0 0 246833 415789 14560 0 10000 9 0 1 75 1 180_Static 10 <ARMY RED>USN Fleet 6, Flotilla 3 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  27_Trigger 3 1 0 0 248014 415537 14560 0 1532 4 0 1 77 1 181_Static 10 <ARMY RED>USN Fleet 6, Flotilla 4 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  28_Trigger 3 1 0 0 248014 415537 14560 0 1532 9 0 1 77 1 181_Static 10 <ARMY RED>USN Fleet 6, Flotilla 4 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  29_Trigger 3 1 0 0 248707 415544 14560 0 1532 4 0 1 82 1 182_Static 10 <ARMY RED>USN Fleet 6, Flotilla 5 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  30_Trigger 3 1 0 0 248707 415544 14560 0 1532 9 0 1 82 1 182_Static 10 <ARMY RED>USN Fleet 6, Flotilla 5 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  31_Trigger 3 1 0 0 246746 415162 14560 0 1532 4 0 1 82 1 183_Static 10 <ARMY RED>USN Fleet 6, Flotilla 6 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  32_Trigger 3 1 0 0 246746 415162 14560 0 1532 9 0 1 82 1 183_Static 10 <ARMY RED>USN Fleet 6, Flotilla 6 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  33_Trigger 3 1 0 0 535956 282759 17874 0 10000 4 0 1 77 1 184_Static 10 <ARMY RED>USN Fleet 6, Flotilla 7 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.87 km.</ARMY>
+  34_Trigger 3 1 0 0 535956 282759 14560 0 10000 9 0 1 77 1 184_Static 10 <ARMY RED>USN Fleet 6, Flotilla 7 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  35_Trigger 3 1 0 0 535371 282655 14560 0 1532 4 0 1 77 1 185_Static 10 <ARMY RED>USN Fleet 6, Flotilla 8 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  36_Trigger 3 1 0 0 535371 282655 14560 0 1532 9 0 1 77 1 185_Static 10 <ARMY RED>USN Fleet 6, Flotilla 8 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  37_Trigger 3 1 0 0 536524 282449 14560 0 1532 4 0 1 89 1 186_Static 10 <ARMY RED>USN Fleet 6, Flotilla 9 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  38_Trigger 3 1 0 0 536524 282449 15867 0 1532 9 0 1 89 1 186_Static 10 <ARMY RED>USN Fleet 6, Flotilla 9 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  39_Trigger 3 1 0 0 535380 282010 17133 0 10000 4 0 1 75 1 187_Static 10 <ARMY RED>USN Fleet 6, Flotilla 10 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.13 km.</ARMY>
+  40_Trigger 3 1 0 0 535380 282010 14560 0 10000 9 0 1 75 1 187_Static 10 <ARMY RED>USN Fleet 6, Flotilla 10 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  41_Trigger 3 1 0 0 256951 372128 17874 0 10000 4 0 1 77 1 188_Static 10 <ARMY RED>USN Fleet 7, Flotilla 1 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.87 km.</ARMY>
+  42_Trigger 3 1 0 0 256951 372128 14560 0 10000 9 0 1 77 1 188_Static 10 <ARMY RED>USN Fleet 7, Flotilla 1 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  43_Trigger 3 1 0 0 257094 371597 14560 0 1532 4 0 1 77 1 189_Static 10 <ARMY RED>USN Fleet 7, Flotilla 2 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  44_Trigger 3 1 0 0 257094 371597 14560 0 1532 9 0 1 77 1 189_Static 10 <ARMY RED>USN Fleet 7, Flotilla 2 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  45_Trigger 3 1 0 0 257541 371737 17874 0 10000 4 0 1 77 1 190_Static 10 <ARMY RED>USN Fleet 7, Flotilla 3 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 17.87 km.</ARMY>
+  46_Trigger 3 1 0 0 257541 371737 14560 0 10000 9 0 1 77 1 190_Static 10 <ARMY RED>USN Fleet 7, Flotilla 3 (Low Rel) [%GRID%] reports an enemy ship within 14.56 km.</ARMY>
+  47_Trigger 3 1 0 0 257052 373029 14560 0 1532 4 0 1 89 1 191_Static 10 <ARMY RED>USN Fleet 7, Flotilla 4 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 14.56 km.</ARMY>
+  48_Trigger 3 1 0 0 257052 373029 15867 0 1532 9 0 1 89 1 191_Static 10 <ARMY RED>USN Fleet 7, Flotilla 4 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  49_Trigger 3 1 0 0 293475 462694 7933 0 1532 4 0 1 89 1 192_Static 10 <ARMY RED>USN Fleet 7, Flotilla 5 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 7.93 km.</ARMY>
+  50_Trigger 3 1 0 0 293475 462694 15867 0 1532 9 0 1 89 1 192_Static 10 <ARMY RED>USN Fleet 7, Flotilla 5 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  51_Trigger 3 1 0 0 292667 464244 7933 0 1532 4 0 1 89 1 193_Static 10 <ARMY RED>USN Fleet 7, Flotilla 6 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 7.93 km.</ARMY>
+  52_Trigger 3 1 0 0 292667 464244 15867 0 1532 9 0 1 89 1 193_Static 10 <ARMY RED>USN Fleet 7, Flotilla 6 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  53_Trigger 3 1 0 0 292574 458748 6699 0 1532 4 0 1 82 1 194_Static 10 <ARMY RED>USN Fleet 7, Flotilla 7 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 6.70 km.</ARMY>
+  54_Trigger 3 1 0 0 292574 458748 13398 0 1532 9 0 1 82 1 194_Static 10 <ARMY RED>USN Fleet 7, Flotilla 7 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  55_Trigger 3 1 0 0 367152 532035 5958 0 1532 4 0 1 77 1 195_Static 10 <ARMY RED>USN Fleet 7, Flotilla 8 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  56_Trigger 3 1 0 0 367152 532035 11916 0 1532 9 0 1 77 1 195_Static 10 <ARMY RED>USN Fleet 7, Flotilla 8 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  57_Trigger 3 1 0 0 362769 530025 5958 0 1532 4 0 1 77 1 196_Static 10 <ARMY RED>USN Fleet 7, Flotilla 9 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  58_Trigger 3 1 0 0 362769 530025 11916 0 1532 9 0 1 77 1 196_Static 10 <ARMY RED>USN Fleet 7, Flotilla 9 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  59_Trigger 3 1 0 0 362628 531535 5958 0 1532 4 0 1 77 1 197_Static 10 <ARMY RED>USN Fleet 7, Flotilla 10 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  60_Trigger 3 1 0 0 362628 531535 11916 0 1532 9 0 1 77 1 197_Static 10 <ARMY RED>USN Fleet 7, Flotilla 10 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  61_Trigger 3 1 0 0 163669 512538 5958 0 1532 4 0 1 77 1 198_Static 10 <ARMY RED>USN Fleet 8, Flotilla 1 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  62_Trigger 3 1 0 0 163669 512538 11916 0 1532 9 0 1 77 1 198_Static 10 <ARMY RED>USN Fleet 8, Flotilla 1 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  63_Trigger 3 1 0 0 163999 512426 6699 0 1532 4 0 1 82 1 199_Static 10 <ARMY RED>USN Fleet 8, Flotilla 2 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 6.70 km.</ARMY>
+  64_Trigger 3 1 0 0 163999 512426 13398 0 1532 9 0 1 82 1 199_Static 10 <ARMY RED>USN Fleet 8, Flotilla 2 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  65_Trigger 3 1 0 0 164300 512769 5958 0 1532 4 0 1 77 1 200_Static 10 <ARMY RED>USN Fleet 8, Flotilla 3 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  66_Trigger 3 1 0 0 164300 512769 11916 0 1532 9 0 1 77 1 200_Static 10 <ARMY RED>USN Fleet 8, Flotilla 3 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  67_Trigger 3 1 0 0 467407 378416 5958 0 1532 4 0 1 77 1 201_Static 10 <ARMY RED>USN Fleet 8, Flotilla 4 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  68_Trigger 3 1 0 0 467407 378416 11916 0 1532 9 0 1 77 1 201_Static 10 <ARMY RED>USN Fleet 8, Flotilla 4 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  69_Trigger 3 1 0 0 253973 371517 6699 0 1532 4 0 1 82 1 202_Static 10 <ARMY RED>USN Fleet 8, Flotilla 5 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 6.70 km.</ARMY>
+  70_Trigger 3 1 0 0 253973 371517 13398 0 1532 9 0 1 82 1 202_Static 10 <ARMY RED>USN Fleet 8, Flotilla 5 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  71_Trigger 3 1 0 0 693038 318696 5958 0 1532 4 0 1 77 1 203_Static 10 <ARMY RED>USN Fleet 8, Flotilla 6 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  72_Trigger 3 1 0 0 693038 318696 11916 0 1532 9 0 1 77 1 203_Static 10 <ARMY RED>USN Fleet 8, Flotilla 6 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  73_Trigger 3 1 0 0 272844 440956 5958 0 1532 4 0 1 77 1 204_Static 10 <ARMY RED>USN Fleet 8, Flotilla 7 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  74_Trigger 3 1 0 0 272844 440956 11916 0 1532 9 0 1 77 1 204_Static 10 <ARMY RED>USN Fleet 8, Flotilla 7 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>
+  75_Trigger 3 1 0 0 508827 518849 13350 0 1532 4 0 1 77 1 205_Static 10 <ARMY RED>USN Fleet 8, Flotilla 8 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  76_Trigger 3 1 0 0 508827 518849 13350 0 1532 9 0 1 77 1 205_Static 10 <ARMY RED>USN Fleet 8, Flotilla 8 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  77_Trigger 3 1 0 0 503910 522404 13350 0 1532 4 0 1 82 1 206_Static 10 <ARMY RED>USN Fleet 8, Flotilla 9 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  78_Trigger 3 1 0 0 503910 522404 13398 0 1532 9 0 1 82 1 206_Static 10 <ARMY RED>USN Fleet 8, Flotilla 9 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  79_Trigger 3 1 0 0 162252 413775 13350 0 1532 4 0 1 77 1 207_Static 10 <ARMY RED>USN Fleet 8, Flotilla 10 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  80_Trigger 3 1 0 0 162252 413775 13350 0 1532 9 0 1 77 1 207_Static 10 <ARMY RED>USN Fleet 8, Flotilla 10 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  81_Trigger 3 1 0 0 160313 424764 13350 0 1532 4 0 1 89 1 208_Static 10 <ARMY RED>USN Fleet 9, Flotilla 1 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  82_Trigger 3 1 0 0 160313 424764 15867 0 1532 9 0 1 89 1 208_Static 10 <ARMY RED>USN Fleet 9, Flotilla 1 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  83_Trigger 3 1 0 0 286931 165412 13350 0 1532 4 0 1 89 1 209_Static 10 <ARMY RED>USN Fleet 9, Flotilla 2 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  84_Trigger 3 1 0 0 286931 165412 15867 0 1532 9 0 1 89 1 209_Static 10 <ARMY RED>USN Fleet 9, Flotilla 2 (Low Rel) [%GRID%] reports an enemy ship within 15.87 km.</ARMY>
+  85_Trigger 3 1 0 0 291594 169678 13350 0 1532 4 0 1 82 1 210_Static 10 <ARMY RED>USN Fleet 9, Flotilla 3 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  86_Trigger 3 1 0 0 291594 169678 13398 0 1532 9 0 1 82 1 210_Static 10 <ARMY RED>USN Fleet 9, Flotilla 3 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  87_Trigger 3 1 0 0 278086 166378 13350 0 1532 4 0 1 77 1 211_Static 10 <ARMY RED>USN Fleet 9, Flotilla 4 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  88_Trigger 3 1 0 0 278086 166378 13350 0 1532 9 0 1 77 1 211_Static 10 <ARMY RED>USN Fleet 9, Flotilla 4 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  89_Trigger 3 1 0 0 222119 394371 13350 0 1532 4 0 1 82 1 212_Static 10 <ARMY RED>USN Fleet 9, Flotilla 5 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  90_Trigger 3 1 0 0 222119 394371 13398 0 1532 9 0 1 82 1 212_Static 10 <ARMY RED>USN Fleet 9, Flotilla 5 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  91_Trigger 3 1 0 0 221036 391120 13350 0 1532 4 0 1 77 1 213_Static 10 <ARMY RED>USN Fleet 9, Flotilla 6 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  92_Trigger 3 1 0 0 221036 391120 13350 0 1532 9 0 1 77 1 213_Static 10 <ARMY RED>USN Fleet 9, Flotilla 6 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  93_Trigger 3 1 0 0 223878 397127 13350 0 1532 4 0 1 77 1 214_Static 10 <ARMY RED>USN Fleet 9, Flotilla 7 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  94_Trigger 3 1 0 0 223878 397127 13350 0 1532 9 0 1 77 1 214_Static 10 <ARMY RED>USN Fleet 9, Flotilla 7 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  95_Trigger 3 1 0 0 203451 336735 13350 0 1532 4 0 1 75 1 215_Static 10 <ARMY RED>USN Fleet 9, Flotilla 8 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  96_Trigger 3 1 0 0 203451 336735 13350 0 1532 9 0 1 75 1 215_Static 10 <ARMY RED>USN Fleet 9, Flotilla 8 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  97_Trigger 3 1 0 0 189353 278362 13350 0 1532 4 0 1 77 1 216_Static 10 <ARMY RED>USN Fleet 9, Flotilla 9 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  98_Trigger 3 1 0 0 189353 278362 13350 0 1532 9 0 1 77 1 216_Static 10 <ARMY RED>USN Fleet 9, Flotilla 9 (Low Rel) [%GRID%] reports an enemy ship within 13.35 km.</ARMY>
+  99_Trigger 3 1 0 0 203474 539809 13350 0 1532 4 0 1 82 1 217_Static 10 <ARMY RED>USN Fleet 9, Flotilla 10 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  100_Trigger 3 1 0 0 203474 539809 13398 0 1532 9 0 1 82 1 217_Static 10 <ARMY RED>USN Fleet 9, Flotilla 10 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  101_Trigger 3 1 0 0 115073 639977 13398 0 1532 9 0 1 82 1 218_Static 10 <ARMY RED>USN Fleet 10, Flotilla 1 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  102_Trigger 3 1 0 0 459106 656482 13350 0 1532 4 0 1 82 1 219_Static 10 <ARMY RED>USN Fleet 10, Flotilla 2 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  103_Trigger 3 1 0 0 459106 656482 13398 0 1532 9 0 1 82 1 219_Static 10 <ARMY RED>USN Fleet 10, Flotilla 2 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  104_Trigger 3 1 0 0 574328 643222 13350 0 1532 4 0 1 82 1 220_Static 10 <ARMY RED>USN Fleet 10, Flotilla 3 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 13.35 km.</ARMY>
+  105_Trigger 3 1 0 0 574328 643222 13398 0 1532 9 0 1 82 1 220_Static 10 <ARMY RED>USN Fleet 10, Flotilla 3 (Low Rel) [%GRID%] reports an enemy ship within 13.40 km.</ARMY>
+  106_Trigger 3 1 0 0 290561 459296 5958 0 1532 4 0 1 77 1 221_Static 10 <ARMY RED>USN Fleet 10, Flotilla 4 (Low Rel) [%GRID%] reports an enemy aircraft/drivable at %ALTM% within 5.96 km.</ARMY>
+  107_Trigger 3 1 0 0 290561 459296 11916 0 1532 9 0 1 77 1 221_Static 10 <ARMY RED>USN Fleet 10, Flotilla 4 (Low Rel) [%GRID%] reports an enemy ship within 11.92 km.</ARMY>

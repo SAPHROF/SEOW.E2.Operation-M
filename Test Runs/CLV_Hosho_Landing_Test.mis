@@ -1,0 +1,71 @@
+[MAIN]
+  MAP dlv_Philippines/load.ini
+  TIME 12.000002
+  CloudType 0
+  CloudHeight 1000.0
+  player g0100
+  army 2
+  playerNum 3
+[SEASON]
+  Year 1940
+  Month 6
+  Day 15
+[WEATHER]
+  WindDirection 0.0
+  WindSpeed 0.0
+  Gust 0
+  Turbulence 0
+[MDS]
+  MDS_Radar_SetRadarToAdvanceMode 0
+  MDS_Radar_RefreshInterval 0
+  MDS_Radar_DisableVectoring 0
+  MDS_Radar_EnableTowerCommunications 1
+  MDS_Radar_ShipsAsRadar 0
+  MDS_Radar_ShipRadar_MaxRange 100
+  MDS_Radar_ShipRadar_MinHeight 100
+  MDS_Radar_ShipRadar_MaxHeight 5000
+  MDS_Radar_ShipSmallRadar_MaxRange 25
+  MDS_Radar_ShipSmallRadar_MinHeight 0
+  MDS_Radar_ShipSmallRadar_MaxHeight 2000
+  MDS_Radar_ScoutsAsRadar 0
+  MDS_Radar_ScoutRadar_MaxRange 2
+  MDS_Radar_ScoutRadar_DeltaHeight 1500
+  MDS_Radar_HideUnpopulatedAirstripsFromMinimap 0
+  MDS_Radar_ScoutGroundObjects_Alpha 5
+  MDS_Radar_ScoutCompleteRecon 0
+  MDS_Misc_DisableAIRadioChatter 0
+  MDS_Misc_DespawnAIPlanesAfterLanding 1
+  MDS_Misc_HidePlayersCountOnHomeBase 0
+  MDS_Misc_BombsCat1_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat2_CratersVisibilityMultiplier 1.0
+  MDS_Misc_BombsCat3_CratersVisibilityMultiplier 1.0
+[RespawnTime]
+  Bigship 1800
+  Ship 1800
+  Aeroanchored 1800
+  Artillery 1800
+  Searchlight 1800
+[Wing]
+  g0100
+[g0100]
+  Planes 4
+  Skill 1
+  Class air.D3A1
+  Fuel 100
+  weapons default
+[g0100_Way]
+  NORMFLY 606312.26 462857.29 500.00 300.00 &0
+  NORMFLY 586989.84 447728.88 500.00 300.00 &0
+  NORMFLY 583544.75 443984.23 500.00 300.00 &0
+  LANDING 576954.16 438741.71 0 0 0_Chief 0 &0
+[Chiefs]
+  0_Chief Ships.IJNCVLGeneric 2 0 0 1.0
+[0_Chief_Road]
+  573394.94 442713.84 120.00 0 2 6.94444465637207
+  521577.63 407326.41 120.00 0 2 6.94444465637207
+  516990.13 376131.06 120.00 0 2 6.94444465637207
+  556983.06 359504.81 120.00
+[NStationary]
+[Buildings]
+[Bridge]
+[House]

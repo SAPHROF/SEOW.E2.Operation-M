@@ -1,6 +1,6 @@
 ### SEOW.E2.Operation-M
 
-Scoreched Earth Online War 
+Scorched Earth Online War 
 Philippines 1941 (Eschate 2) 
 
 An alternate history campaign following the invasion of the Philippines that could have become more complicated or problematic under different, but nevertheless historically possible conditions if the United States had not abandoned the United States Army Forces in the Far East (USAFFE).
@@ -19,7 +19,7 @@ The "Through Ticket To Manila"is the grand strategy of War Plan Orange that enta
 ###  Dai-ichi dan (第一段)
 The war in the Pacific will be a long one, and Japans needs mastery of both the Western and South Pacific to stockpile natural resources after its foreign sources of supply were cut. Eviction of the American, British, and Dutch air and sea power is a must for Japan to create an outer defensive perimeter, one favorable to striking a decisive blow with both a strong combined fleet and capable land-based air force.
 
-Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain will be the first phase of operations. The Attack on Pearl Harbour while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan can continue on successfully.
+Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain will be the first phase of operations. The Attack on Pearl Harbor while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan can continue on successfully.
 
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1940_Japanese_Operations.png?raw=true)
 
@@ -40,7 +40,7 @@ United States ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readm
 ### Changes
 
 Scenery:
-+ Added Intramuros "old city" to Manilla
++ Added Intramuros "old city" to Manila
 + Added Cavite point
 
 
@@ -58,7 +58,7 @@ Industrial Installations:
 + Railway stations relocated and scenery added to put Targetable object inside buildings
 
 Airbases:
-+ Created Camiguin airfield on one of remote islands to simulate Japanese invasion of smaller islands preluding the main Philippine Invasion.
++ Created Camiguin airfield on one of remote islands to simulate Japanese invasion of smaller islands precluding the main Philippine Invasion.
  + Uses Airbase_Type 105 (name is secret_g)
 + Updated ACHS of all airfields for compatibility with Dogfight Mode SEOW
 + All land Air bases reworked with new ACHS
@@ -113,11 +113,18 @@ Additional non-1941 Airfield:
 		Kuma CL (Japanese)				All Light 
 		Zara & 									All Heavy
 
-#####Wake Island Relief Force:
+####Wake Island Relief Force:
 + Task Force 11, 14, 16 will reinforce the Philippines instead of Wake Island
 
 
-#### Limitations:
-+ B-17D playable positions are restricted to Pilot and Bombardier seats, no gunners.
+### Fixes
++ Japanese CVL Hosho (representing Ryjuo) has issue with AI landing on it, none catch the hook and fall into the water. This was caused by SEDB75 (Philippines) > Object_Specifications having for active and stationary the string ships.Ship$IJNCVLgeneric instead of ships.Ship$IJNCVLGeneric. The upper case of the letter "G" still allowed the Dserver to interpret the ship and spawn it in, but not all its functions like arrestor cables. FMB completely ignored it and did not render the object. This issue was present in SEOW.E1 and has now been resolved.
 	
++ modUtilities.strStatioanryData Error 9 bug 
+
+
+
+### Issues & Limitations:
++ B-17D playable positions are restricted to Pilot and Bombardier seats, no gunners.
+
 

@@ -17,25 +17,28 @@ The "Through Ticket To Manila"is the grand strategy of War Plan Orange that enta
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1925_Through_Ticket_Manila.png?raw=true)
 
 ###  Dai-ichi dan (第一段)
-The war in the Pacific will be a long one, and Japans needs mastery of both the Western and South Pacific to stockpile natural resources after its foreign sources of supply were cut. Eviction of the American, British, and Dutch air and sea power is a must for Japan to create an outer defensive perimeter, one favorable to striking a decisive blow with both a strong combined fleet and capable land-based air force.
+The war in the Pacific will be a long one, and Japan needs mastery of both the Western and South Pacific in order to stockpile natural resources after foreign sources of supply were cut. Eviction of the American, British, and Dutch air and sea power is vital for Japan to expand its outer defensive perimeter, one favorable to striking a decisive blow from a strong combined fleet and capable land-based air force.
 
-Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain will be the first phase of operations. The Attack on Pearl Harbor while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan can continue on successfully.
+Neutralizing Manila and Singapore, the two major Pacific strongpoints of the United States and Great Britain, will be the first phase of operations. The Attack on Pearl Harbor while secondary to the main objective, has already crippled the US fleet. Provided Japans fleet sustains no serious losses, two years at most is the time Japan will have to prepare its perimeter.
 
 ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Research/1940_Japanese_Operations.png?raw=true)
 
 ### Commander Objectives
 
 Imperial Japan  ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readme/Europe-Japan.gif?raw=true)
-+  Operation-M
+
+##### Operation-M
  + [ ] Destroy Far East Air Force Bases (less than 30% aircraft capacity on US airfields)
  + [ ] Capture Luzon in 50 days (Jan 27, 1942)
  
 
 United States ![](https://github.com/SAPHROF/SEOW.E2.Operation-M/blob/main/Readme/Europe-USA.png?raw=true)
-+ War Plan Orange (Phase II)
+##### War Plan Orange (Phase II)
  + [ ] Hold Manila or Mindanao until relief force arrives (at least 1 control point)
  + [ ] Sink Japanese Transport Fleet (80% of ships)
 
+###### Wake Island Relief Force:
++ Task Force 11, 14, 16 will reinforce the Philippines in 1942 if Manila and Mindanao hold (instead of Wake Island)
 
 ### Changes
 
@@ -46,75 +49,68 @@ Scenery:
 
 Infrastructures:
 + Bridges added (none were present in SEDB75)
-+ Roads rebuilt
++ Roads rebuilt 
 + Rails rebuilt
 + Intersections Rebuilt
-+ Rail Stations Updated Coordinates
 + Added Tuguegarao_Station
 + Relocated Manila South & North Stations
 
 Industrial Installations:
-+ Target objects added to all airfields, along with new fuel storage for airfields lacking containers
++ Fuel storage installations added to all airfields, and new scenery for those lacking them
 + Railway stations relocated and scenery added to put Targetable object inside buildings
 
 Airbases:
 + Created Camiguin airfield on one of remote islands to simulate Japanese invasion of smaller islands precluding the main Philippine Invasion.
- + Uses Airbase_Type 105 (name is secret_g)
+	+ Uses Airbase_Type 105 (name is secret_g)
 + Updated ACHS of all airfields for compatibility with Dogfight Mode SEOW
-+ All land Air bases reworked with new ACHS
-+ All Sea Bases reworked with new ACHS
-+ (All instances of Airbase 2005 have been replaced with 20051-20057, as each seabase location has varying geography which makes it impossible for one common shared airbase type)
+	+ Unique Sea Bases with all new ACHS
+	+ (All instances of Airbase 2005 have been replaced with 20051-20057, as each seabase location has varying geography which makes it impossible for one common shared airbase type)
 + Renamed Airbases in DB/MP to those used in Full Mission Builder to maintain consistency when navigating (previous name in parenthesis)
- + Iba (Palauig)
- + Nielson / Nichols (Nichols)
- + Clark (Del Carmen)
- + Porac (Dinalupihan)
- + Linguayen (Dagupan)
- + Aparri (Pamplona)
+ 	+ Iba (Palauig)
+ 	+ Nielson / Nichols (Nichols)
+ 	+ Clark (Del Carmen)
+ 	+ Porac (Dinalupihan)
+ 	+ Linguayen (Dagupan)
+ 	+ Aparri (Pamplona)
 
-#### Justifications:
+### Justifications:
 
-Additional mods?
+###### Additional mods?
 + While possible, the initial iteration of this campaign will utilize no additional client side mods, only HSFX 7.0.3 expert mode.
 
-Additional non-1941 Airfield:
+###### Additional non-1941 Airfield:
 + As not all airfields historically present in 1941 on Luzon for the Philippines map V2 by Delvpier, this is compensated with late war airfields in other locations of the map.
 
-###### Aircrafts:
-+ P-400 and P-39 (1941):
- + These are available earlier than 1942, ferried from Australia.
+#### Aircrafts:
++ P-400 and P-39 (1941): 
+
+	+ These are available in small numbers earlier than 1942, ferried from Australia.
+
 
 + Ki-43 (1941):
- + Available earlier than 1942
+
+	+ Available earlier in small numbers (historically this plane was only seen in greater numbers after 1942)
 
 + P-35s:
- + P-36s substitute P-35 aircraft due to lack of type in HSFX 7.0.3 (an additional P-35 mod exists https://www.sas1946.com/main/index.php/topic,2321.msg500714.html#msg500714, compatible with 4.12.2, Re.2000 can also substitute for P-35 as both have a very similar appearance due Italian designers using the P-35 as inspiration)
+
+	+ P-36s substitute P-35 aircraft due to lack of type in HSFX 7.0.3 (an additional P-35 mod exists https://www.sas1946.com/main/index.php/topic,2321.msg500714.html#msg500714, compatible with 4.12.2, Re.2000 can also substitute for P-35 as both have a very similar appearance due Italian designers using the P-35 as inspiration)
 
 + H6K4s:
- + H8K1s substitute the H6K4 flying boat due to lack of type in HSFX 7.0.3
+    
+	+ H8K1s substitute the H6K4 flying boat due to lack of type in HSFX 7.0.3
 
 
-###### Ships:
-+ Submarines for US side are reduced in number and limited to Gato and Greenling (No other US submarine types exist in HSFX 7.0.3. Historically there were smaller class US submarines). There is no modeling of faulty early war US torpedoes, so a reduction in sub quantity is an alternative solution:
-		USS Gato SS212                             Gato Class Sub             
-		USS Greenling SS213                     Greenling Class Sub   
+#### Ships :
 
-	Submarine models for JP side are substituted as follows:
-		IIC (German)	                         Ro-35 IJN Submarine   
-		VIIC (German)                           I-201 IJN Submarine    
-		IXB (German)                            I-361 Submarine           
-		VIIB (German)                           I-15 Submarine     
+###### Substitions & Supplements
 
-	Japanese patrol Boats & Minesweepers:
-		MBoat (German)							Minesweeper		
-		MO-4 Class MTB (Soviet)			   Patrol Boat
++ Submarines for the US side are reduced in number and limited to Gato and Greenling (No other US submarine types exist in HSFX 7.0.3. Historically there were smaller class US submarines). There is no modeling of faulty early war US torpedoes:
 
-	Japense Light & Heavy Cruisers:
-		Kuma CL (Japanese)				All Light 
-		Zara & 									All Heavy
++ Japanese Patrol boats an Minesweepers substitude with German and Soviet Types
 
-####Wake Island Relief Force:
-+ Task Force 11, 14, 16 will reinforce the Philippines instead of Wake Island
++ Japanese Cruisers Supplemented with Italian ones
+
+
 
 
 ### Fixes

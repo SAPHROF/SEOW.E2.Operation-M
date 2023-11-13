@@ -55,7 +55,7 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z11_Way]
-  TAKEOFF 390804.21 295912.69 0 0 &0
+  TAKEOFF 390809.31 295650.74 0 0 &0
 [USA_FG_035_FS_039z12]
   Planes 1
   Skill 1
@@ -63,13 +63,12 @@
   Fuel 100
   weapons default
 [USA_FG_035_FS_039z12_Way]
-  LANDING 395941.10 295870.08 0 0 &0
+  LANDING 394353.81 297049.68 0 0 &0
 [NStationary]
   0_Static vehicles.artillery.Artillery$ATG38_45mm 1 391466.14 297256.29 675.00 0.0 0 1 1
   1_Static vehicles.planes.Plane$H8K1 2 391879.03 297403.74 474.10 0.0 null 2 1.0 null 1
   2_Static vehicles.planes.Plane$H8K1 2 393437.04 297966.06 434.10 0.0 null 2 1.0 null 1
   3_Static vehicles.planes.Plane$H8K1 2 392305.14 297919.48 444.10 0.0 null 2 1.0 null 1
-  4_Static vehicles.artillery.Artillery$ATG38_45mm 1 394056.54 297503.48 465.00 0.0 0 1 1
   5_Static vehicles.artillery.Artillery$ATG38_45mm 1 394140.00 297117.74 405.00 0.0 0 1 1
   6_Static vehicles.planes.Plane$H8K1 2 392925.34 298009.69 204.10 0.0 null 2 1.0 null 1
   7_Static vehicles.planes.Plane$H8K1 2 392162.34 297945.15 419.10 0.0 null 2 1.0 null 1
@@ -86,9 +85,9 @@
   19_Static vehicles.planes.Plane$H8K1 2 391679.59 297464.54 404.10 0.0 null 2 1.0 null 1
   20_Static vehicles.artillery.Artillery$ATG38_45mm 1 392629.17 298110.64 645.00 0.0 0 1 1
   21_Static vehicles.planes.Plane$H8K1 2 392237.63 297912.06 384.10 0.0 null 2 1.0 null 1
-  22_Static vehicles.planes.Plane$H8K1 2 391574.79 297327.48 434.100 0.0 null 2 1.0 null 1
+  22_Static vehicles.planes.Plane$H8K1 2 391574.79 297327.48 434.10 0.0 null 2 1.0 null 1
   23_Static vehicles.artillery.Artillery$ATG38_45mm 1 391555.19 297722.83 510.00 0.0 0 1 1
-  24_Static vehicles.planes.Plane$H8K1 2 392057.19 298111.08 434.100 0.0 null 2 1.0 null 1
+  24_Static vehicles.planes.Plane$H8K1 2 392057.19 298111.08 434.10 0.0 null 2 1.0 null 1
   25_Static vehicles.planes.Plane$H8K1 2 391837.64 297979.48 489.10 0.0 null 2 1.0 null 1
   26_Static vehicles.planes.Plane$H8K1 2 391464.91 297499.10 324.10 0.0 null 2 1.0 null 1
   27_Static vehicles.planes.Plane$H8K1 2 391748.81 297861.06 459.10 0.0 null 2 1.0 null 1
@@ -96,7 +95,6 @@
   29_Static vehicles.planes.Plane$H8K1 2 391604.44 297185.50 299.10 0.0 null 2 1.0 null 1
   30_Static vehicles.planes.Plane$H8K1 2 391481.57 297413.34 374.10 0.0 null 2 1.0 null 1
   31_Static vehicles.planes.Plane$H8K1 2 391567.66 297531.29 359.10 0.0 null 2 1.0 null 1
-  32_Static vehicles.artillery.Artillery$ATG38_45mm 1 390735.89 295526.21 615.00 0.0 0 1 1
   17_Static vehicles.planes.Plane$H8K1 2 391955.41 298031.68 459.10 0.0 null 1 1.0 null 1
   33_Static vehicles.planes.Plane$H8K1 2 393271.60 297902.74 369.10 0.0 null 1 1.0 null 1
   34_Static vehicles.planes.Plane$H8K1 2 392589.73 297996.93 369.10 0.0 null 1 1.0 null 1
@@ -106,10 +104,14 @@
   38_Static vehicles.planes.Plane$H8K1 2 393566.56 298323.53 459.10 0.0 null 1 1.0 null 1
   39_Static vehicles.planes.Plane$H8K1 2 392331.92 298085.77 444.10 0.0 null 1 1.0 null 1
   40_Static vehicles.planes.Plane$H8K1 2 391259.77 296915.15 339.10 0.0 null 1 1.0 null 1
+  41_Static vehicles.planes.Plane$H8K1 2 392058.23 298246.91 479.10 0.0 null 1 1.0 null 1
+  42_Static vehicles.planes.Plane$H8K1 2 391936.52 298303.34 419.10 0.0 null 1 1.0 null 1
+  43_Static vehicles.planes.Plane$H8K1 2 393124.44 297911.33 444.10 0.0 null 1 1.0 null 1
+  44_Static vehicles.planes.Plane$H8K1 2 393922.17 297422.17 489.10 0.0 null 1 1.0 null 1
 [Buildings]
-  4_bld House$IndustrialFactoryTank1 1 391354.74 297940.35 519.10
-  5_bld House$IndustrialFactoryTank1 1 392200.70 298407.25 519.10
-  6_bld House$IndustrialFactoryTank1 1 391056.75 297048.48 510.00
-  7_bld House$IndustrialFactoryTank1 1 391050.09 297006.56 510.00
+  0_bld House$IndustrialFactoryTank1 1 391354.74 297940.35 519.10
+  1_bld House$IndustrialFactoryTank1 1 392200.70 298407.25 519.10
+  2_bld House$IndustrialFactoryTank1 1 391056.75 297048.48 510.00
+  3_bld House$IndustrialFactoryTank1 1 391050.09 297006.56 510.00
 [Bridge]
 [House]
